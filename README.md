@@ -46,15 +46,3 @@ Together that is **147,524 files, about 978 MB uncompressed** (roughly 263 MB in
 Only the reproducible, non-sensitive pieces are archived: `analyze_native.py`, `decrypt_config.py`, `dump_native.py`, `log_flows.py`, `resolve_native.py`, `assemble_report.ps1`, `apktool.bat`, `all_urls.txt` (master URL extract), plus `apktool.log` and `jadx.log`.
 
 The work was produced with JADX 1.5.7 (full decompilation), apktool 3.0.3 (resource decode), and REA 6.7.0 with `jadx-headless-mcp 0.7.1` for call-graph-backed analysis.
-
----
-
-## What is intentionally *not* here
-
-The `.gitignore` records these exclusions so they cannot be committed by accident:
-
-- **The APK itself** (`1xbet.apk`) and a duplicate top-level `FINAL_REPORT.md`.
-- **Device screenshots** — `_tools/screens*` and `reports/device_*.png`. These were captured on a personal device and are not evidence.
-- **MITM captures** (`cap*.mitm`) and **certificates / private keys** (`certs/`, `newca/`, `mitm*.crt`, `signer_*.der`).
-- **Tool binaries, archives, SDK folders** (JARs, ZIPs, `bin/`, `lib/`, `platform-tools/`, `pt35/`, `__pycache__/`) and the tool README/licence files.
-- `decompiled/resources/` — the decoded resources are already preserved under `apktool_out/`.
