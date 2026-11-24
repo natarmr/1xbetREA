@@ -1,0 +1,67 @@
+package a;
+
+import android.gov.nist.core.Separators;
+import java.util.List;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: loaded from: classes4.dex */
+@ahi0
+public final class rru0 {
+    public static final qru0 Companion = new qru0();
+    public static final a8z[] e = {null, null, null, maz.a(wez.f39042a, new o1u0(19))};
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final Integer f31003a;
+    public final String b;
+    public final String c;
+    public final List d;
+
+    public /* synthetic */ rru0(int i, Integer num, String str, String str2, List list) {
+        if ((i & 1) == 0) {
+            this.f31003a = null;
+        } else {
+            this.f31003a = num;
+        }
+        if ((i & 2) == 0) {
+            this.b = null;
+        } else {
+            this.b = str;
+        }
+        if ((i & 4) == 0) {
+            this.c = null;
+        } else {
+            this.c = str2;
+        }
+        if ((i & 8) == 0) {
+            this.d = null;
+        } else {
+            this.d = list;
+        }
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof rru0)) {
+            return false;
+        }
+        rru0 rru0Var = (rru0) obj;
+        return Intrinsics.d(this.f31003a, rru0Var.f31003a) && Intrinsics.d(this.b, rru0Var.b) && Intrinsics.d(this.c, rru0Var.c) && Intrinsics.d(this.d, rru0Var.d);
+    }
+
+    public final int hashCode() {
+        Integer num = this.f31003a;
+        int iHashCode = (num == null ? 0 : num.hashCode()) * 31;
+        String str = this.b;
+        int iHashCode2 = (iHashCode + (str == null ? 0 : str.hashCode())) * 31;
+        String str2 = this.c;
+        int iHashCode3 = (iHashCode2 + (str2 == null ? 0 : str2.hashCode())) * 31;
+        List list = this.d;
+        return iHashCode3 + (list != null ? list.hashCode() : 0);
+    }
+
+    public final String toString() {
+        return rw2.m(this.c, ", sports=", Separators.RPAREN, h97.n(this.f31003a, "VirtualGamesCategoryResponse(sportCategoryId=", ", sportCategoryName=", this.b, ", sportCategoryNameEng="), this.d);
+    }
+}
