@@ -1,0 +1,141 @@
+package a;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class bwi implements p0h0 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ psi f3326a;
+
+    public bwi(psi psiVar) {
+        this.f3326a = psiVar;
+    }
+
+    @Override // a.p0h0
+    public final diu0 a(vzg0 vzg0Var) {
+        cwi cwiVar = (cwi) this.f3326a.c;
+        nlu nluVarB = cwiVar.b();
+        db dbVar = cwiVar.f5081a;
+        pru pruVar = (pru) dbVar.d;
+        duj dujVar = (duj) dbVar.k;
+        ouu ouuVar = (ouu) dbVar.n;
+        iqt iqtVar = (iqt) dbVar.f;
+        gxu gxuVarN = cwiVar.c.n();
+        x1x.x(gxuVarN);
+        rou rouVar = (rou) dbVar.m;
+        vqc vqcVar = (vqc) dbVar.o;
+        ls lsVarB = ((dbi) cwiVar.i.f3330a).b();
+        iip iipVar = cwiVar.j;
+        vjp vjpVarS = iipVar.S();
+        x1x.x(vjpVarS);
+        vqc vqcVarI = cwiVar.k.i();
+        ok50 ok50Var = cwiVar.e;
+        peg0 peg0VarB = ((nc0) ok50Var.f25390a).b();
+        oct octVarC = cwiVar.l.c();
+        x1x.x(octVarC);
+        g9m0 g9m0Var = new g9m0();
+        jh70 jh70VarD = cwiVar.m.d();
+        mi70 mi70Var = (mi70) dbVar.z;
+        uf3 uf3Var = (uf3) dbVar.l;
+        kt2 kt2Var = (kt2) dbVar.r;
+        x1x.y(kt2Var);
+        ag3 ag3Var = new ag3(kt2Var, (byte) 4);
+        y3v y3vVar = cwiVar.n;
+        std stdVar = new std();
+        gst0 gst0Var = (gst0) dbVar.v;
+        x1x.y(gst0Var);
+        k9c k9cVar = new k9c(new ort(gst0Var, (byte) 3));
+        gle0 gle0Var = new gle0();
+        ctf0 ctf0Var = (ctf0) dbVar.c;
+        x1x.y(ctf0Var);
+        mne mneVar = (mne) dbVar.b;
+        i1w0 i1w0Var = cwiVar.o;
+        kt2 kt2Var2 = (kt2) dbVar.r;
+        x1x.y(kt2Var2);
+        b4j b4jVar = new b4j(kt2Var2, (byte) 4);
+        kt2 kt2Var3 = (kt2) dbVar.r;
+        x1x.y(kt2Var3);
+        hs60 hs60Var = new hs60(kt2Var3);
+        d1p d1pVar = cwiVar.p;
+        ix0 ix0VarG = d1pVar.g();
+        gw60 gw60VarP0 = d1pVar.P0();
+        gg5 gg5VarV = d1pVar.V();
+        lk5 lk5Var = (lk5) dbVar.s;
+        rqt rqtVar = new rqt();
+        kj5 kj5Var = (kj5) dbVar.t;
+        org.xplatform.toto_bet.core.navigation.a aVar = (org.xplatform.toto_bet.core.navigation.a) dbVar.u;
+        wsf0 wsf0Var = cwiVar.b;
+        xex xexVarG = ((g45) wsf0Var.b).g();
+        m6m0 m6m0VarK = iipVar.k();
+        r9u r9uVar = (r9u) dbVar.P;
+        x1x.y(r9uVar);
+        xr xrVar = (xr) dbVar.w;
+        pek pekVar = (pek) dbVar.x;
+        uzc0 uzc0Var = (uzc0) dbVar.y;
+        r040 r040Var = cwiVar.q;
+        gst0 gst0Var2 = (gst0) dbVar.v;
+        x1x.y(gst0Var2);
+        q7d0 q7d0Var = (q7d0) dbVar.B;
+        x1x.y(q7d0Var);
+        vby vbyVar = (vby) dbVar.C;
+        x1x.y(vbyVar);
+        lbu lbuVar = new lbu(gst0Var2, new pv00(new cyu(vbyVar, q7d0Var)));
+        q7d0 q7d0Var2 = (q7d0) dbVar.B;
+        x1x.y(q7d0Var2);
+        vby vbyVar2 = (vby) dbVar.C;
+        x1x.y(vbyVar2);
+        prc prcVar = new prc((Object) new pv00(new cyu(vbyVar2, q7d0Var2)), (byte) 26);
+        iw20 iw20VarX = ((gbi) cwiVar.h.f19899a).x();
+        s2m0 s2m0Var = cwiVar.r;
+        lme0 lme0Var = new lme0((byte) 7);
+        xak xakVar = (xak) dbVar.D;
+        kl5 kl5Var = cwiVar.s;
+        ouu ouuVar2 = (ouu) dbVar.E;
+        jdk0 jdk0Var = new jdk0();
+        ahu ahuVarY = ((g45) wsf0Var.b).y();
+        lhf0 lhf0VarA = ((nc0) ok50Var.f25390a).a();
+        j1q0 j1q0Var = (j1q0) dbVar.A;
+        x1x.y(j1q0Var);
+        u8u u8uVar = new u8u(lhf0VarA, j1q0Var);
+        z7z z7zVarA = mbl.a(cwiVar.y);
+        z7z z7zVarA2 = mbl.a(cwiVar.z);
+        ys70 ys70Var = (ys70) dbVar.F;
+        x1x.y(ys70Var);
+        gr70 gr70Var = cwiVar.f;
+        hqx hqxVarN = gr70Var.n();
+        x1x.x(hqxVarN);
+        pzt pztVarQ = gr70Var.q();
+        x1x.x(pztVarQ);
+        kt2 kt2Var4 = (kt2) dbVar.r;
+        x1x.y(kt2Var4);
+        b4j b4jVar2 = new b4j(kt2Var4, (byte) 0);
+        je jeVarT = d1pVar.T();
+        qho qhoVar = cwiVar.v;
+        o3c o3cVar = (o3c) dbVar.M;
+        yoc yocVar = (yoc) dbVar.J;
+        yoc yocVar2 = (yoc) dbVar.K;
+        ieu ieuVar = (ieu) dbVar.j;
+        pau pauVarA = cwiVar.a();
+        n4u n4uVar = (n4u) dbVar.I;
+        jqc jqcVar = (jqc) dbVar.H;
+        m4i0 m4i0Var = (m4i0) dbVar.L;
+        x1x.y(m4i0Var);
+        roi0 roi0Var = new roi0(new o470(m4i0Var));
+        atz atzVar = new atz();
+        r2u r2uVar = cwiVar.w;
+        rpt rptVar = (rpt) dbVar.N;
+        yfu yfuVar = (yfu) dbVar.O;
+        yox yoxVarC = ((h6i) cwiVar.x.f24171a).c();
+        bzs0 bzs0Var = new bzs0((byte) 12);
+        lbu lbuVar2 = (lbu) dbVar.Q;
+        nhf0 nhf0Var = (nhf0) dbVar.R;
+        gst0 gst0Var3 = (gst0) dbVar.v;
+        x1x.y(gst0Var3);
+        kc60 kc60Var = new kc60(gst0Var3);
+        kys0 kys0Var = (kys0) dbVar.S;
+        n4u n4uVar2 = (n4u) dbVar.V;
+        pru pruVar2 = (pru) dbVar.d;
+        r9u r9uVar2 = (r9u) dbVar.P;
+        x1x.y(r9uVar2);
+        return new fho0(nluVarB, pruVar, dujVar, ouuVar, iqtVar, gxuVarN, rouVar, vqcVar, lsVarB, vjpVarS, vqcVarI, peg0VarB, octVarC, g9m0Var, jh70VarD, mi70Var, uf3Var, ag3Var, y3vVar, stdVar, k9cVar, gle0Var, ctf0Var, mneVar, i1w0Var, b4jVar, hs60Var, ix0VarG, gw60VarP0, gg5VarV, lk5Var, rqtVar, kj5Var, aVar, xexVarG, m6m0VarK, r9uVar, xrVar, pekVar, uzc0Var, r040Var, lbuVar, prcVar, iw20VarX, s2m0Var, lme0Var, xakVar, kl5Var, ouuVar2, jdk0Var, ahuVarY, u8uVar, vzg0Var, z7zVarA, z7zVarA2, ys70Var, hqxVarN, pztVarQ, b4jVar2, jeVarT, qhoVar, o3cVar, yocVar, yocVar2, ieuVar, pauVarA, n4uVar, jqcVar, roi0Var, atzVar, r2uVar, rptVar, yfuVar, yoxVarC, bzs0Var, lbuVar2, nhf0Var, kc60Var, kys0Var, new cyu(n4uVar2, pruVar2, r9uVar2), (lk5) dbVar.T, (eke0) dbVar.U);
+    }
+}

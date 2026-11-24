@@ -1,0 +1,22 @@
+package a;
+
+/* JADX INFO: loaded from: classes4.dex */
+public final class c360 extends zje {
+    public h6i i;
+    public /* synthetic */ Object j;
+    public final /* synthetic */ v360 k;
+    public int l;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public c360(v360 v360Var, zje zjeVar) {
+        super(zjeVar);
+        this.k = v360Var;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.j = obj;
+        this.l |= Integer.MIN_VALUE;
+        return this.k.Z(this);
+    }
+}
