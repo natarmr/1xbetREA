@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="?uikitBackgroundGroup" android:layout_width="@dimen/size_130" android:layout_height="@dimen/size_50"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?textAppearanceSubtitle1MediumNew" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/tvName" android:paddingLeft="@dimen/space_8" android:paddingRight="@dimen/space_8" android:layout_width="@dimen/size_130" android:layout_height="wrap_content" android:text="@string/name_title" android:maxLines="2" android:textDirection="ltr" android:paddingHorizontal="@dimen/space_8" />
+</FrameLayout>

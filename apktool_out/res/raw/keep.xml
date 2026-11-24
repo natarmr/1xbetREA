@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <keep tools:keep="bool/af_feature_huawei_referrer_present"/>
+</resources>
