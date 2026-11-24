@@ -1,0 +1,54 @@
+.class public final La/l1u;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# instance fields
+.field public final a:La/pmi;
+
+
+# direct methods
+.method public constructor <init>(La/pmi;)V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 2
+    .line 3
+    .line 4
+    iput-object p1, p0, La/l1u;->a:La/pmi;
+
+    .line 5
+    .line 6
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()D
+    .locals 2
+
+    .line 1
+    iget-object p0, p0, La/l1u;->a:La/pmi;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, La/pmi;->e:Ljava/lang/Object;
+
+    .line 4
+    .line 5
+    check-cast p0, La/j5t;
+
+    .line 6
+    .line 7
+    iget-object p0, p0, La/j5t;->k:La/dqr;
+
+    .line 8
+    .line 9
+    iget-wide v0, p0, La/dqr;->a:D
+
+    .line 10
+    .line 11
+    return-wide v0
+.end method
