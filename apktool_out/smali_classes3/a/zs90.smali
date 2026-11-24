@@ -1,0 +1,50 @@
+.class public final La/zs90;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements La/ze3;
+
+
+# instance fields
+.field public final a:La/nr00;
+
+.field public final b:La/ii;
+
+.field public final c:La/ctf0;
+
+
+# direct methods
+.method public constructor <init>(La/nr00;La/ii;La/ctf0;)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p2}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    invoke-virtual {p3}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 5
+    .line 6
+    .line 7
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 8
+    .line 9
+    .line 10
+    iput-object p1, p0, La/zs90;->a:La/nr00;
+
+    .line 11
+    .line 12
+    iput-object p2, p0, La/zs90;->b:La/ii;
+
+    .line 13
+    .line 14
+    iput-object p3, p0, La/zs90;->c:La/ctf0;
+
+    .line 15
+    .line 16
+    return-void
+.end method
