@@ -1,0 +1,1028 @@
+.class public final La/q4n0;
+.super Landroid/widget/FrameLayout;
+.source "SourceFile"
+
+
+# instance fields
+.field public final a:I
+
+.field public final b:La/ssq0;
+
+.field public final c:Landroid/widget/TextView;
+
+.field public final d:Landroid/widget/FrameLayout;
+
+
+# direct methods
+.method public constructor <init>(Landroid/content/Context;)V
+    .locals 4
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    const/4 v0, 0x0
+
+    .line 5
+    const/4 v1, 0x0
+
+    .line 6
+    invoke-direct {p0, p1, v0, v1}, Landroid/widget/FrameLayout;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+
+    .line 7
+    .line 8
+    .line 9
+    invoke-virtual {p0}, Landroid/view/View;->getResources()Landroid/content/res/Resources;
+
+    .line 10
+    .line 11
+    .line 12
+    move-result-object v0
+
+    .line 13
+    const v1, 0x7f070705
+
+    .line 14
+    .line 15
+    .line 16
+    invoke-virtual {v0, v1}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
+
+    .line 17
+    .line 18
+    .line 19
+    move-result v0
+
+    .line 20
+    iput v0, p0, La/q4n0;->a:I
+
+    .line 21
+    .line 22
+    new-instance v0, La/ssq0;
+
+    .line 23
+    .line 24
+    invoke-direct {v0, p1}, La/ssq0;-><init>(Landroid/content/Context;)V
+
+    .line 25
+    .line 26
+    .line 27
+    invoke-static {}, La/jmu0;->d()I
+
+    .line 28
+    .line 29
+    .line 30
+    move-result v1
+
+    .line 31
+    invoke-virtual {v0, v1}, Landroid/view/View;->setId(I)V
+
+    .line 32
+    .line 33
+    .line 34
+    iput-object v0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 35
+    .line 36
+    new-instance v1, Landroid/widget/TextView;
+
+    .line 37
+    .line 38
+    invoke-direct {v1, p1}, Landroid/widget/TextView;-><init>(Landroid/content/Context;)V
+
+    .line 39
+    .line 40
+    .line 41
+    invoke-static {}, La/jmu0;->d()I
+
+    .line 42
+    .line 43
+    .line 44
+    move-result v2
+
+    .line 45
+    invoke-virtual {v1, v2}, Landroid/view/View;->setId(I)V
+
+    .line 46
+    .line 47
+    .line 48
+    new-instance v2, Landroid/widget/FrameLayout$LayoutParams;
+
+    .line 49
+    .line 50
+    const/4 v3, -0x2
+
+    .line 51
+    invoke-direct {v2, v3, v3}, Landroid/widget/FrameLayout$LayoutParams;-><init>(II)V
+
+    .line 52
+    .line 53
+    .line 54
+    invoke-virtual {v1, v2}, Landroid/view/View;->setLayoutParams(Landroid/view/ViewGroup$LayoutParams;)V
+
+    .line 55
+    .line 56
+    .line 57
+    const v2, 0x7f14046d
+
+    .line 58
+    .line 59
+    .line 60
+    invoke-static {v2, v1}, La/cem0;->n(ILandroid/widget/TextView;)V
+
+    .line 61
+    .line 62
+    .line 63
+    const v2, 0x7f040b0b
+
+    .line 64
+    .line 65
+    .line 66
+    invoke-static {v2, p1}, La/m5d;->b(ILandroid/content/Context;)I
+
+    .line 67
+    .line 68
+    .line 69
+    move-result v2
+
+    .line 70
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setTextColor(I)V
+
+    .line 71
+    .line 72
+    .line 73
+    const/4 v2, 0x1
+
+    .line 74
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setMaxLines(I)V
+
+    .line 75
+    .line 76
+    .line 77
+    sget-object v2, Landroid/text/TextUtils$TruncateAt;->END:Landroid/text/TextUtils$TruncateAt;
+
+    .line 78
+    .line 79
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setEllipsize(Landroid/text/TextUtils$TruncateAt;)V
+
+    .line 80
+    .line 81
+    .line 82
+    const/16 v2, 0x11
+
+    .line 83
+    .line 84
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setGravity(I)V
+
+    .line 85
+    .line 86
+    .line 87
+    const/high16 v2, 0x41400000    # 12.0f
+
+    .line 88
+    .line 89
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setTextSize(F)V
+
+    .line 90
+    .line 91
+    .line 92
+    iput-object v1, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 93
+    .line 94
+    new-instance v2, Landroid/widget/FrameLayout;
+
+    .line 95
+    .line 96
+    invoke-direct {v2, p1}, Landroid/widget/FrameLayout;-><init>(Landroid/content/Context;)V
+
+    .line 97
+    .line 98
+    .line 99
+    invoke-static {}, La/jmu0;->d()I
+
+    .line 100
+    .line 101
+    .line 102
+    move-result p1
+
+    .line 103
+    invoke-virtual {v2, p1}, Landroid/view/View;->setId(I)V
+
+    .line 104
+    .line 105
+    .line 106
+    iput-object v2, p0, La/q4n0;->d:Landroid/widget/FrameLayout;
+
+    .line 107
+    .line 108
+    invoke-virtual {p0, v1}, Landroid/view/ViewGroup;->addView(Landroid/view/View;)V
+
+    .line 109
+    .line 110
+    .line 111
+    invoke-virtual {p0, v2}, Landroid/view/ViewGroup;->addView(Landroid/view/View;)V
+
+    .line 112
+    .line 113
+    .line 114
+    invoke-virtual {p0, v0}, Landroid/view/ViewGroup;->addView(Landroid/view/View;)V
+
+    .line 115
+    .line 116
+    .line 117
+    return-void
+.end method
+
+
+# virtual methods
+.method public final getChevronVisibility()Z
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0}, La/ssq0;->getChevronVisibility()Z
+
+    .line 4
+    .line 5
+    .line 6
+    move-result p0
+
+    .line 7
+    return p0
+.end method
+
+.method public final getSubTitle()Ljava/lang/CharSequence;
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0}, Landroid/widget/TextView;->getText()Ljava/lang/CharSequence;
+
+    .line 4
+    .line 5
+    .line 6
+    move-result-object p0
+
+    .line 7
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 8
+    .line 9
+    .line 10
+    return-object p0
+.end method
+
+.method public final getTitle()Ljava/lang/CharSequence;
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0}, La/ssq0;->getTitle()Ljava/lang/CharSequence;
+
+    .line 4
+    .line 5
+    .line 6
+    move-result-object p0
+
+    .line 7
+    return-object p0
+.end method
+
+.method public final getTitleCurrentColor()I
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0}, La/ssq0;->getCurrentTextColor()I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result p0
+
+    .line 7
+    return p0
+.end method
+
+.method public final onLayout(ZIIII)V
+    .locals 8
+
+    .line 1
+    invoke-virtual {p0}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 2
+    .line 3
+    .line 4
+    move-result v0
+
+    .line 5
+    iget-object v6, p0, La/q4n0;->b:La/ssq0;
+
+    .line 6
+    .line 7
+    invoke-virtual {v6}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 8
+    .line 9
+    .line 10
+    move-result v1
+
+    .line 11
+    sub-int/2addr v0, v1
+
+    .line 12
+    div-int/lit8 v0, v0, 0x2
+
+    .line 13
+    .line 14
+    invoke-virtual {v6}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 15
+    .line 16
+    .line 17
+    move-result v1
+
+    .line 18
+    add-int v2, v1, v0
+
+    .line 19
+    .line 20
+    invoke-virtual {v6}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 21
+    .line 22
+    .line 23
+    move-result v3
+
+    .line 24
+    iget-object v4, p0, La/q4n0;->b:La/ssq0;
+
+    .line 25
+    .line 26
+    const/4 v1, 0x0
+
+    .line 27
+    move-object v5, p0
+
+    .line 28
+    invoke-static/range {v0 .. v5}, La/jmu0;->f(IIIILandroid/view/View;Landroid/view/ViewGroup;)V
+
+    .line 29
+    .line 30
+    .line 31
+    invoke-virtual {p0}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 32
+    .line 33
+    .line 34
+    move-result v2
+
+    .line 35
+    invoke-virtual {v6}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 36
+    .line 37
+    .line 38
+    move-result v1
+
+    .line 39
+    iget v7, p0, La/q4n0;->a:I
+
+    .line 40
+    .line 41
+    add-int v3, v1, v7
+
+    .line 42
+    .line 43
+    iget-object v4, p0, La/q4n0;->d:Landroid/widget/FrameLayout;
+
+    .line 44
+    .line 45
+    const/4 v0, 0x0
+
+    .line 46
+    invoke-static/range {v0 .. v5}, La/jmu0;->f(IIIILandroid/view/View;Landroid/view/ViewGroup;)V
+
+    .line 47
+    .line 48
+    .line 49
+    invoke-virtual {p0}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 50
+    .line 51
+    .line 52
+    move-result v0
+
+    .line 53
+    iget-object v4, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 54
+    .line 55
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 56
+    .line 57
+    .line 58
+    move-result v1
+
+    .line 59
+    sub-int/2addr v0, v1
+
+    .line 60
+    div-int/lit8 v0, v0, 0x2
+
+    .line 61
+    .line 62
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 63
+    .line 64
+    .line 65
+    move-result v1
+
+    .line 66
+    add-int v2, v1, v0
+
+    .line 67
+    .line 68
+    invoke-virtual {v6}, Landroid/view/View;->getBottom()I
+
+    .line 69
+    .line 70
+    .line 71
+    move-result v1
+
+    .line 72
+    add-int/2addr v1, v7
+
+    .line 73
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 74
+    .line 75
+    .line 76
+    move-result v3
+
+    .line 77
+    add-int/2addr v3, v1
+
+    .line 78
+    invoke-static/range {v0 .. v5}, La/jmu0;->f(IIIILandroid/view/View;Landroid/view/ViewGroup;)V
+
+    .line 79
+    .line 80
+    .line 81
+    return-void
+.end method
+
+.method public final onMeasure(II)V
+    .locals 5
+
+    .line 1
+    invoke-static {p1}, Landroid/view/View$MeasureSpec;->getSize(I)I
+
+    .line 2
+    .line 3
+    .line 4
+    move-result p2
+
+    .line 5
+    iget-object v0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 6
+    .line 7
+    invoke-virtual {v0}, La/ssq0;->getDesiredTitleTextHeight()I
+
+    .line 8
+    .line 9
+    .line 10
+    move-result v1
+
+    .line 11
+    iget v2, p0, La/q4n0;->a:I
+
+    .line 12
+    .line 13
+    add-int/2addr v1, v2
+
+    .line 14
+    const/high16 v3, 0x40000000    # 2.0f
+
+    .line 15
+    .line 16
+    invoke-static {p1, v3}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 17
+    .line 18
+    .line 19
+    move-result v4
+
+    .line 20
+    invoke-static {v1, v3}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 21
+    .line 22
+    .line 23
+    move-result v1
+
+    .line 24
+    invoke-virtual {v0, v4, v1}, Landroid/view/View;->measure(II)V
+
+    .line 25
+    .line 26
+    .line 27
+    invoke-static {p2}, Landroid/view/View$MeasureSpec;->getSize(I)I
+
+    .line 28
+    .line 29
+    .line 30
+    move-result p2
+
+    .line 31
+    const/high16 v1, -0x80000000
+
+    .line 32
+    .line 33
+    invoke-static {p2, v1}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 34
+    .line 35
+    .line 36
+    move-result p2
+
+    .line 37
+    const/4 v1, 0x0
+
+    .line 38
+    invoke-static {v1, v1}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 39
+    .line 40
+    .line 41
+    move-result v1
+
+    .line 42
+    iget-object v4, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 43
+    .line 44
+    invoke-virtual {v4, p2, v1}, Landroid/view/View;->measure(II)V
+
+    .line 45
+    .line 46
+    .line 47
+    invoke-static {p1, v3}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 48
+    .line 49
+    .line 50
+    move-result p1
+
+    .line 51
+    invoke-static {v2, v3}, Landroid/view/View$MeasureSpec;->makeMeasureSpec(II)I
+
+    .line 52
+    .line 53
+    .line 54
+    move-result p2
+
+    .line 55
+    iget-object v1, p0, La/q4n0;->d:Landroid/widget/FrameLayout;
+
+    .line 56
+    .line 57
+    invoke-virtual {v1, p1, p2}, Landroid/view/View;->measure(II)V
+
+    .line 58
+    .line 59
+    .line 60
+    invoke-virtual {v0}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 61
+    .line 62
+    .line 63
+    move-result p1
+
+    .line 64
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredWidth()I
+
+    .line 65
+    .line 66
+    .line 67
+    move-result p2
+
+    .line 68
+    invoke-static {p1, p2}, Ljava/lang/Math;->max(II)I
+
+    .line 69
+    .line 70
+    .line 71
+    move-result p1
+
+    .line 72
+    invoke-virtual {v0}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 73
+    .line 74
+    .line 75
+    move-result p2
+
+    .line 76
+    add-int/2addr p2, v2
+
+    .line 77
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 78
+    .line 79
+    .line 80
+    move-result v0
+
+    .line 81
+    add-int/2addr v0, p2
+
+    .line 82
+    invoke-virtual {p0, p1, v0}, Landroid/view/View;->setMeasuredDimension(II)V
+
+    .line 83
+    .line 84
+    .line 85
+    return-void
+.end method
+
+.method public final setChevronColor(I)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setChevronColor(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setChevronColor(Landroid/content/res/ColorStateList;)V
+    .locals 0
+
+    .line 7
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    invoke-virtual {p0, p1}, La/ssq0;->setChevronColor(Landroid/content/res/ColorStateList;)V
+
+    return-void
+.end method
+
+.method public final setChevronVisibility(Z)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setChevronVisibility(Z)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setMaxLines(I)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setMaxLines(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setOnTitlesClickListener(Lkotlin/jvm/functions/Function0;)V
+    .locals 2
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Lkotlin/jvm/functions/Function0<",
+            "Lkotlin/Unit;",
+            ">;)V"
+        }
+    .end annotation
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    new-instance v0, La/xhl0;
+
+    .line 5
+    .line 6
+    const/4 v1, 0x7
+
+    .line 7
+    invoke-direct {v0, p1, v1}, La/xhl0;-><init>(Lkotlin/jvm/functions/Function0;B)V
+
+    .line 8
+    .line 9
+    .line 10
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 11
+    .line 12
+    invoke-virtual {p0, v0}, La/ssq0;->setOnTitlesClickListener(Lkotlin/jvm/functions/Function0;)V
+
+    .line 13
+    .line 14
+    .line 15
+    return-void
+.end method
+
+.method public final setSubTitle(Ljava/lang/CharSequence;)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object p0, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method
+
+.method public final setSubTitleColor(I)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, Landroid/widget/TextView;->setTextColor(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setSubTitleVisible(Z)V
+    .locals 0
+
+    .line 1
+    if-eqz p1, :cond_0
+
+    .line 2
+    .line 3
+    const/4 p1, 0x0
+
+    .line 4
+    goto :goto_0
+
+    .line 5
+    :cond_0
+    const/16 p1, 0x8
+
+    .line 6
+    .line 7
+    :goto_0
+    iget-object p0, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 8
+    .line 9
+    invoke-virtual {p0, p1}, Landroid/view/View;->setVisibility(I)V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+.end method
+
+.method public final setSubtitleVisible(Z)V
+    .locals 0
+
+    .line 1
+    if-eqz p1, :cond_0
+
+    .line 2
+    .line 3
+    const/4 p1, 0x0
+
+    .line 4
+    goto :goto_0
+
+    .line 5
+    :cond_0
+    const/16 p1, 0x8
+
+    .line 6
+    .line 7
+    :goto_0
+    iget-object p0, p0, La/q4n0;->c:Landroid/widget/TextView;
+
+    .line 8
+    .line 9
+    invoke-virtual {p0, p1}, Landroid/view/View;->setVisibility(I)V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+.end method
+
+.method public final setTitle(Ljava/lang/CharSequence;)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1}, La/ssq0;->setTitle(Ljava/lang/CharSequence;)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method
+
+.method public final setTitleAlpha(F)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setTitleAlpha(F)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setTitleScale(F)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setTitleScale(F)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setTitleText(Ljava/lang/CharSequence;)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1}, La/ssq0;->setTitle(Ljava/lang/CharSequence;)V
+
+    .line 7
+    .line 8
+    .line 9
+    const/4 p1, 0x1
+
+    .line 10
+    invoke-virtual {p0, p1}, La/ssq0;->setMaxLines(I)V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final setTitleTextColor(I)V
+    .locals 0
+
+    .line 10
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    invoke-virtual {p0, p1}, La/ssq0;->setTextColor(I)V
+
+    return-void
+.end method
+
+.method public final setTitleTextColor(Landroid/content/res/ColorStateList;)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1}, La/ssq0;->setTextColor(Landroid/content/res/ColorStateList;)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method
+
+.method public final setTitleTranslationY(F)V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, La/ssq0;->setTitleTranslationY(F)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final setTitleVisible(Z)V
+    .locals 0
+
+    .line 1
+    if-eqz p1, :cond_0
+
+    .line 2
+    .line 3
+    const/4 p1, 0x0
+
+    .line 4
+    goto :goto_0
+
+    .line 5
+    :cond_0
+    const/16 p1, 0x8
+
+    .line 6
+    .line 7
+    :goto_0
+    iget-object p0, p0, La/q4n0;->b:La/ssq0;
+
+    .line 8
+    .line 9
+    invoke-virtual {p0, p1}, Landroid/view/View;->setVisibility(I)V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+.end method
