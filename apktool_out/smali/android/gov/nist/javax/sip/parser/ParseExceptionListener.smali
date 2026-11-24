@@ -1,0 +1,8 @@
+.class public interface abstract Landroid/gov/nist/javax/sip/parser/ParseExceptionListener;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public abstract handleException(Ljava/text/ParseException;Landroid/gov/nist/javax/sip/message/SIPMessage;Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;)V
+.end method

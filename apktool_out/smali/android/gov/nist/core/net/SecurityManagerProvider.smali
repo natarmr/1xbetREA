@@ -1,0 +1,14 @@
+.class public interface abstract Landroid/gov/nist/core/net/SecurityManagerProvider;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public abstract getKeyManagers(Z)[Ljavax/net/ssl/KeyManager;
+.end method
+
+.method public abstract getTrustManagers(Z)[Ljavax/net/ssl/TrustManager;
+.end method
+
+.method public abstract init(Ljava/util/Properties;)V
+.end method
