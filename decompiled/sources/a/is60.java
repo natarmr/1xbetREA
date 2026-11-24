@@ -1,0 +1,40 @@
+package a;
+
+import java.util.List;
+import kotlin.Metadata;
+
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u0000V\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0010\u000e\n\u0000\n\u0002\u0010\b\n\u0002\b\u0006\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010 \n\u0002\u0010\t\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0002\b\u0003\bf\u0018\u00002\u00020\u0001Jd\u0010\r\u001a\b\u0012\u0004\u0012\u00020\f0\u000b2\n\b\u0001\u0010\u0003\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u0004H§@¢\u0006\u0004\b\r\u0010\u000eJn\u0010\u0014\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u00130\u000f0\u000b2\u000e\b\u0001\u0010\u0011\u001a\b\u0012\u0004\u0012\u00020\u00100\u000f2\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0012\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u0004H§@¢\u0006\u0004\b\u0014\u0010\u0015Jd\u0010\u0017\u001a\b\u0012\u0004\u0012\u00020\u00160\u000b2\n\b\u0001\u0010\u0003\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u0004H§@¢\u0006\u0004\b\u0017\u0010\u000eJn\u0010\u001a\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u00190\u000f0\u000b2\u000e\b\u0001\u0010\u0018\u001a\b\u0012\u0004\u0012\u00020\u00040\u000f2\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u0004H§@¢\u0006\u0004\b\u001a\u0010\u0015Jd\u0010\u001b\u001a\b\u0012\u0004\u0012\u00020\f0\u000b2\n\b\u0001\u0010\u0003\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u0004H§@¢\u0006\u0004\b\u001b\u0010\u000eJn\u0010\u001e\u001a\b\u0012\u0004\u0012\u00020\f0\u000b2\n\b\u0001\u0010\u0003\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\u001d\u001a\u00020\u001cH§@¢\u0006\u0004\b\u001e\u0010\u001fJb\u0010 \u001a\b\u0012\u0004\u0012\u00020\f0\u000b2\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\u001d\u001a\u00020\u001cH§@¢\u0006\u0004\b \u0010!Jn\u0010#\u001a\b\u0012\u0004\u0012\u00020\f0\u000b2\n\b\u0001\u0010\u0003\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0006\u001a\u00020\u00042\n\b\u0001\u0010\u0007\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\b\u001a\u00020\u00022\n\b\u0001\u0010\t\u001a\u0004\u0018\u00010\u00042\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\u00042\b\b\u0001\u0010\u001d\u001a\u00020\"H§@¢\u0006\u0004\b#\u0010$¨\u0006%À\u0006\u0003"}, d2 = {"La/is60;", "", "", "auth", "", "whence", "refId", "groupPartners", "lng", "countryId", "registrationCountryId", "La/dx5;", "La/a070;", "a", "(Ljava/lang/String;IILjava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;La/yje;)Ljava/lang/Object;", "", "", "gamesIds", "groupId", "La/qo60;", "e", "(Ljava/util/List;IILjava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;La/yje;)Ljava/lang/Object;", "La/eq60;", "g", "actions", "La/xq60;", "c", "d", "La/ss60;", "request", "f", "(Ljava/lang/String;IILjava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;La/ss60;La/yje;)Ljava/lang/Object;", "b", "(IILjava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;La/ss60;La/yje;)Ljava/lang/Object;", "La/edy;", "h", "(Ljava/lang/String;IILjava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;La/edy;La/yje;)Ljava/lang/Object;", "core"}, k = 1, mv = {2, 4, 0}, xi = 48)
+public interface is60 {
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Games/Preview/v2/GetGamesPreview")
+    Object a(@xpv("X-Auth") String str, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str2, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, yje<? super dx5<a070>> yjeVar);
+
+    @kg80("/Games/Preview/v2/GetGamesPreviewByGameIds")
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    Object b(@xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, @jb8 ss60 ss60Var, yje<? super dx5<a070>> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Games/Preview/v2/GetActionsWorkStatus")
+    Object c(@nkd0("actionsIds") List<Integer> list, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, yje<? super dx5<? extends List<xq60>>> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Games/Preview/v2/GetCashBackGamesPreview")
+    Object d(@xpv("X-Auth") String str, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str2, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, yje<? super dx5<a070>> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Games/Preview/v2/GetGameWorkStatus")
+    Object e(@nkd0("gamesIds") List<Long> list, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, yje<? super dx5<? extends List<qo60>>> yjeVar);
+
+    @kg80("/Games/Preview/v2/GetGamesPreviewByGameIds")
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    Object f(@xpv("X-Auth") String str, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str2, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, @jb8 ss60 ss60Var, yje<? super dx5<a070>> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Games/Preview/v2/GetGamesActions")
+    Object g(@xpv("X-Auth") String str, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str2, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, yje<? super dx5<eq60>> yjeVar);
+
+    @kg80("/Search/v1/XGamesPreview/Search")
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    Object h(@xpv("X-Auth") String str, @xpv("X-Whence") int i, @xpv("X-Referral") int i2, @xpv("X-Group") Integer num, @xpv("X-Language") String str2, @xpv("X-FCountry") Integer num2, @xpv("X-Country") Integer num3, @jb8 edy edyVar, yje<? super dx5<a070>> yjeVar);
+}

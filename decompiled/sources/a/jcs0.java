@@ -1,0 +1,8 @@
+package a;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class jcs0 {
+    public final jiy serializer() {
+        return ics0.f14550a;
+    }
+}

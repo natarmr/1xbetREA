@@ -1,0 +1,39 @@
+package a;
+
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+import kotlin.jvm.functions.Function1;
+
+/* JADX INFO: loaded from: classes4.dex */
+public final class jp0 implements Function0 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ byte f16876a;
+    public final /* synthetic */ Function1 b;
+    public final /* synthetic */ lxl c;
+
+    public /* synthetic */ jp0(Function1 function1, lxl lxlVar, byte b) {
+        this.f16876a = b;
+        this.b = function1;
+        this.c = lxlVar;
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public final Object invoke() {
+        byte b = this.f16876a;
+        lxl lxlVar = this.c;
+        Function1 function1 = this.b;
+        switch (b) {
+            case 0:
+                function1.invoke(Long.valueOf(lxlVar.f20819a));
+                break;
+            case 1:
+                function1.invoke(Long.valueOf(lxlVar.f20819a));
+                break;
+            default:
+                function1.invoke(Long.valueOf(lxlVar.f20819a));
+                break;
+        }
+        return Unit.f46060a;
+    }
+}
