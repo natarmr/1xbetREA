@@ -1,0 +1,20 @@
+package a;
+
+/* JADX INFO: loaded from: classes4.dex */
+public final class mxa implements txa {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public static final mxa f22544a = new mxa();
+
+    public final boolean equals(Object obj) {
+        return this == obj || (obj instanceof mxa);
+    }
+
+    public final int hashCode() {
+        return -1797904607;
+    }
+
+    public final String toString() {
+        return "OnSaveClick";
+    }
+}
