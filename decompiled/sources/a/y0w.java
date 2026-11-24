@@ -1,0 +1,157 @@
+package a;
+
+import android.view.View;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import androidx.constraintlayout.widget.Group;
+import com.google.android.material.button.MaterialButton;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class y0w implements yfu0 {
+    public final Group A;
+    public final TextView B;
+    public final TextView C;
+    public final TextView D;
+    public final TextView E;
+    public final TextView F;
+    public final TextView G;
+    public final TextView H;
+    public final TextView I;
+    public final TextView J;
+    public final TextView K;
+    public final TextView L;
+    public final TextView M;
+    public final TextView N;
+    public final TextView O;
+    public final TextView P;
+    public final TextView Q;
+    public final TextView R;
+    public final TextView S;
+    public final TextView T;
+    public final TextView U;
+    public final TextView V;
+    public final TextView W;
+    public final LinearLayout X;
+    public final TextView Y;
+    public final TextView Z;
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final LinearLayout f41826a;
+    public final TextView a0;
+    public final Group b;
+    public final TextView b0;
+    public final TextView c;
+    public final TextView c0;
+    public final TextView d;
+    public final TextView d0;
+    public final Group e;
+    public final TextView e0;
+    public final Group f;
+    public final TextView f0;
+    public final ImageView g;
+    public final TextView g0;
+    public final ImageView h;
+    public final TextView h0;
+    public final Group i;
+    public final TextView i0;
+    public final Group j;
+    public final TextView j0;
+    public final MaterialButton k;
+    public final TextView k0;
+    public final Group l;
+    public final TextView l0;
+    public final FrameLayout m;
+    public final TextView m0;
+    public final Group n;
+    public final TextView n0;
+    public final ImageView o;
+    public final Group o0;
+    public final FrameLayout p;
+    public final ImageView q;
+    public final FrameLayout r;
+    public final ImageView s;
+    public final Group t;
+    public final TextView u;
+    public final TextView v;
+    public final Group w;
+    public final Group x;
+    public final Group y;
+    public final Group z;
+
+    public y0w(LinearLayout linearLayout, Group group, TextView textView, TextView textView2, Group group2, Group group3, ImageView imageView, ImageView imageView2, Group group4, Group group5, MaterialButton materialButton, Group group6, FrameLayout frameLayout, Group group7, ImageView imageView3, FrameLayout frameLayout2, ImageView imageView4, FrameLayout frameLayout3, ImageView imageView5, Group group8, TextView textView3, TextView textView4, Group group9, Group group10, Group group11, Group group12, Group group13, TextView textView5, TextView textView6, TextView textView7, TextView textView8, TextView textView9, TextView textView10, TextView textView11, TextView textView12, TextView textView13, TextView textView14, TextView textView15, TextView textView16, TextView textView17, TextView textView18, TextView textView19, TextView textView20, TextView textView21, TextView textView22, TextView textView23, TextView textView24, TextView textView25, TextView textView26, LinearLayout linearLayout2, TextView textView27, TextView textView28, TextView textView29, TextView textView30, TextView textView31, TextView textView32, TextView textView33, TextView textView34, TextView textView35, TextView textView36, TextView textView37, TextView textView38, TextView textView39, TextView textView40, TextView textView41, TextView textView42, Group group14) {
+        this.f41826a = linearLayout;
+        this.b = group;
+        this.c = textView;
+        this.d = textView2;
+        this.e = group2;
+        this.f = group3;
+        this.g = imageView;
+        this.h = imageView2;
+        this.i = group4;
+        this.j = group5;
+        this.k = materialButton;
+        this.l = group6;
+        this.m = frameLayout;
+        this.n = group7;
+        this.o = imageView3;
+        this.p = frameLayout2;
+        this.q = imageView4;
+        this.r = frameLayout3;
+        this.s = imageView5;
+        this.t = group8;
+        this.u = textView3;
+        this.v = textView4;
+        this.w = group9;
+        this.x = group10;
+        this.y = group11;
+        this.z = group12;
+        this.A = group13;
+        this.B = textView5;
+        this.C = textView6;
+        this.D = textView7;
+        this.E = textView8;
+        this.F = textView9;
+        this.G = textView10;
+        this.H = textView11;
+        this.I = textView12;
+        this.J = textView13;
+        this.K = textView14;
+        this.L = textView15;
+        this.M = textView16;
+        this.N = textView17;
+        this.O = textView18;
+        this.P = textView19;
+        this.Q = textView20;
+        this.R = textView21;
+        this.S = textView22;
+        this.T = textView23;
+        this.U = textView24;
+        this.V = textView25;
+        this.W = textView26;
+        this.X = linearLayout2;
+        this.Y = textView27;
+        this.Z = textView28;
+        this.a0 = textView29;
+        this.b0 = textView30;
+        this.c0 = textView31;
+        this.d0 = textView32;
+        this.e0 = textView33;
+        this.f0 = textView34;
+        this.g0 = textView35;
+        this.h0 = textView36;
+        this.i0 = textView37;
+        this.j0 = textView38;
+        this.k0 = textView39;
+        this.l0 = textView40;
+        this.m0 = textView41;
+        this.n0 = textView42;
+        this.o0 = group14;
+    }
+
+    @Override // a.yfu0
+    public final View getRoot() {
+        return this.f41826a;
+    }
+}
