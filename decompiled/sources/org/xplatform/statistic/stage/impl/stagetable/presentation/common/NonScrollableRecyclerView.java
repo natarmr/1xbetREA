@@ -1,0 +1,45 @@
+package org.xplatform.statistic.stage.impl.stagetable.presentation.common;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.view.MotionEvent;
+import androidx.recyclerview.widget.RecyclerView;
+
+/* JADX INFO: loaded from: classes6.dex */
+public final class NonScrollableRecyclerView extends RecyclerView {
+    /* JADX WARN: Illegal instructions before constructor call */
+    public NonScrollableRecyclerView(Context context, AttributeSet attributeSet, int i) {
+        attributeSet = (i & 2) != 0 ? null : attributeSet;
+        context.getClass();
+        super(context, attributeSet, 0);
+    }
+
+    @Override // androidx.recyclerview.widget.RecyclerView, android.view.ViewGroup
+    public final boolean onInterceptTouchEvent(MotionEvent motionEvent) {
+        return false;
+    }
+
+    @Override // androidx.recyclerview.widget.RecyclerView, android.view.View
+    public final boolean onTouchEvent(MotionEvent motionEvent) {
+        super.performClick();
+        return false;
+    }
+
+    @Override // android.view.View
+    public final boolean performClick() {
+        super.performClick();
+        return false;
+    }
+
+    /* JADX WARN: 'this' call moved to the top of the method (can break code semantics) */
+    public NonScrollableRecyclerView(Context context, AttributeSet attributeSet) {
+        this(context, attributeSet, 4);
+        context.getClass();
+    }
+
+    /* JADX WARN: 'this' call moved to the top of the method (can break code semantics) */
+    public NonScrollableRecyclerView(Context context) {
+        this(context, null, 6);
+        context.getClass();
+    }
+}

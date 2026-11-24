@@ -1,0 +1,33 @@
+package org.xplatform.security.impl.presentation.otp_authenticator;
+
+import a.m1r;
+import a.ufx;
+import a.xu;
+import androidx.fragment.app.Fragment;
+import com.github.terrakok.cicerone.androidx.FragmentScreen;
+import kotlin.Metadata;
+
+/* JADX INFO: loaded from: classes5.dex */
+@Metadata(d1 = {"\u0000\b\n\u0000\n\u0002\u0018\u0002\n\u0000\b\u0007\u0018\u00002\u00020\u0001¨\u0006\u0002"}, d2 = {"org/xplatform/security/impl/presentation/otp_authenticator/OtpScreens$AddTwoFactoryAuthenticationScreen", "Lcom/github/terrakok/cicerone/androidx/FragmentScreen;", "impl"}, k = 1, mv = {2, 4, 0}, xi = 48)
+public final class OtpScreens$AddTwoFactoryAuthenticationScreen implements FragmentScreen {
+    @Override // com.github.terrakok.cicerone.androidx.FragmentScreen
+    public final Fragment a(m1r m1rVar) {
+        m1rVar.getClass();
+        xu.Q1.getClass();
+        xu xuVar = new xu();
+        xuVar.P1.x(xuVar, xu.R1[1], "RESET_HASH_SECRET_KEY");
+        return xuVar;
+    }
+
+    @Override // a.m7h0
+    /* JADX INFO: renamed from: b */
+    public final String getF45455a() {
+        return ufx.C(this);
+    }
+
+    @Override // com.github.terrakok.cicerone.androidx.FragmentScreen
+    /* JADX INFO: renamed from: g */
+    public final /* bridge */ boolean getB() {
+        return true;
+    }
+}
