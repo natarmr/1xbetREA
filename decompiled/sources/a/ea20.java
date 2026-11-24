@@ -1,0 +1,24 @@
+package a;
+
+/* JADX INFO: loaded from: classes4.dex */
+public final class ea20 extends zje {
+    public ouj0 i;
+    public long j;
+    public byte k;
+    public /* synthetic */ Object l;
+    public final /* synthetic */ w5z m;
+    public int n;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public ea20(w5z w5zVar, zje zjeVar) {
+        super(zjeVar);
+        this.m = w5zVar;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.l = obj;
+        this.n |= Integer.MIN_VALUE;
+        return this.m.c0(null, 0L, 0, this);
+    }
+}

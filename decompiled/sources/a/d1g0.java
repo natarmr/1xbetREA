@@ -1,0 +1,5 @@
+package a;
+
+/* JADX INFO: loaded from: classes6.dex */
+public interface d1g0 extends n1g0 {
+}

@@ -1,0 +1,54 @@
+package a;
+
+import android.gov.nist.core.Separators;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: loaded from: classes3.dex */
+@ahi0
+public final class cof0 {
+    public static final ynf0 Companion = new ynf0();
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final String f4697a;
+    public final String b;
+    public final bof0 c;
+
+    public /* synthetic */ cof0(int i, String str, String str2, bof0 bof0Var) {
+        if (7 != (i & 7)) {
+            m2x.I(i, 7, xnf0.f41169a.getDescriptor());
+            throw null;
+        }
+        this.f4697a = str;
+        this.b = str2;
+        this.c = bof0Var;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof cof0)) {
+            return false;
+        }
+        cof0 cof0Var = (cof0) obj;
+        return Intrinsics.d(this.f4697a, cof0Var.f4697a) && Intrinsics.d(this.b, cof0Var.b) && Intrinsics.d(this.c, cof0Var.c);
+    }
+
+    public final int hashCode() {
+        return this.c.hashCode() + ua80.b(this.f4697a.hashCode() * 31, 31, this.b);
+    }
+
+    public final String toString() {
+        StringBuilder sbN = b1j.n("ResendPushRequest(id=", this.f4697a, ", rt=", this.b, ", payload=");
+        sbN.append(this.c);
+        sbN.append(Separators.RPAREN);
+        return sbN.toString();
+    }
+
+    public cof0(String str, String str2, bof0 bof0Var) {
+        str.getClass();
+        this.f4697a = str;
+        this.b = str2;
+        this.c = bof0Var;
+    }
+}
