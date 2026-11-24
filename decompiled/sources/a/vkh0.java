@@ -1,0 +1,36 @@
+package a;
+
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+import kotlin.jvm.functions.Function1;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class vkh0 implements Function0 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ byte f37573a;
+    public final /* synthetic */ Function1 b;
+    public final /* synthetic */ zkh0 c;
+
+    public /* synthetic */ vkh0(Function1 function1, zkh0 zkh0Var, byte b) {
+        this.f37573a = b;
+        this.b = function1;
+        this.c = zkh0Var;
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public final Object invoke() {
+        byte b = this.f37573a;
+        zkh0 zkh0Var = this.c;
+        Function1 function1 = this.b;
+        switch (b) {
+            case 0:
+                function1.invoke(new rkh0(zkh0Var.f44533a));
+                break;
+            default:
+                function1.invoke(new rkh0(zkh0Var.f44533a));
+                break;
+        }
+        return Unit.f46060a;
+    }
+}

@@ -1,0 +1,113 @@
+package a;
+
+import java.util.List;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class v8d {
+    public final boolean A;
+    public final boolean B;
+    public final boolean C;
+    public final boolean D;
+    public final boolean E;
+    public final boolean F;
+    public final boolean G;
+    public final String H;
+    public final String I;
+    public final boolean J;
+    public final List K;
+    public final String L;
+    public final String M;
+    public final boolean N;
+    public final boolean O;
+    public final boolean P;
+    public final boolean Q;
+    public final boolean R;
+    public final boolean S;
+    public final boolean T;
+    public final boolean U;
+    public final List V;
+    public final boolean W;
+    public final boolean X;
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final int f36976a;
+    public final String b;
+    public final String c;
+    public final List d;
+    public final boolean e;
+    public final boolean f;
+    public final boolean g;
+    public final boolean h;
+    public final boolean i;
+    public final boolean j;
+    public final String k;
+    public final String l;
+    public final String m;
+    public final boolean n;
+    public final boolean o;
+    public final lxw p;
+    public final c7k0 q;
+    public final int r;
+    public final boolean s;
+    public final boolean t;
+    public final boolean u;
+    public final boolean v;
+    public final boolean w;
+    public final boolean x;
+    public final boolean y;
+    public final boolean z;
+
+    public v8d(int i, String str, String str2, List list, boolean z, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6, String str3, String str4, String str5, boolean z7, boolean z8, lxw lxwVar, c7k0 c7k0Var, int i2, boolean z9, boolean z10, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, boolean z18, boolean z19, boolean z20, boolean z21, boolean z22, boolean z23, String str6, String str7, boolean z24, List list2, String str8, String str9, boolean z25, boolean z26, boolean z27, boolean z28, boolean z29, boolean z30, boolean z31, boolean z32, List list3, boolean z33, boolean z34) {
+        b1j.B(list, list2, list3);
+        this.f36976a = i;
+        this.b = str;
+        this.c = str2;
+        this.d = list;
+        this.e = z;
+        this.f = z2;
+        this.g = z3;
+        this.h = z4;
+        this.i = z5;
+        this.j = z6;
+        this.k = str3;
+        this.l = str4;
+        this.m = str5;
+        this.n = z7;
+        this.o = z8;
+        this.p = lxwVar;
+        this.q = c7k0Var;
+        this.r = i2;
+        this.s = z9;
+        this.t = z10;
+        this.u = z11;
+        this.v = z12;
+        this.w = z13;
+        this.x = z14;
+        this.y = z15;
+        this.z = z16;
+        this.A = z17;
+        this.B = z18;
+        this.C = z19;
+        this.D = z20;
+        this.E = z21;
+        this.F = z22;
+        this.G = z23;
+        this.H = str6;
+        this.I = str7;
+        this.J = z24;
+        this.K = list2;
+        this.L = str8;
+        this.M = str9;
+        this.N = z25;
+        this.O = z26;
+        this.P = z27;
+        this.Q = z28;
+        this.R = z29;
+        this.S = z30;
+        this.T = z31;
+        this.U = z32;
+        this.V = list3;
+        this.W = z33;
+        this.X = z34;
+    }
+}

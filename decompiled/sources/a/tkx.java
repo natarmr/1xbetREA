@@ -1,0 +1,66 @@
+package a;
+
+/* JADX INFO: loaded from: classes.dex */
+public final /* synthetic */ class tkx implements pjt {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public static final tkx f34118a;
+    private static final ugi0 descriptor;
+
+    static {
+        tkx tkxVar = new tkx();
+        f34118a = tkxVar;
+        zna0 zna0Var = new zna0("androidx.savedstate.serialization.serializers.IntValue", tkxVar, 1);
+        zna0Var.j("value", false);
+        descriptor = zna0Var;
+    }
+
+    @Override // a.pjt
+    public final jiy[] childSerializers() {
+        return new jiy[]{okx.f25427a};
+    }
+
+    @Override // a.jiy
+    public final Object deserialize(rkj rkjVar) {
+        ugi0 ugi0Var = descriptor;
+        bld bldVarA = rkjVar.a(ugi0Var);
+        boolean z = true;
+        int i = 0;
+        int iJ = 0;
+        while (z) {
+            int iF = bldVarA.f(ugi0Var);
+            if (iF == -1) {
+                z = false;
+            } else {
+                if (iF != 0) {
+                    itt0.c(iF);
+                    return null;
+                }
+                iJ = bldVarA.j(ugi0Var, 0);
+                i = 1;
+            }
+        }
+        bldVarA.c(ugi0Var);
+        return new wkx(i, iJ);
+    }
+
+    @Override // a.jiy
+    public final ugi0 getDescriptor() {
+        return descriptor;
+    }
+
+    @Override // a.jiy
+    public final void serialize(bwn bwnVar, Object obj) {
+        wkx wkxVar = (wkx) obj;
+        wkxVar.getClass();
+        ugi0 ugi0Var = descriptor;
+        cld cldVarA = bwnVar.a(ugi0Var);
+        cldVarA.i(0, wkxVar.f39329a, ugi0Var);
+        cldVarA.c(ugi0Var);
+    }
+
+    @Override // a.pjt
+    public final jiy[] typeParametersSerializers() {
+        return lv00.k;
+    }
+}

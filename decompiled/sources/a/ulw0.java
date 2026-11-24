@@ -1,0 +1,52 @@
+package a;
+
+import java.util.Objects;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class ulw0 extends hhw0 {
+    public static final ulw0 h = new ulw0(0, new Object[0]);
+    public final transient Object[] f;
+    public final transient int g;
+
+    public ulw0(int i, Object[] objArr) {
+        super((byte) 1);
+        this.f = objArr;
+        this.g = i;
+    }
+
+    @Override // a.hdw0
+    public final int b() {
+        return this.g;
+    }
+
+    @Override // a.hhw0, a.hdw0
+    public final int e(Object[] objArr) {
+        Object[] objArr2 = this.f;
+        int i = this.g;
+        System.arraycopy(objArr2, 0, objArr, 0, i);
+        return i;
+    }
+
+    @Override // a.hdw0
+    public final int f() {
+        return 0;
+    }
+
+    @Override // java.util.List
+    public final Object get(int i) {
+        dem0.v(i, this.g);
+        Object obj = this.f[i];
+        Objects.requireNonNull(obj);
+        return obj;
+    }
+
+    @Override // a.hdw0
+    public final Object[] k() {
+        return this.f;
+    }
+
+    @Override // java.util.AbstractCollection, java.util.Collection, java.util.List
+    public final int size() {
+        return this.g;
+    }
+}

@@ -1,0 +1,63 @@
+package a;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class ubu0 {
+    public static final int[] e = {31892, 34236, 39577, 42195, 48118, 51042, 55367, 58893, 63784, 68472, 70749, 76311, 79154, 84390, 87683, 92361, 96236, 102084, 102881, 110507, 110734, 117786, 119615, 126325, 127568, 133589, 136944, 141498, 145311, 150283, 152622, 158308, 161089, 167017};
+    public static final ubu0[] f = a();
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final byte f35401a;
+    public final int[] b;
+    public final oo8[] c;
+    public final int d;
+
+    /* JADX WARN: Multi-variable type inference failed */
+    public ubu0(int i, int[] iArr, oo8... oo8VarArr) {
+        this.f35401a = i;
+        this.b = iArr;
+        this.c = oo8VarArr;
+        oo8 oo8Var = oo8VarArr[0];
+        byte b = oo8Var.f25582a;
+        int i2 = 0;
+        for (qbu0 qbu0Var : (qbu0[]) oo8Var.b) {
+            i2 += (qbu0Var.b + b) * qbu0Var.f28456a;
+        }
+        this.d = i2;
+    }
+
+    public static ubu0[] a() {
+        return new ubu0[]{new ubu0(1, new int[0], new oo8(7, new qbu0[]{new qbu0(1, 19)}), new oo8(10, new qbu0[]{new qbu0(1, 16)}), new oo8(13, new qbu0[]{new qbu0(1, 13)}), new oo8(17, new qbu0[]{new qbu0(1, 9)})), new ubu0(2, new int[]{6, 18}, new oo8(10, new qbu0[]{new qbu0(1, 34)}), new oo8(16, new qbu0[]{new qbu0(1, 28)}), new oo8(22, new qbu0[]{new qbu0(1, 22)}), new oo8(28, new qbu0[]{new qbu0(1, 16)})), new ubu0(3, new int[]{6, 22}, new oo8(15, new qbu0[]{new qbu0(1, 55)}), new oo8(26, new qbu0[]{new qbu0(1, 44)}), new oo8(18, new qbu0[]{new qbu0(2, 17)}), new oo8(22, new qbu0[]{new qbu0(2, 13)})), new ubu0(4, new int[]{6, 26}, new oo8(20, new qbu0[]{new qbu0(1, 80)}), new oo8(18, new qbu0[]{new qbu0(2, 32)}), new oo8(26, new qbu0[]{new qbu0(2, 24)}), new oo8(16, new qbu0[]{new qbu0(4, 9)})), new ubu0(5, new int[]{6, 30}, new oo8(26, new qbu0[]{new qbu0(1, 108)}), new oo8(24, new qbu0[]{new qbu0(2, 43)}), new oo8(18, new qbu0[]{new qbu0(2, 15), new qbu0(2, 16)}), new oo8(22, new qbu0[]{new qbu0(2, 11), new qbu0(2, 12)})), new ubu0(6, new int[]{6, 34}, new oo8(18, new qbu0[]{new qbu0(2, 68)}), new oo8(16, new qbu0[]{new qbu0(4, 27)}), new oo8(24, new qbu0[]{new qbu0(4, 19)}), new oo8(28, new qbu0[]{new qbu0(4, 15)})), new ubu0(7, new int[]{6, 22, 38}, new oo8(20, new qbu0[]{new qbu0(2, 78)}), new oo8(18, new qbu0[]{new qbu0(4, 31)}), new oo8(18, new qbu0[]{new qbu0(2, 14), new qbu0(4, 15)}), new oo8(26, new qbu0[]{new qbu0(4, 13), new qbu0(1, 14)})), new ubu0(8, new int[]{6, 24, 42}, new oo8(24, new qbu0[]{new qbu0(2, 97)}), new oo8(22, new qbu0[]{new qbu0(2, 38), new qbu0(2, 39)}), new oo8(22, new qbu0[]{new qbu0(4, 18), new qbu0(2, 19)}), new oo8(26, new qbu0[]{new qbu0(4, 14), new qbu0(2, 15)})), new ubu0(9, new int[]{6, 26, 46}, new oo8(30, new qbu0[]{new qbu0(2, 116)}), new oo8(22, new qbu0[]{new qbu0(3, 36), new qbu0(2, 37)}), new oo8(20, new qbu0[]{new qbu0(4, 16), new qbu0(4, 17)}), new oo8(24, new qbu0[]{new qbu0(4, 12), new qbu0(4, 13)})), new ubu0(10, new int[]{6, 28, 50}, new oo8(18, new qbu0[]{new qbu0(2, 68), new qbu0(2, 69)}), new oo8(26, new qbu0[]{new qbu0(4, 43), new qbu0(1, 44)}), new oo8(24, new qbu0[]{new qbu0(6, 19), new qbu0(2, 20)}), new oo8(28, new qbu0[]{new qbu0(6, 15), new qbu0(2, 16)})), new ubu0(11, new int[]{6, 30, 54}, new oo8(20, new qbu0[]{new qbu0(4, 81)}), new oo8(30, new qbu0[]{new qbu0(1, 50), new qbu0(4, 51)}), new oo8(28, new qbu0[]{new qbu0(4, 22), new qbu0(4, 23)}), new oo8(24, new qbu0[]{new qbu0(3, 12), new qbu0(8, 13)})), new ubu0(12, new int[]{6, 32, 58}, new oo8(24, new qbu0[]{new qbu0(2, 92), new qbu0(2, 93)}), new oo8(22, new qbu0[]{new qbu0(6, 36), new qbu0(2, 37)}), new oo8(26, new qbu0[]{new qbu0(4, 20), new qbu0(6, 21)}), new oo8(28, new qbu0[]{new qbu0(7, 14), new qbu0(4, 15)})), new ubu0(13, new int[]{6, 34, 62}, new oo8(26, new qbu0[]{new qbu0(4, 107)}), new oo8(22, new qbu0[]{new qbu0(8, 37), new qbu0(1, 38)}), new oo8(24, new qbu0[]{new qbu0(8, 20), new qbu0(4, 21)}), new oo8(22, new qbu0[]{new qbu0(12, 11), new qbu0(4, 12)})), new ubu0(14, new int[]{6, 26, 46, 66}, new oo8(30, new qbu0[]{new qbu0(3, 115), new qbu0(1, 116)}), new oo8(24, new qbu0[]{new qbu0(4, 40), new qbu0(5, 41)}), new oo8(20, new qbu0[]{new qbu0(11, 16), new qbu0(5, 17)}), new oo8(24, new qbu0[]{new qbu0(11, 12), new qbu0(5, 13)})), new ubu0(15, new int[]{6, 26, 48, 70}, new oo8(22, new qbu0[]{new qbu0(5, 87), new qbu0(1, 88)}), new oo8(24, new qbu0[]{new qbu0(5, 41), new qbu0(5, 42)}), new oo8(30, new qbu0[]{new qbu0(5, 24), new qbu0(7, 25)}), new oo8(24, new qbu0[]{new qbu0(11, 12), new qbu0(7, 13)})), new ubu0(16, new int[]{6, 26, 50, 74}, new oo8(24, new qbu0[]{new qbu0(5, 98), new qbu0(1, 99)}), new oo8(28, new qbu0[]{new qbu0(7, 45), new qbu0(3, 46)}), new oo8(24, new qbu0[]{new qbu0(15, 19), new qbu0(2, 20)}), new oo8(30, new qbu0[]{new qbu0(3, 15), new qbu0(13, 16)})), new ubu0(17, new int[]{6, 30, 54, 78}, new oo8(28, new qbu0[]{new qbu0(1, 107), new qbu0(5, 108)}), new oo8(28, new qbu0[]{new qbu0(10, 46), new qbu0(1, 47)}), new oo8(28, new qbu0[]{new qbu0(1, 22), new qbu0(15, 23)}), new oo8(28, new qbu0[]{new qbu0(2, 14), new qbu0(17, 15)})), new ubu0(18, new int[]{6, 30, 56, 82}, new oo8(30, new qbu0[]{new qbu0(5, 120), new qbu0(1, 121)}), new oo8(26, new qbu0[]{new qbu0(9, 43), new qbu0(4, 44)}), new oo8(28, new qbu0[]{new qbu0(17, 22), new qbu0(1, 23)}), new oo8(28, new qbu0[]{new qbu0(2, 14), new qbu0(19, 15)})), new ubu0(19, new int[]{6, 30, 58, 86}, new oo8(28, new qbu0[]{new qbu0(3, 113), new qbu0(4, 114)}), new oo8(26, new qbu0[]{new qbu0(3, 44), new qbu0(11, 45)}), new oo8(26, new qbu0[]{new qbu0(17, 21), new qbu0(4, 22)}), new oo8(26, new qbu0[]{new qbu0(9, 13), new qbu0(16, 14)})), new ubu0(20, new int[]{6, 34, 62, 90}, new oo8(28, new qbu0[]{new qbu0(3, 107), new qbu0(5, 108)}), new oo8(26, new qbu0[]{new qbu0(3, 41), new qbu0(13, 42)}), new oo8(30, new qbu0[]{new qbu0(15, 24), new qbu0(5, 25)}), new oo8(28, new qbu0[]{new qbu0(15, 15), new qbu0(10, 16)})), new ubu0(21, new int[]{6, 28, 50, 72, 94}, new oo8(28, new qbu0[]{new qbu0(4, 116), new qbu0(4, 117)}), new oo8(26, new qbu0[]{new qbu0(17, 42)}), new oo8(28, new qbu0[]{new qbu0(17, 22), new qbu0(6, 23)}), new oo8(30, new qbu0[]{new qbu0(19, 16), new qbu0(6, 17)})), new ubu0(22, new int[]{6, 26, 50, 74, 98}, new oo8(28, new qbu0[]{new qbu0(2, 111), new qbu0(7, 112)}), new oo8(28, new qbu0[]{new qbu0(17, 46)}), new oo8(30, new qbu0[]{new qbu0(7, 24), new qbu0(16, 25)}), new oo8(24, new qbu0[]{new qbu0(34, 13)})), new ubu0(23, new int[]{6, 30, 54, 78, 102}, new oo8(30, new qbu0[]{new qbu0(4, 121), new qbu0(5, 122)}), new oo8(28, new qbu0[]{new qbu0(4, 47), new qbu0(14, 48)}), new oo8(30, new qbu0[]{new qbu0(11, 24), new qbu0(14, 25)}), new oo8(30, new qbu0[]{new qbu0(16, 15), new qbu0(14, 16)})), new ubu0(24, new int[]{6, 28, 54, 80, 106}, new oo8(30, new qbu0[]{new qbu0(6, 117), new qbu0(4, 118)}), new oo8(28, new qbu0[]{new qbu0(6, 45), new qbu0(14, 46)}), new oo8(30, new qbu0[]{new qbu0(11, 24), new qbu0(16, 25)}), new oo8(30, new qbu0[]{new qbu0(30, 16), new qbu0(2, 17)})), new ubu0(25, new int[]{6, 32, 58, 84, 110}, new oo8(26, new qbu0[]{new qbu0(8, 106), new qbu0(4, 107)}), new oo8(28, new qbu0[]{new qbu0(8, 47), new qbu0(13, 48)}), new oo8(30, new qbu0[]{new qbu0(7, 24), new qbu0(22, 25)}), new oo8(30, new qbu0[]{new qbu0(22, 15), new qbu0(13, 16)})), new ubu0(26, new int[]{6, 30, 58, 86, 114}, new oo8(28, new qbu0[]{new qbu0(10, 114), new qbu0(2, 115)}), new oo8(28, new qbu0[]{new qbu0(19, 46), new qbu0(4, 47)}), new oo8(28, new qbu0[]{new qbu0(28, 22), new qbu0(6, 23)}), new oo8(30, new qbu0[]{new qbu0(33, 16), new qbu0(4, 17)})), new ubu0(27, new int[]{6, 34, 62, 90, 118}, new oo8(30, new qbu0[]{new qbu0(8, 122), new qbu0(4, 123)}), new oo8(28, new qbu0[]{new qbu0(22, 45), new qbu0(3, 46)}), new oo8(30, new qbu0[]{new qbu0(8, 23), new qbu0(26, 24)}), new oo8(30, new qbu0[]{new qbu0(12, 15), new qbu0(28, 16)})), new ubu0(28, new int[]{6, 26, 50, 74, 98, 122}, new oo8(30, new qbu0[]{new qbu0(3, 117), new qbu0(10, 118)}), new oo8(28, new qbu0[]{new qbu0(3, 45), new qbu0(23, 46)}), new oo8(30, new qbu0[]{new qbu0(4, 24), new qbu0(31, 25)}), new oo8(30, new qbu0[]{new qbu0(11, 15), new qbu0(31, 16)})), new ubu0(29, new int[]{6, 30, 54, 78, 102, 126}, new oo8(30, new qbu0[]{new qbu0(7, 116), new qbu0(7, 117)}), new oo8(28, new qbu0[]{new qbu0(21, 45), new qbu0(7, 46)}), new oo8(30, new qbu0[]{new qbu0(1, 23), new qbu0(37, 24)}), new oo8(30, new qbu0[]{new qbu0(19, 15), new qbu0(26, 16)})), new ubu0(30, new int[]{6, 26, 52, 78, 104, 130}, new oo8(30, new qbu0[]{new qbu0(5, 115), new qbu0(10, 116)}), new oo8(28, new qbu0[]{new qbu0(19, 47), new qbu0(10, 48)}), new oo8(30, new qbu0[]{new qbu0(15, 24), new qbu0(25, 25)}), new oo8(30, new qbu0[]{new qbu0(23, 15), new qbu0(25, 16)})), new ubu0(31, new int[]{6, 30, 56, 82, 108, 134}, new oo8(30, new qbu0[]{new qbu0(13, 115), new qbu0(3, 116)}), new oo8(28, new qbu0[]{new qbu0(2, 46), new qbu0(29, 47)}), new oo8(30, new qbu0[]{new qbu0(42, 24), new qbu0(1, 25)}), new oo8(30, new qbu0[]{new qbu0(23, 15), new qbu0(28, 16)})), new ubu0(32, new int[]{6, 34, 60, 86, 112, 138}, new oo8(30, new qbu0[]{new qbu0(17, 115)}), new oo8(28, new qbu0[]{new qbu0(10, 46), new qbu0(23, 47)}), new oo8(30, new qbu0[]{new qbu0(10, 24), new qbu0(35, 25)}), new oo8(30, new qbu0[]{new qbu0(19, 15), new qbu0(35, 16)})), new ubu0(33, new int[]{6, 30, 58, 86, 114, 142}, new oo8(30, new qbu0[]{new qbu0(17, 115), new qbu0(1, 116)}), new oo8(28, new qbu0[]{new qbu0(14, 46), new qbu0(21, 47)}), new oo8(30, new qbu0[]{new qbu0(29, 24), new qbu0(19, 25)}), new oo8(30, new qbu0[]{new qbu0(11, 15), new qbu0(46, 16)})), new ubu0(34, new int[]{6, 34, 62, 90, 118, 146}, new oo8(30, new qbu0[]{new qbu0(13, 115), new qbu0(6, 116)}), new oo8(28, new qbu0[]{new qbu0(14, 46), new qbu0(23, 47)}), new oo8(30, new qbu0[]{new qbu0(44, 24), new qbu0(7, 25)}), new oo8(30, new qbu0[]{new qbu0(59, 16), new qbu0(1, 17)})), new ubu0(35, new int[]{6, 30, 54, 78, 102, 126, 150}, new oo8(30, new qbu0[]{new qbu0(12, 121), new qbu0(7, 122)}), new oo8(28, new qbu0[]{new qbu0(12, 47), new qbu0(26, 48)}), new oo8(30, new qbu0[]{new qbu0(39, 24), new qbu0(14, 25)}), new oo8(30, new qbu0[]{new qbu0(22, 15), new qbu0(41, 16)})), new ubu0(36, new int[]{6, 24, 50, 76, 102, 128, 154}, new oo8(30, new qbu0[]{new qbu0(6, 121), new qbu0(14, 122)}), new oo8(28, new qbu0[]{new qbu0(6, 47), new qbu0(34, 48)}), new oo8(30, new qbu0[]{new qbu0(46, 24), new qbu0(10, 25)}), new oo8(30, new qbu0[]{new qbu0(2, 15), new qbu0(64, 16)})), new ubu0(37, new int[]{6, 28, 54, 80, 106, 132, 158}, new oo8(30, new qbu0[]{new qbu0(17, 122), new qbu0(4, 123)}), new oo8(28, new qbu0[]{new qbu0(29, 46), new qbu0(14, 47)}), new oo8(30, new qbu0[]{new qbu0(49, 24), new qbu0(10, 25)}), new oo8(30, new qbu0[]{new qbu0(24, 15), new qbu0(46, 16)})), new ubu0(38, new int[]{6, 32, 58, 84, 110, 136, 162}, new oo8(30, new qbu0[]{new qbu0(4, 122), new qbu0(18, 123)}), new oo8(28, new qbu0[]{new qbu0(13, 46), new qbu0(32, 47)}), new oo8(30, new qbu0[]{new qbu0(48, 24), new qbu0(14, 25)}), new oo8(30, new qbu0[]{new qbu0(42, 15), new qbu0(32, 16)})), new ubu0(39, new int[]{6, 26, 54, 82, 110, 138, 166}, new oo8(30, new qbu0[]{new qbu0(20, 117), new qbu0(4, 118)}), new oo8(28, new qbu0[]{new qbu0(40, 47), new qbu0(7, 48)}), new oo8(30, new qbu0[]{new qbu0(43, 24), new qbu0(22, 25)}), new oo8(30, new qbu0[]{new qbu0(10, 15), new qbu0(67, 16)})), new ubu0(40, new int[]{6, 30, 58, 86, 114, 142, 170}, new oo8(30, new qbu0[]{new qbu0(19, 118), new qbu0(6, 119)}), new oo8(28, new qbu0[]{new qbu0(18, 47), new qbu0(31, 48)}), new oo8(30, new qbu0[]{new qbu0(34, 24), new qbu0(34, 25)}), new oo8(30, new qbu0[]{new qbu0(20, 15), new qbu0(61, 16)}))};
+    }
+
+    public static ubu0 b(int i) {
+        int i2 = Integer.MAX_VALUE;
+        int i3 = 0;
+        for (int i4 = 0; i4 < 34; i4++) {
+            int i5 = e[i4];
+            if (i5 == i) {
+                return c(i4 + 7);
+            }
+            int iBitCount = Integer.bitCount(i5 ^ i);
+            if (iBitCount < i2) {
+                i3 = i4 + 7;
+                i2 = iBitCount;
+            }
+        }
+        if (i2 <= 3) {
+            return c(i3);
+        }
+        return null;
+    }
+
+    public static ubu0 c(int i) {
+        if (i >= 1 && i <= 40) {
+            return f[i - 1];
+        }
+        e9d0.o();
+        return null;
+    }
+
+    public final String toString() {
+        return String.valueOf((int) this.f35401a);
+    }
+}
