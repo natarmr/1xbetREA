@@ -1,0 +1,24 @@
+package a;
+
+import kotlin.Metadata;
+
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u0000V\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0010\u000e\n\u0000\n\u0002\u0010\t\n\u0000\n\u0002\u0010\b\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0006\n\u0002\u0010\u000b\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0002\b\u0003\bf\u0018\u00002\u00020\u0001JR\u0010\u000e\u001a\b\u0012\u0004\u0012\u00020\r0\f2\b\b\u0001\u0010\u0003\u001a\u00020\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0007\u001a\u00020\u00062\b\b\u0001\u0010\b\u001a\u00020\u00022\b\b\u0003\u0010\t\u001a\u00020\u00022\b\b\u0003\u0010\u000b\u001a\u00020\nH§@¢\u0006\u0004\b\u000e\u0010\u000fJL\u0010\u0012\u001a\u00020\u00112\b\b\u0001\u0010\u0003\u001a\u00020\u00022\b\b\u0003\u0010\t\u001a\u00020\u00022\b\b\u0001\u0010\u0005\u001a\u00020\u00042\b\b\u0001\u0010\u0010\u001a\u00020\u00022\b\b\u0001\u0010\u0007\u001a\u00020\u00062\b\b\u0003\u0010\u000b\u001a\u00020\nH§@¢\u0006\u0004\b\u0012\u0010\u0013J.\u0010\u0016\u001a\u00020\u00112\b\b\u0001\u0010\u0003\u001a\u00020\u00022\b\b\u0003\u0010\t\u001a\u00020\u00022\b\b\u0001\u0010\u0015\u001a\u00020\u0014H§@¢\u0006\u0004\b\u0016\u0010\u0017J\u0096\u0001\u0010\"\u001a\u00020!2\b\b\u0001\u0010\u0007\u001a\u00020\u00062\b\b\u0001\u0010\u0018\u001a\u00020\u00062\b\b\u0001\u0010\u0019\u001a\u00020\u00062\n\b\u0001\u0010\b\u001a\u0004\u0018\u00010\u00062\b\b\u0001\u0010\u001a\u001a\u00020\u00062\n\b\u0001\u0010\u0010\u001a\u0004\u0018\u00010\u00022\n\b\u0001\u0010\u001c\u001a\u0004\u0018\u00010\u001b2\n\b\u0001\u0010\u001d\u001a\u0004\u0018\u00010\u00062\n\b\u0001\u0010\u001e\u001a\u0004\u0018\u00010\u00062\n\b\u0001\u0010\u001f\u001a\u0004\u0018\u00010\u00062\n\b\u0001\u0010 \u001a\u0004\u0018\u00010\u00062\b\b\u0003\u0010\u000b\u001a\u00020\nH§@¢\u0006\u0004\b\"\u0010#Jl\u0010'\u001a\u00020&2\b\b\u0001\u0010\u0018\u001a\u00020\u00062\b\b\u0001\u0010\u0010\u001a\u00020\u00022\b\b\u0001\u0010\u0007\u001a\u00020\u00062\b\b\u0001\u0010\u001a\u001a\u00020\u00062\n\b\u0001\u0010$\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010%\u001a\u00020\u00062\b\b\u0001\u0010\u001f\u001a\u00020\u00062\b\b\u0001\u0010\u001e\u001a\u00020\u00062\b\b\u0003\u0010\u000b\u001a\u00020\nH§@¢\u0006\u0004\b'\u0010(¨\u0006)À\u0006\u0003"}, d2 = {"La/wd1;", "", "", "auth", "", "userId", "", "whence", "country", "acceptHeader", "La/fk9;", "cachingTag", "La/dx5;", "La/c75;", "d", "(Ljava/lang/String;JILjava/lang/String;Ljava/lang/String;La/fk9;La/yje;)Ljava/lang/Object;", "language", "La/k65;", "a", "(Ljava/lang/String;Ljava/lang/String;JLjava/lang/String;ILa/fk9;La/yje;)Ljava/lang/Object;", "La/cti0;", "request", "e", "(Ljava/lang/String;Ljava/lang/String;La/cti0;La/yje;)Ljava/lang/Object;", "bonusId", "currentLocationCountry", "refId", "", "test", "groupId", "limit", "skip", "productId", "La/ux0;", "f", "(IIILjava/lang/Integer;ILjava/lang/String;Ljava/lang/Boolean;Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Integer;La/fk9;La/yje;)Ljava/lang/Object;", "searchQuery", "currentCountry", "La/uc1;", "c", "(ILjava/lang/String;IILjava/lang/String;IIILa/fk9;La/yje;)Ljava/lang/Object;", "impl"}, k = 1, mv = {2, 4, 0}, xi = 48)
+public interface wd1 {
+    @ofr("MobileB2/AvailablePlayerBonuses")
+    Object a(@xpv("X-Auth") String str, @xpv("Accept") String str2, @nkd0("AccId") long j, @nkd0("lng") String str3, @nkd0("Whence") int i, @doo0 fk9 fk9Var, yje<? super k65> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("Aggregator_v3/v2/Bonus/GetProductsByBonusId")
+    Object c(@nkd0("bonusId") int i, @nkd0("lng") String str, @nkd0("whence") int i2, @nkd0("ref") int i3, @nkd0("nameSubstr") String str2, @nkd0("fcountry") int i4, @nkd0("skip") int i5, @nkd0("limit") int i6, @doo0 fk9 fk9Var, yje<? super uc1> yjeVar);
+
+    @ofr("MobileF2/AvailableOffers")
+    Object d(@xpv("X-Auth") String str, @nkd0("accId") long j, @nkd0("whence") int i, @nkd0("fcountry") String str2, @xpv("Accept") String str3, @doo0 fk9 fk9Var, yje<? super dx5<c75>> yjeVar);
+
+    @kg80("MobileB2/ChangeStatus")
+    Object e(@xpv("X-Auth") String str, @xpv("Accept") String str2, @jb8 cti0 cti0Var, yje<? super k65> yjeVar);
+
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("Aggregator_v3/v2/Bonus/GetGamesByBonusId")
+    Object f(@nkd0("whence") int i, @nkd0("bonusId") int i2, @nkd0("fcountry") int i3, @nkd0("country") Integer num, @nkd0("ref") int i4, @nkd0("lng") String str, @nkd0("test") Boolean bool, @nkd0("gr") Integer num2, @nkd0("limit") Integer num3, @nkd0("skip") Integer num4, @nkd0("productId") Integer num5, @doo0 fk9 fk9Var, yje<? super ux0> yjeVar);
+}

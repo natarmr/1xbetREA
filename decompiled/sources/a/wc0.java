@@ -1,0 +1,11 @@
+package a;
+
+import kotlin.Metadata;
+
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u00002\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0010\b\n\u0002\b\u0006\n\u0002\u0010\u000b\n\u0002\b\u0003\n\u0002\u0010\u000e\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0003\ba\u0018\u00002\u00020\u0001JÂ\u0001\u0010\u0017\u001a\b\u0012\u0004\u0012\u00020\u00160\u00152\b\b\u0001\u0010\u0003\u001a\u00020\u00022\b\b\u0001\u0010\u0004\u001a\u00020\u00022\n\b\u0001\u0010\u0005\u001a\u0004\u0018\u00010\u00022\n\b\u0001\u0010\u0006\u001a\u0004\u0018\u00010\u00022\b\b\u0001\u0010\u0007\u001a\u00020\u00022\n\b\u0001\u0010\b\u001a\u0004\u0018\u00010\u00022\n\b\u0001\u0010\n\u001a\u0004\u0018\u00010\t2\n\b\u0001\u0010\u000b\u001a\u0004\u0018\u00010\u00022\n\b\u0001\u0010\f\u001a\u0004\u0018\u00010\u00022\n\b\u0001\u0010\u000e\u001a\u0004\u0018\u00010\r2\n\b\u0001\u0010\u000f\u001a\u0004\u0018\u00010\r2\n\b\u0001\u0010\u0010\u001a\u0004\u0018\u00010\t2\n\b\u0001\u0010\u0011\u001a\u0004\u0018\u00010\r2\n\b\u0001\u0010\u0012\u001a\u0004\u0018\u00010\r2\b\b\u0003\u0010\u0014\u001a\u00020\u0013H§@¢\u0006\u0004\b\u0017\u0010\u0018¨\u0006\u0019À\u0006\u0003"}, d2 = {"La/wc0;", "", "", "partitionId", "whence", "countryId", "countryIdBlocking", "refId", "groupId", "", "test", "skip", "limit", "", "nameSubstring", "brandSort", "needGamesCount", "language", "brandIds", "La/fk9;", "cachingTag", "La/dx5;", "La/zc0;", "a", "(IILjava/lang/Integer;Ljava/lang/Integer;ILjava/lang/Integer;Ljava/lang/Boolean;Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;Ljava/lang/String;Ljava/lang/String;La/fk9;La/yje;)Ljava/lang/Object;", "impl"}, k = 1, mv = {2, 4, 0}, xi = 48)
+public interface wc0 {
+    @dtv({"Accept: application/vnd.xenvelop+json"})
+    @ofr("/Aggregator_v3/v2/Brands/Get")
+    Object a(@nkd0("partId") int i, @nkd0("whence") int i2, @nkd0("country") Integer num, @nkd0("fcountry") Integer num2, @nkd0("ref") int i3, @nkd0("gr") Integer num3, @nkd0("test") Boolean bool, @nkd0("skip") Integer num4, @nkd0("limit") Integer num5, @nkd0("nameSubstr") String str, @nkd0("brandSort") String str2, @nkd0("needGamesCount") Boolean bool2, @nkd0("lng") String str3, @nkd0("brandIds") String str4, @doo0 fk9 fk9Var, yje<dx5<zc0>> yjeVar);
+}
