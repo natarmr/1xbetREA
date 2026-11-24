@@ -1,0 +1,39 @@
+package a;
+
+import android.gov.nist.core.Separators;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class g150 implements r150 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final long f10494a;
+    public final String b;
+
+    public g150(long j, String str) {
+        str.getClass();
+        this.f10494a = j;
+        this.b = str;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof g150)) {
+            return false;
+        }
+        g150 g150Var = (g150) obj;
+        return this.f10494a == g150Var.f10494a && Intrinsics.d(this.b, g150Var.b);
+    }
+
+    public final int hashCode() {
+        return this.b.hashCode() + (Long.hashCode(this.f10494a) * 31);
+    }
+
+    public final String toString() {
+        StringBuilder sbO = axq.o(this.f10494a, "OnClickGame(gameId=", ", key=", this.b);
+        sbO.append(Separators.RPAREN);
+        return sbO.toString();
+    }
+}

@@ -1,0 +1,6 @@
+package a;
+
+/* JADX INFO: loaded from: classes6.dex */
+public interface f3u0 {
+    Object a(bh90 bh90Var);
+}
