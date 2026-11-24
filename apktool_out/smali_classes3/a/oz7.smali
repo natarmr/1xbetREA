@@ -1,0 +1,236 @@
+.class public final synthetic La/oz7;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lkotlin/jvm/functions/Function1;
+
+
+# instance fields
+.field public final synthetic a:B
+
+.field public final synthetic b:Landroid/view/View;
+
+
+# direct methods
+.method public synthetic constructor <init>(Landroid/view/View;B)V
+    .locals 0
+
+    .line 1
+    iput-byte p2, p0, La/oz7;->a:B
+
+    iput-object p1, p0, La/oz7;->b:Landroid/view/View;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 3
+
+    .line 1
+    iget-byte v0, p0, La/oz7;->a:B
+
+    .line 2
+    .line 3
+    const/4 v1, 0x0
+
+    .line 4
+    iget-object p0, p0, La/oz7;->b:Landroid/view/View;
+
+    .line 5
+    .line 6
+    const/4 v2, 0x1
+
+    .line 7
+    packed-switch v0, :pswitch_data_0
+
+    .line 8
+    .line 9
+    .line 10
+    check-cast p1, La/lwk;
+
+    .line 11
+    .line 12
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 13
+    .line 14
+    .line 15
+    new-instance p1, La/wly;
+
+    .line 16
+    .line 17
+    invoke-direct {p1, p0, v2}, La/wly;-><init>(Ljava/lang/Object;B)V
+
+    .line 18
+    .line 19
+    .line 20
+    invoke-virtual {p0}, Landroid/view/View;->getViewTreeObserver()Landroid/view/ViewTreeObserver;
+
+    .line 21
+    .line 22
+    .line 23
+    move-result-object v0
+
+    .line 24
+    invoke-virtual {v0, p1}, Landroid/view/ViewTreeObserver;->addOnWindowFocusChangeListener(Landroid/view/ViewTreeObserver$OnWindowFocusChangeListener;)V
+
+    .line 25
+    .line 26
+    .line 27
+    new-instance v0, La/pr0;
+
+    .line 28
+    .line 29
+    const/16 v1, 0x1d
+
+    .line 30
+    .line 31
+    invoke-direct {v0, p0, p1, v1}, La/pr0;-><init>(Ljava/lang/Object;Ljava/lang/Object;B)V
+
+    .line 32
+    .line 33
+    .line 34
+    return-object v0
+
+    .line 35
+    :pswitch_0
+    check-cast p1, La/lwk;
+
+    .line 36
+    .line 37
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 38
+    .line 39
+    .line 40
+    invoke-static {p0, v2}, La/ujk;->a(Landroid/view/View;Z)V
+
+    .line 41
+    .line 42
+    .line 43
+    new-instance p1, La/pz7;
+
+    .line 44
+    .line 45
+    invoke-direct {p1, p0, v2}, La/pz7;-><init>(Landroid/view/View;B)V
+
+    .line 46
+    .line 47
+    .line 48
+    return-object p1
+
+    .line 49
+    :pswitch_1
+    check-cast p1, Ljava/lang/ref/WeakReference;
+
+    .line 50
+    .line 51
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 52
+    .line 53
+    .line 54
+    invoke-virtual {p1}, Ljava/lang/ref/Reference;->get()Ljava/lang/Object;
+
+    .line 55
+    .line 56
+    .line 57
+    move-result-object p1
+
+    .line 58
+    if-ne p1, p0, :cond_0
+
+    .line 59
+    .line 60
+    move v1, v2
+
+    .line 61
+    :cond_0
+    invoke-static {v1}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    .line 62
+    .line 63
+    .line 64
+    move-result-object p0
+
+    .line 65
+    return-object p0
+
+    .line 66
+    :pswitch_2
+    check-cast p1, Ljava/lang/ref/WeakReference;
+
+    .line 67
+    .line 68
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 69
+    .line 70
+    .line 71
+    invoke-virtual {p1}, Ljava/lang/ref/Reference;->get()Ljava/lang/Object;
+
+    .line 72
+    .line 73
+    .line 74
+    move-result-object p1
+
+    .line 75
+    if-ne p1, p0, :cond_1
+
+    .line 76
+    .line 77
+    move v1, v2
+
+    .line 78
+    :cond_1
+    invoke-static {v1}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    .line 79
+    .line 80
+    .line 81
+    move-result-object p0
+
+    .line 82
+    return-object p0
+
+    .line 83
+    :pswitch_3
+    check-cast p1, La/lwk;
+
+    .line 84
+    .line 85
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 86
+    .line 87
+    .line 88
+    invoke-virtual {p0, v2}, Landroid/view/View;->setKeepScreenOn(Z)V
+
+    .line 89
+    .line 90
+    .line 91
+    new-instance p1, La/pz7;
+
+    .line 92
+    .line 93
+    invoke-direct {p1, p0, v1}, La/pz7;-><init>(Landroid/view/View;B)V
+
+    .line 94
+    .line 95
+    .line 96
+    return-object p1
+
+    .line 97
+    :pswitch_data_0
+    .packed-switch 0x0
+        :pswitch_3
+        :pswitch_2
+        :pswitch_1
+        :pswitch_0
+    .end packed-switch
+.end method
