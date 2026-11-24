@@ -1,0 +1,31 @@
+.class public final Lcom/appsflyer/internal/AFi1uSDK;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# instance fields
+.field public final AFKeystoreWrapper:Z
+
+.field public final AFLogger:Lcom/appsflyer/internal/AFh1dSDK;
+
+
+# direct methods
+.method public constructor <init>(ZLcom/appsflyer/internal/AFh1dSDK;)V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 2
+    .line 3
+    .line 4
+    iput-boolean p1, p0, Lcom/appsflyer/internal/AFi1uSDK;->AFKeystoreWrapper:Z
+
+    .line 5
+    .line 6
+    iput-object p2, p0, Lcom/appsflyer/internal/AFi1uSDK;->AFLogger:Lcom/appsflyer/internal/AFh1dSDK;
+
+    .line 7
+    .line 8
+    return-void
+.end method
