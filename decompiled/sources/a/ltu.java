@@ -1,0 +1,21 @@
+package a;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class ltu extends zje {
+    public /* synthetic */ Object i;
+    public int j;
+    public final /* synthetic */ y6u k;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public ltu(y6u y6uVar, yje yjeVar) {
+        super(yjeVar);
+        this.k = y6uVar;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.i = obj;
+        this.j |= Integer.MIN_VALUE;
+        return this.k.a(null, this);
+    }
+}
