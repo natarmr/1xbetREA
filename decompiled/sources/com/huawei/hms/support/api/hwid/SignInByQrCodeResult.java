@@ -1,0 +1,16 @@
+package com.huawei.hms.support.api.hwid;
+
+import android.text.TextUtils;
+import com.huawei.hms.support.feature.result.AbstractAuthResult;
+import org.json.JSONObject;
+
+/* JADX INFO: loaded from: classes2.dex */
+public class SignInByQrCodeResult extends AbstractAuthResult {
+    public SignInByQrCodeResult fromJson(String str) {
+        if (TextUtils.isEmpty(str)) {
+            return this;
+        }
+        jsonToSuper(new JSONObject(str));
+        return this;
+    }
+}

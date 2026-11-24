@@ -1,0 +1,36 @@
+package com.huawei.hms.support.api.hwid;
+
+import android.text.TextUtils;
+import com.huawei.hms.support.api.client.Result;
+import com.huawei.hms.support.api.client.Status;
+import com.huawei.hms.support.feature.result.CommonConstant;
+import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
+import org.json.JSONObject;
+
+/* JADX INFO: loaded from: classes2.dex */
+public class RevokeAccessResult extends Result {
+    private static final String TAG = "[HUAWEIIDSDK]RevokeAccessResult";
+
+    private void jsonToSuper(JSONObject jSONObject) {
+        if (jSONObject.has("errorCode")) {
+            setStatus(new Status(jSONObject.optInt("errorCode"), jSONObject.has("errorMsg") ? jSONObject.optString("errorMsg") : ""));
+            return;
+        }
+        JSONObject jSONObjectOptJSONObject = jSONObject.optJSONObject(CommonConstant.KEY_STATUS);
+        if (jSONObjectOptJSONObject != null) {
+            setStatus(new Status(jSONObjectOptJSONObject.optInt(HiAnalyticsConstant.HaKey.BI_KEY_RESULT), jSONObjectOptJSONObject.optString("statusMessage", null)));
+        }
+    }
+
+    public RevokeAccessResult fromJson(String str) {
+        if (TextUtils.isEmpty(str)) {
+            return this;
+        }
+        jsonToSuper(new JSONObject(str));
+        return this;
+    }
+
+    public boolean isSuccess() {
+        return getStatus().isSuccess();
+    }
+}
