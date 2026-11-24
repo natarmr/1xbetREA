@@ -1,0 +1,30 @@
+package a;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class h400 extends zje {
+    public long i;
+    public long j;
+    public long k;
+    public int l;
+    public int m;
+    public int n;
+    public int o;
+    public String p;
+    public Throwable q;
+    public /* synthetic */ Object r;
+    public final /* synthetic */ j400 s;
+    public int t;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public h400(j400 j400Var, zje zjeVar) {
+        super(zjeVar);
+        this.s = j400Var;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.r = obj;
+        this.t |= Integer.MIN_VALUE;
+        return this.s.b(0, 0L, this, null);
+    }
+}

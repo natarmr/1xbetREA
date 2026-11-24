@@ -1,0 +1,6 @@
+package a;
+
+/* JADX INFO: loaded from: classes5.dex */
+public interface i3m0 {
+    String getKey();
+}

@@ -1,0 +1,6 @@
+package a;
+
+/* JADX INFO: loaded from: classes2.dex */
+public interface h6s0 {
+    imm a();
+}

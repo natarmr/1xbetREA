@@ -1,0 +1,158 @@
+package a;
+
+import org.xplatform.special_event.impl.special_event_tab.presentation.model.SpecialEventTabScreenParams;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class hui implements p0h0 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ psi f13681a;
+
+    public hui(psi psiVar) {
+        this.f13681a = psiVar;
+    }
+
+    @Override // a.p0h0
+    public final diu0 a(vzg0 vzg0Var) {
+        iui iuiVar = (iui) this.f13681a.c;
+        SpecialEventTabScreenParams specialEventTabScreenParams = iuiVar.f15397a;
+        i1w0 i1w0Var = iuiVar.b;
+        pru pruVarR = ((uii) iuiVar.c.f15470a).r();
+        ctf0 ctf0Var = iuiVar.d;
+        cad cadVar = iuiVar.e;
+        mne mneVarH = ((psc) cadVar.b).h();
+        x1x.x(mneVarH);
+        nyu nyuVar = new nyu((iqp0) iuiVar.R.get(), (byte) 0);
+        iuu iuuVar = iuiVar.i;
+        xr xrVar = iuiVar.j;
+        pjp0 pjp0Var = (pjp0) iuiVar.S.get();
+        h32 h32Var = (h32) iuiVar.T.get();
+        yox yoxVarC = ((h6i) iuiVar.k.f24171a).c();
+        uzc0 uzc0Var = iuiVar.l;
+        y78 y78Var = iuiVar.m;
+        lbu lbuVarD = ((uii) iuiVar.c.f15470a).D();
+        j3c j3cVarX = iuiVar.n.x();
+        x1x.x(j3cVarX);
+        ugf0 ugf0Var = iuiVar.o;
+        luu luuVarW = ((daf) ugf0Var.f35622a).w();
+        x1x.x(luuVarW);
+        cui cuiVar = iuiVar.p;
+        u6t u6tVar = (u6t) cuiVar.p.get();
+        x1x.x(u6tVar);
+        e1u e1uVar = new e1u(u6tVar, (byte) 24);
+        p6t p6tVar = (p6t) cuiVar.q.get();
+        x1x.x(p6tVar);
+        n4u n4uVar = new n4u(p6tVar, (byte) 21);
+        b6t b6tVarA = cuiVar.a();
+        x1x.x(b6tVarA);
+        f4u f4uVar = new f4u(b6tVarA, (byte) 17);
+        duj dujVar = iuiVar.q;
+        fzu fzuVar = (fzu) iuiVar.V.get();
+        zfm0 zfm0VarZ = ((daf) iuiVar.s.f30839a).Z();
+        xsu xsuVar = new xsu((ggm0) iuiVar.W.get());
+        z6u0 z6u0Var = (z6u0) iuiVar.X.get();
+        m1e m1eVar = iuiVar.u;
+        ywu ywuVar = new ywu(iuiVar.f15397a, iuiVar.v, iuiVar.w.W());
+        mne mneVarH2 = ((psc) cadVar.b).h();
+        x1x.x(mneVarH2);
+        fxt fxtVar = new fxt(new z220(mneVarH2, new g090(iuiVar.g, (byte) 20), iuiVar.x, iuiVar.h));
+        mk30 mk30Var = (mk30) iuiVar.Y.get();
+        awu awuVar = (awu) iuiVar.b0.get();
+        hnu hnuVar = new hnu((iqp0) iuiVar.R.get());
+        ozi oziVar = iuiVar.y;
+        gcv0 gcv0Var = (gcv0) oziVar.y.get();
+        x1x.x(gcv0Var);
+        rz00 rz00Var = iuiVar.z;
+        cju cjuVarD = rz00Var.d();
+        x1x.x(cjuVarD);
+        f3l f3lVar = iuiVar.A;
+        g6u g6uVarA = f3lVar.a();
+        x1x.x(g6uVarA);
+        gh9 gh9Var = iuiVar.B;
+        out outVarF = gh9Var.f();
+        x1x.x(outVarF);
+        es esVar = new es(cjuVarD, g6uVarA, outVarF);
+        o6u o6uVarB = f3lVar.b();
+        x1x.x(o6uVarB);
+        iju ijuVarA = rz00Var.a();
+        x1x.x(ijuVarA);
+        lju ljuVarC = rz00Var.c();
+        x1x.x(ljuVarC);
+        r6u r6uVarC = f3lVar.c();
+        x1x.x(r6uVarC);
+        wut wutVarE = gh9Var.e();
+        x1x.x(wutVarE);
+        lhf0 lhf0Var = new lhf0(ljuVarC, r6uVarC, wutVarE, (byte) 27);
+        tut tutVarD = gh9Var.d();
+        x1x.x(tutVarD);
+        svu svuVarA = iuiVar.C.a();
+        x1x.x(svuVarA);
+        z6u z6uVarD = f3lVar.d();
+        x1x.x(z6uVarD);
+        rju rjuVarB = rz00Var.b();
+        x1x.x(rjuVarB);
+        cvt cvtVarA = gh9Var.a();
+        x1x.x(cvtVarA);
+        oif0 oif0Var = new oif0(z6uVarD, rjuVarB, cvtVarA, (byte) 24);
+        hzg hzgVarA = iuiVar.D.a();
+        x1x.x(hzgVarA);
+        zut zutVarB = gh9Var.b();
+        x1x.x(zutVarB);
+        v6u v6uVarF = f3lVar.f();
+        x1x.x(v6uVarF);
+        oju ojuVarE = rz00Var.e();
+        x1x.x(ojuVarE);
+        phf0 phf0Var = new phf0(zutVarB, v6uVarF, ojuVarE);
+        xtu xtuVar = (xtu) ((n5d0) ((daf) ugf0Var.f35622a).m).get();
+        x1x.x(xtuVar);
+        a7q a7qVarC = gh9Var.c();
+        x1x.x(a7qVarC);
+        j6u j6uVarE = f3lVar.e();
+        x1x.x(j6uVarE);
+        fju fjuVarF = rz00Var.f();
+        x1x.x(fjuVarF);
+        lhf0 lhf0Var2 = new lhf0(a7qVarC, j6uVarE, fjuVarF, (byte) 23);
+        grj grjVar = iuiVar.E;
+        jlx jlxVar = iuiVar.F;
+        pyg0 pyg0Var = iuiVar.G;
+        qyg0 qyg0Var = iuiVar.H;
+        g9m0 g9m0Var = iuiVar.I;
+        hnu hnuVarA = iuiVar.J.a();
+        x1x.x(hnuVarA);
+        hjd hjdVarA = iuiVar.K.a();
+        x1x.x(hjdVarA);
+        rus rusVarJ = ((g45) iuiVar.L.f45137a).J();
+        ove oveVarA = oziVar.a();
+        eke0 eke0Var = new eke0();
+        cmt cmtVar = new cmt(iuiVar.b(), (byte) 26);
+        drm0 drm0Var = new drm0(iuiVar.b());
+        zie0 zie0Var = new zie0();
+        fuj0 fuj0Var = new fuj0((Object) iuiVar.b(), (Object) iuiVar.a(), false);
+        lui luiVar = iuiVar.M;
+        edu eduVar = new edu(luiVar.a(), luiVar.e);
+        yfu yfuVar = new yfu(luiVar.a());
+        sqt sqtVar = new sqt();
+        fhj fhjVar = new fhj(iuiVar.b(), iuiVar.a());
+        gst gstVar = new gst();
+        u6t u6tVar2 = (u6t) cuiVar.p.get();
+        x1x.x(u6tVar2);
+        e1u e1uVar2 = new e1u(u6tVar2, (byte) 24);
+        p6t p6tVar2 = (p6t) cuiVar.q.get();
+        x1x.x(p6tVar2);
+        n4u n4uVar2 = new n4u(p6tVar2, (byte) 21);
+        b6t b6tVarA2 = cuiVar.a();
+        x1x.x(b6tVarA2);
+        qgd qgdVar = new qgd(e1uVar2, n4uVar2, new f4u(b6tVarA2, (byte) 17), new drm0(luiVar.a()), new epi0(iuiVar.a(), (byte) 26), new hnu(iuiVar.b()), new fuj0((Object) iuiVar.b(), (Object) iuiVar.a(), false), (byte) 11);
+        kuu kuuVarV = ((daf) ugf0Var.f35622a).v();
+        x1x.x(kuuVarV);
+        u6t u6tVar3 = (u6t) cuiVar.p.get();
+        x1x.x(u6tVar3);
+        e1u e1uVar3 = new e1u(u6tVar3, (byte) 24);
+        p6t p6tVar3 = (p6t) cuiVar.q.get();
+        x1x.x(p6tVar3);
+        n4u n4uVar3 = new n4u(p6tVar3, (byte) 21);
+        b6t b6tVarA3 = cuiVar.a();
+        x1x.x(b6tVarA3);
+        return new iwk0(vzg0Var, specialEventTabScreenParams, i1w0Var, pruVarR, ctf0Var, mneVarH, nyuVar, iuuVar, xrVar, pjp0Var, h32Var, yoxVarC, uzc0Var, y78Var, lbuVarD, j3cVarX, luuVarW, e1uVar, n4uVar, f4uVar, dujVar, fzuVar, zfm0VarZ, xsuVar, z6u0Var, m1eVar, ywuVar, fxtVar, mk30Var, awuVar, hnuVar, gcv0Var, esVar, o6uVarB, ijuVarA, lhf0Var, tutVarD, svuVarA, oif0Var, hzgVarA, phf0Var, xtuVar, lhf0Var2, grjVar, jlxVar, pyg0Var, qyg0Var, g9m0Var, hnuVarA, hjdVarA, rusVarJ, oveVarA, eke0Var, cmtVar, drm0Var, zie0Var, fuj0Var, eduVar, yfuVar, sqtVar, fhjVar, gstVar, qgdVar, kuuVarV, new lhf0(e1uVar3, n4uVar3, new f4u(b6tVarA3, (byte) 17), (byte) 29), iuiVar.N, iuiVar.O, iuiVar.P, iuiVar.Q);
+    }
+}
