@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="16.0dp" android:width="16.0dp" android:viewportWidth="16.0" android:viewportHeight="16.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?uikitCommerce" android:pathData="M8,8m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path android:fillColor="?uikitCommerceForeground" android:pathData="M8.704,12.77C8.316,13.154 7.693,13.157 7.302,12.776L3.802,9.369C3.407,8.984 3.398,8.351 3.783,7.955C4.169,7.559 4.802,7.551 5.198,7.936L7,9.691L7,4C7,3.448 7.448,3 8,3C8.552,3 9,3.448 9,4V9.661L10.796,7.882C11.189,7.493 11.822,7.496 12.21,7.888C12.599,8.281 12.596,8.914 12.204,9.302L8.704,12.77Z" />
+</vector>

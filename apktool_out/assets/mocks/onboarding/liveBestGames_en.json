@@ -1,0 +1,7181 @@
+
+{
+	"data": [{
+		"liga": {
+			"id": 1335281,
+			"name": "ATP. Chengdu"
+		},
+		"sport": {
+			"id": 4,
+			"name": "Tennis"
+		},
+		"opponent1": {
+			"fullName": "Vit Kopriva",
+			"countryId": 204,
+			"opps": [{
+				"id": 189681,
+				"name": "Vit Kopriva",
+				"image": "/sfiles/logo_teams/42a9ac6a2e0d6ba0dc63bc8d7afee96b.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Jia Hu",
+			"countryId": 90,
+			"opps": [{
+				"id": 8853631,
+				"name": "Jia Hu",
+				"image": "/sfiles/logo_teams/2d2708ee620ab789e0c3d743aec9ba89.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.01,
+					"cfView": "1.01"
+				}],
+				[{
+					"type": 3,
+					"cf": 26,
+					"cfView": "26"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 19.5,
+					"cf": 2.288,
+					"cfView": "2.288",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(19.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 19.5,
+					"cf": 1.625,
+					"cfView": "1.625",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(19.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -5,
+					"cf": 2.312,
+					"cfView": "2.312",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 5,
+					"cf": 1.61,
+					"cfView": "1.61",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 12.5,
+					"cf": 2.93,
+					"cfView": "2.93",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 12.5,
+					"cf": 1.375,
+					"cfView": "1.375",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 7.5,
+					"cf": 2.184,
+					"cfView": "2.184",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 7.5,
+					"cf": 1.635,
+					"cfView": "1.635",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_1_1787720800"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Sichuan International Tennis Center (Chengdu)",
+			"seedNum2": "WC",
+			"locationCity": "Chengdu",
+			"temperature": "+28°C",
+			"surface": "Hard",
+			"locationCountry": "China",
+			"stadiumId": "28073",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "9",
+			"weatherWindParam": "1.7",
+			"weatherWindDescription": "S wind, m/s",
+			"weatherPressure": "760",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "57",
+			"weatherHumidityDescription": "Humidity, %",
+			"tennisSetsCountDescription": "3"
+		},
+		"scores": {
+			"fullScore": "1-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 6,
+				"scoreOpp2": 4
+			}, {
+				"period": 2,
+				"scoreOpp1": 1,
+				"scoreOpp2": 1
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd set",
+			"scoreOpp1": 1,
+			"scoreOpp2": 0,
+			"subScore": {
+				"opponent1": "40",
+				"opponent2": "30"
+			},
+			"serve": 1,
+			"periodScoresStr": "6-4,1-1",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 1,
+					"s1": "2",
+					"s2": "2",
+					"name": "Aces"
+				}, {
+					"id": 2,
+					"s1": "75",
+					"s2": "62",
+					"name": "Win % 1st Serve"
+				}, {
+					"id": 3,
+					"s1": "50",
+					"s2": "100",
+					"name": "Break point %"
+				}, {
+					"id": 4,
+					"s1": "4",
+					"s2": "2",
+					"name": "Double faults"
+				}, {
+					"id": 7,
+					"s1": "60",
+					"s2": "46",
+					"name": "Win % 2nd Serve"
+				}, {
+					"id": 8,
+					"s1": "57",
+					"s2": "65",
+					"name": "1st Serve %"
+				}, {
+					"id": 30,
+					"s1": "24",
+					"s2": "21",
+					"name": "Points on own serve"
+				}, {
+					"id": 98,
+					"s1": "2",
+					"s2": "1",
+					"name": "Breaks"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6ab11bdc7762417de860ad3c",
+			"stageId": "6ab119517762417de860abc8",
+			"stageType": 1,
+			"status": 2,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755334801,
+		"updateTs": 1790150621,
+		"id": 755334801,
+		"num": 216400,
+		"mainGameId": 755334801,
+		"constId": 372546882,
+		"startTs": 1790146800,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372546882,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 4309,
+			"name": "WTA. Seoul"
+		},
+		"sport": {
+			"id": 4,
+			"name": "Tennis"
+		},
+		"opponent1": {
+			"fullName": "Alina Korneeva",
+			"countryId": 1,
+			"opps": [{
+				"id": 5728977,
+				"name": "Alina Korneeva",
+				"image": "/sfiles/logo_teams/77d26f527cbf59980ff265f210c61f8c.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Darya Astakhova",
+			"countryId": 1,
+			"opps": [{
+				"id": 1148017,
+				"name": "Darya Astakhova",
+				"image": "/sfiles/logo_teams/1148017.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.24,
+					"cfView": "1.24"
+				}],
+				[{
+					"type": 3,
+					"cf": 4.13,
+					"cfView": "4.13"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 25.5,
+					"cf": 1.9,
+					"cfView": "1.9",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(25.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 25.5,
+					"cf": 1.9,
+					"cfView": "1.9",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(25.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -4.5,
+					"cf": 1.615,
+					"cfView": "1.615",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-4.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 4.5,
+					"cf": 2.31,
+					"cfView": "2.31",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(4.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 14.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(14.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 14.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(14.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 10.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(10.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 10.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(10.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_3_1787720564"
+		},
+		"matchInfoObj": {
+			"location": "Olympic Park Tennis Center (Seoul)",
+			"seedNum2": "Q",
+			"locationCity": "Seoul",
+			"temperature": "+28°C",
+			"surface": "Hard",
+			"locationCountry": "South Korea",
+			"stadiumId": "24742",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "13",
+			"weatherWindParam": "4",
+			"weatherWindDescription": "W wind, m/s",
+			"weatherPressure": "763",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "45",
+			"weatherHumidityDescription": "Humidity, %",
+			"tennisSetsCountDescription": "3"
+		},
+		"scores": {
+			"fullScore": "1-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 6,
+				"scoreOpp2": 2
+			}, {
+				"period": 2,
+				"scoreOpp1": 3,
+				"scoreOpp2": 4
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd set",
+			"scoreOpp1": 1,
+			"scoreOpp2": 0,
+			"subScore": {
+				"opponent1": "30",
+				"opponent2": "40"
+			},
+			"serve": 1,
+			"periodScoresStr": "6-2,3-4",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 1,
+					"s1": "0",
+					"s2": "0",
+					"name": "Aces"
+				}, {
+					"id": 2,
+					"s1": "65",
+					"s2": "51",
+					"name": "Win % 1st Serve"
+				}, {
+					"id": 3,
+					"s1": "44",
+					"s2": "40",
+					"name": "Break point %"
+				}, {
+					"id": 4,
+					"s1": "5",
+					"s2": "2",
+					"name": "Double faults"
+				}, {
+					"id": 98,
+					"s1": "4",
+					"s2": "2",
+					"name": "Breaks"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6ab129737762417de860b68d",
+			"stageId": "6aae46467762417de85e808d",
+			"stageType": 1,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755326413,
+		"updateTs": 1790150620,
+		"id": 755326413,
+		"num": 165316,
+		"mainGameId": 755326413,
+		"constId": 372536440,
+		"startTs": 1790144100,
+		"countryId": 215,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372536440,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 252619,
+			"name": "WTA. Seoul. Doubles"
+		},
+		"sport": {
+			"id": 4,
+			"name": "Tennis"
+		},
+		"opponent1": {
+			"fullName": "Ye/Lee",
+			"countryId": 225,
+			"opps": [{
+				"id": 301175,
+				"name": "Ye",
+				"image": "/sfiles/logo_teams/27481e183db13d158ae8358d9fde5357.png"
+			}, {
+				"id": 369621,
+				"name": "Lee",
+				"image": "/sfiles/logo_teams/b1e1a7c985bf9638f37d2b0e208b2f0c.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Joint/Ruse",
+			"countryId": 225,
+			"opps": [{
+				"id": 7097631,
+				"name": "Joint",
+				"image": "/sfiles/logo_teams/ce1ea76e4ec24a5772d1c68e36e8650f.png"
+			}, {
+				"id": 304689,
+				"name": "Ruse",
+				"image": "/sfiles/logo_teams/15f8082f71a5d0a99a6cd5b9a5bb9a23.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 3.54,
+					"cfView": "3.54"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.3,
+					"cfView": "1.3"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 19,
+					"cf": 1.745,
+					"cfView": "1.745",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(19)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 19,
+					"cf": 2.01,
+					"cfView": "2.01",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(19)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": 3.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": -3.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 8.5,
+					"cf": 1.904,
+					"cfView": "1.904",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(8.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 8.5,
+					"cf": 1.795,
+					"cfView": "1.795",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(8.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 12,
+					"cf": 2.32,
+					"cfView": "2.32",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 12,
+					"cf": 1.54,
+					"cfView": "1.54",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_3_1787720557"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Round of 8",
+			"location": "Olympic Park Tennis Center (Seoul)",
+			"seedNum2": "2",
+			"locationCity": "Seoul",
+			"temperature": "+28°C",
+			"surface": "Hard",
+			"locationCountry": "South Korea",
+			"stadiumId": "24742",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "13",
+			"weatherWindParam": "4",
+			"weatherWindDescription": "W wind, m/s",
+			"weatherPressure": "763",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "45",
+			"weatherHumidityDescription": "Humidity, %",
+			"tennisSetsCountDescription": "3"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"subScore": {
+				"opponent1": "0",
+				"opponent2": "0"
+			},
+			"serve": 2,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"info": "Warming Up",
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6ab157bf7762417de860f4bf",
+			"stageId": "6aae467e7762417de85e810c",
+			"stageType": 1,
+			"status": 2,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755344842,
+		"updateTs": 1790150621,
+		"id": 755344842,
+		"num": 162972,
+		"mainGameId": 755344842,
+		"constId": 372350574,
+		"startTs": 1790149800,
+		"countryId": 215,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372350574,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 901377,
+			"name": "WTA. Singapore. Doubles"
+		},
+		"sport": {
+			"id": 4,
+			"name": "Tennis"
+		},
+		"opponent1": {
+			"fullName": "Gleason/Eikeri",
+			"countryId": 225,
+			"opps": [{
+				"id": 361655,
+				"name": "Gleason",
+				"image": "/sfiles/logo_teams/f16b712125a1a1d23a0ec25330068233.png"
+			}, {
+				"id": 314167,
+				"name": "Eikeri",
+				"image": "/sfiles/logo_teams/21b9cd07599dd32f46790ebecf70e125.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Lansere/Prozorova",
+			"countryId": 225,
+			"opps": [{
+				"id": 545413,
+				"name": "Lansere",
+				"image": "/sfiles/logo_teams/c334e77a50e593a21d208e1d45595cdc.png"
+			}, {
+				"id": 7097439,
+				"name": "Prozorova",
+				"image": "/sfiles/logo_teams/a0177ff00af132303dcd00fa41215ae0.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.52,
+					"cfView": "1.52"
+				}],
+				[{
+					"type": 3,
+					"cf": 2.535,
+					"cfView": "2.535"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 18.5,
+					"cf": 2.11,
+					"cfView": "2.11",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(18.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 18.5,
+					"cf": 1.68,
+					"cfView": "1.68",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(18.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -1,
+					"cf": 1.77,
+					"cfView": "1.77",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 1,
+					"cf": 1.984,
+					"cfView": "1.984",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 9.5,
+					"cf": 1.44,
+					"cfView": "1.44",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(9.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 9.5,
+					"cf": 2.592,
+					"cfView": "2.592",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(9.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 8.5,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(8.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 8.5,
+					"cf": 1.9,
+					"cfView": "1.9",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(8.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_3_1787720577"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Round of 16",
+			"location": "Kallang Center (Singapore)",
+			"surface": "Hard-Indoors",
+			"locationCountry": "Singapore",
+			"stadiumId": "48266",
+			"tennisSetsCountDescription": "3"
+		},
+		"scores": {
+			"fullScore": "0-1",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 3,
+				"scoreOpp2": 6
+			}, {
+				"period": 2,
+				"scoreOpp1": 4,
+				"scoreOpp2": 1
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 1,
+			"subScore": {
+				"opponent1": "30",
+				"opponent2": "30"
+			},
+			"serve": 2,
+			"periodScoresStr": "3-6,4-1",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 1,
+					"s1": "0",
+					"s2": "1",
+					"name": "Aces"
+				}, {
+					"id": 2,
+					"s1": "61",
+					"s2": "57",
+					"name": "Win % 1st Serve"
+				}, {
+					"id": 3,
+					"s1": "60",
+					"s2": "27",
+					"name": "Break point %"
+				}, {
+					"id": 4,
+					"s1": "2",
+					"s2": "5",
+					"name": "Double faults"
+				}, {
+					"id": 7,
+					"s1": "44",
+					"s2": "48",
+					"name": "Win % 2nd Serve"
+				}, {
+					"id": 8,
+					"s1": "64",
+					"s2": "52",
+					"name": "1st Serve %"
+				}, {
+					"id": 30,
+					"s1": "24",
+					"s2": "23",
+					"name": "Points on own serve"
+				}, {
+					"id": 98,
+					"s1": "3",
+					"s2": "3",
+					"name": "Breaks"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 1
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6aae52ac7762417de85e8cb2",
+			"stageId": "6aae52ac7762417de85e8cba",
+			"stageType": 1,
+			"status": 2,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755330804,
+		"updateTs": 1790150620,
+		"id": 755330804,
+		"num": 294647,
+		"mainGameId": 755330804,
+		"constId": 371350454,
+		"startTs": 1790145900,
+		"countryId": 169,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 371350454,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"image": "/sfiles/logo-champ/sub_e_sport_dota_2.png",
+			"cyberType": 0,
+			"id": 2696113,
+			"name": "Dota 2. PGL Wallachia"
+		},
+		"sport": {
+			"id": 40,
+			"name": "Esports"
+		},
+		"subSport": {
+			"id": 1,
+			"name": "Dota 2"
+		},
+		"opponent1": {
+			"fullName": "1WIN",
+			"countryId": 225,
+			"opps": [{
+				"id": 3518029,
+				"name": "1WIN",
+				"image": "/sfiles/logo_teams/911c8aabfc4eb368d90841db7c11eb8c.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Pipsqueak+4",
+			"countryId": 225,
+			"opps": [{
+				"id": 9816619,
+				"name": "Pipsqueak+4",
+				"image": "/sfiles/logo_teams/d7907eb8b53cafd52b1235462461d5b8.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.06,
+					"cfView": "1.06"
+				}],
+				[{
+					"type": 3,
+					"cf": 9.18,
+					"cfView": "9.18"
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -24.5,
+					"cf": 1.952,
+					"cfView": "1.952",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-24.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 24.5,
+					"cf": 1.85,
+					"cfView": "1.85",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(24.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_4_20414284"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Swiss Stage. 5th Round",
+			"location": "PGL Esports (Bucharest)",
+			"matchFormat": "Best of 3 maps",
+			"stadiumId": "20055"
+		},
+		"scores": {
+			"fullScore": "1-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 29,
+				"scoreOpp2": 19,
+				"winner": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd map",
+			"scoreOpp1": 1,
+			"scoreOpp2": 0,
+			"periodScoresStr": "29-19,0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 0
+			},
+			"periodsCount": 3,
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"gameId": "6ab2d8917762417de86224fb",
+			"stageId": "6aac262a7762417de8561e07",
+			"stageType": 2,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150620,
+		"id": 755331483,
+		"num": 167820,
+		"mainGameId": 755331483,
+		"constId": 372352518,
+		"startTs": 1790146800,
+		"countryId": 225,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372352518,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Vissel Kobe",
+			"countryId": 218,
+			"opps": [{
+				"id": 5822,
+				"name": "Vissel Kobe",
+				"image": "/sfiles/logo_teams/5822.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Sagan Tosu",
+			"countryId": 218,
+			"opps": [{
+				"id": 5842,
+				"name": "Sagan Tosu",
+				"image": "/sfiles/logo_teams/2237b5224fb2d71f8a54bc312dd480b1.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.55,
+					"cfView": "1.55"
+				}],
+				[{
+					"type": 2,
+					"cf": 3.87,
+					"cfView": "3.87"
+				}],
+				[{
+					"type": 3,
+					"cf": 6.06,
+					"cfView": "6.06"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.11,
+					"cfView": "1.11"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.24,
+					"cfView": "1.24"
+				}],
+				[{
+					"type": 6,
+					"cf": 2.375,
+					"cfView": "2.375"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.965,
+					"cfView": "1.965"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.784,
+					"cfView": "1.784"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 2.5,
+					"cf": 2.01,
+					"cfView": "2.01",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 2.5,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -1,
+					"cf": 1.955,
+					"cfView": "1.955",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 1,
+					"cf": 1.848,
+					"cfView": "1.848",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 1.5,
+					"cf": 1.75,
+					"cfView": "1.75",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 1.5,
+					"cf": 2.03,
+					"cfView": "2.03",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.75,
+					"cfView": "1.75",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 2.03,
+					"cfView": "2.03",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Noevir Kobe (Kobe)",
+			"locationCity": "Kobe",
+			"temperature": "+27°C",
+			"locationCountry": "Japan",
+			"stadiumId": "6507",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "9",
+			"weatherWindParam": "2",
+			"weatherWindDescription": "S wind, m/s",
+			"weatherPressure": "761",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "63",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 10,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "0",
+					"s2": "0",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "0",
+					"s2": "0",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "50",
+					"s2": "50",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "<1 minutes"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717c9",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755344449,
+		"updateTs": 1790150619,
+		"id": 755344449,
+		"num": 168021,
+		"mainGameId": 755344449,
+		"constId": 372235750,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372235750,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Gamba Osaka",
+			"countryId": 218,
+			"opps": [{
+				"id": 5824,
+				"name": "Gamba Osaka",
+				"image": "/sfiles/logo_teams/164eb8ad7282a5c12ae29a19a821e9f1.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Tokushima Vortis",
+			"countryId": 218,
+			"opps": [{
+				"id": 12211,
+				"name": "Tokushima Vortis",
+				"image": "/sfiles/logo_teams/425536aaf2311b5e4099b82d5d4e901f.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.49,
+					"cfView": "1.49"
+				}],
+				[{
+					"type": 2,
+					"cf": 4.48,
+					"cfView": "4.48"
+				}],
+				[{
+					"type": 3,
+					"cf": 5.68,
+					"cfView": "5.68"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.125,
+					"cfView": "1.125"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.185,
+					"cfView": "1.185"
+				}],
+				[{
+					"type": 6,
+					"cf": 2.515,
+					"cfView": "2.515"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.92,
+					"cfView": "1.92"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.825,
+					"cfView": "1.825"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 2.5,
+					"cf": 1.755,
+					"cfView": "1.755",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 2.5,
+					"cf": 2,
+					"cfView": "2",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -1,
+					"cf": 1.74,
+					"cfView": "1.74",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 1,
+					"cf": 2.095,
+					"cfView": "2.095",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2,
+					"cf": 2.08,
+					"cfView": "2.08",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2,
+					"cf": 1.75,
+					"cfView": "1.75",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.66,
+					"cfView": "1.66",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 2.168,
+					"cfView": "2.168",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Suita City (Suita)",
+			"locationCity": "Suita",
+			"temperature": "+22°C",
+			"locationCountry": "Japan",
+			"stadiumId": "5082",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "1",
+			"weatherWindParam": "2.8",
+			"weatherWindDescription": "N wind, m/s",
+			"weatherPressure": "761",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "73",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 20,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "0",
+					"s2": "1",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "0",
+					"s2": "1",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "0",
+					"s2": "100",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "<1 minutes"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717c1",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755344450,
+		"updateTs": 1790150619,
+		"id": 755344450,
+		"num": 168001,
+		"mainGameId": 755344450,
+		"constId": 372235736,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372235736,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Kashiwa Reysol",
+			"countryId": 218,
+			"opps": [{
+				"id": 11079,
+				"name": "Kashiwa Reysol",
+				"image": "/sfiles/logo_teams/e96de62ccc385909408d96cdce2d9cd7.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Imabari",
+			"countryId": 218,
+			"opps": [{
+				"id": 29463,
+				"name": "Imabari",
+				"image": "/sfiles/logo_teams/e1618674abb2890ba70a4bb8a6897295.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.22,
+					"cfView": "1.22"
+				}],
+				[{
+					"type": 2,
+					"cf": 5.84,
+					"cfView": "5.84"
+				}],
+				[{
+					"type": 3,
+					"cf": 12.7,
+					"cfView": "12.7"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.015,
+					"cfView": "1.015"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.12,
+					"cfView": "1.12"
+				}],
+				[{
+					"type": 6,
+					"cf": 4.02,
+					"cfView": "4.02"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.87,
+					"cfView": "1.87"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.87,
+					"cfView": "1.87"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3.5,
+					"cf": 1.97,
+					"cfView": "1.97",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3.5,
+					"cf": 1.832,
+					"cfView": "1.832",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -2,
+					"cf": 1.875,
+					"cfView": "1.875",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 2,
+					"cf": 1.925,
+					"cfView": "1.925",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2.5,
+					"cf": 1.75,
+					"cfView": "1.75",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2.5,
+					"cf": 2.03,
+					"cfView": "2.03",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.825,
+					"cfView": "1.825",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.936,
+					"cfView": "1.936",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Sankyo Frontier (Kashiwa)",
+			"locationCity": "Kashiwa",
+			"temperature": "+20°C",
+			"locationCountry": "Japan",
+			"stadiumId": "2529",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "3",
+			"weatherWindParam": "2.8",
+			"weatherWindDescription": "NE wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "89",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 26,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "0",
+					"s2": "1",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "0",
+					"s2": "1",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "0",
+					"s2": "100",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "<1 minutes"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717cd",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755344447,
+		"updateTs": 1790150620,
+		"id": 755344447,
+		"num": 166987,
+		"mainGameId": 755344447,
+		"constId": 372235710,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372235710,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Kashima Antlers",
+			"countryId": 218,
+			"opps": [{
+				"id": 5834,
+				"name": "Kashima Antlers",
+				"image": "/sfiles/logo_teams/bb2bdbdd306442c094762dd8701575c4.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Ventforet Kofu",
+			"countryId": 218,
+			"opps": [{
+				"id": 19705,
+				"name": "Ventforet Kofu",
+				"image": "/sfiles/logo_teams/19705.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.184,
+					"cfView": "1.184"
+				}],
+				[{
+					"type": 2,
+					"cf": 7.02,
+					"cfView": "7.02"
+				}],
+				[{
+					"type": 3,
+					"cf": 12,
+					"cfView": "12"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.02,
+					"cfView": "1.02"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.085,
+					"cfView": "1.085"
+				}],
+				[{
+					"type": 6,
+					"cf": 4.45,
+					"cfView": "4.45"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 2.275,
+					"cfView": "2.275"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.59,
+					"cfView": "1.59"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3,
+					"cf": 1.83,
+					"cfView": "1.83",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3,
+					"cf": 1.975,
+					"cfView": "1.975",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -2,
+					"cf": 1.925,
+					"cfView": "1.925",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 2,
+					"cf": 1.875,
+					"cfView": "1.875",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2.5,
+					"cf": 1.88,
+					"cfView": "1.88",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2.5,
+					"cf": 1.88,
+					"cfView": "1.88",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 2.125,
+					"cfView": "2.125",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.688,
+					"cfView": "1.688",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Kashima (Kashima)",
+			"locationCity": "Kashima",
+			"temperature": "+28°C",
+			"locationCountry": "Japan",
+			"stadiumId": "2908",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "5",
+			"weatherWindParam": "3.6",
+			"weatherWindDescription": "E wind, m/s",
+			"weatherPressure": "761",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "61",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 197,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "5",
+					"s2": "4",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "2",
+					"s2": "3",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "50",
+					"s2": "50",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "1",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "3 minutes"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717c2",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 3,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755344451,
+		"updateTs": 1790150620,
+		"id": 755344451,
+		"num": 160468,
+		"mainGameId": 755344451,
+		"constId": 372234082,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372234082,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Kyoto Sanga",
+			"countryId": 218,
+			"opps": [{
+				"id": 12213,
+				"name": "Kyoto Sanga",
+				"image": "/sfiles/logo_teams/65ae0895b36b32908e41ae7e0b4f148b.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Fujieda MYFC",
+			"countryId": 218,
+			"opps": [{
+				"id": 14291,
+				"name": "Fujieda MYFC",
+				"image": "/sfiles/logo_teams/23138b6ce43cf57a632bf6c5287e679f.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.755,
+					"cfView": "1.755"
+				}],
+				[{
+					"type": 2,
+					"cf": 3.72,
+					"cfView": "3.72"
+				}],
+				[{
+					"type": 3,
+					"cf": 4.34,
+					"cfView": "4.34"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.195,
+					"cfView": "1.195"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.256,
+					"cfView": "1.256"
+				}],
+				[{
+					"type": 6,
+					"cf": 2.01,
+					"cfView": "2.01"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.8,
+					"cfView": "1.8"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.95,
+					"cfView": "1.95"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 2.5,
+					"cf": 1.97,
+					"cfView": "1.97",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 2.5,
+					"cf": 1.832,
+					"cfView": "1.832",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -1,
+					"cf": 2.315,
+					"cfView": "2.315",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 1,
+					"cf": 1.61,
+					"cfView": "1.61",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 1.5,
+					"cf": 1.825,
+					"cfView": "1.825",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 1.5,
+					"cf": 1.936,
+					"cfView": "1.936",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 1,
+					"cf": 2.264,
+					"cfView": "2.264",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 1,
+					"cf": 1.635,
+					"cfView": "1.635",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "Sanga Stadium by Kyocera (Kameoka)",
+			"locationCity": "Kameoka",
+			"temperature": "+21°C",
+			"locationCountry": "Japan",
+			"stadiumId": "33057",
+			"weatherCode": "15",
+			"weatherDescription": "Clear skies",
+			"weatherWindCode": "3",
+			"weatherWindParam": "2.2",
+			"weatherWindDescription": "NE wind, m/s",
+			"weatherPressure": "763",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "70",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"info": "Pre-match betting",
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "0",
+					"s2": "0",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "0",
+					"s2": "0",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "50",
+					"s2": "50",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Waiting for game to start"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717c0",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"nonStarted": true,
+		"zonePlay": 755344445,
+		"updateTs": 1790150620,
+		"id": 755344445,
+		"num": 168134,
+		"mainGameId": 755344445,
+		"constId": 372235752,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372235752,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 102647,
+			"name": "Japan. Emperors Cup"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Machida Zelvia",
+			"countryId": 218,
+			"opps": [{
+				"id": 15563,
+				"name": "Machida Zelvia",
+				"image": "/sfiles/logo_teams/15563.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Tochigi City",
+			"countryId": 218,
+			"opps": [{
+				"id": 14289,
+				"name": "Tochigi City",
+				"image": "/sfiles/logo_teams/cd2b99668c56a1b636ccd7a7a28331e2.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.275,
+					"cfView": "1.275"
+				}],
+				[{
+					"type": 2,
+					"cf": 6.39,
+					"cfView": "6.39"
+				}],
+				[{
+					"type": 3,
+					"cf": 7.77,
+					"cfView": "7.77"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.065,
+					"cfView": "1.065"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.1,
+					"cfView": "1.1"
+				}],
+				[{
+					"type": 6,
+					"cf": 3.52,
+					"cfView": "3.52"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.752,
+					"cfView": "1.752"
+				}],
+				[{
+					"type": 181,
+					"cf": 2.005,
+					"cfView": "2.005"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3.5,
+					"cf": 1.97,
+					"cfView": "1.97",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3.5,
+					"cf": 1.832,
+					"cfView": "1.832",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -2,
+					"cf": 2.125,
+					"cfView": "2.125",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 2,
+					"cf": 1.72,
+					"cfView": "1.72",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2.5,
+					"cf": 1.825,
+					"cfView": "1.825",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2.5,
+					"cf": 1.936,
+					"cfView": "1.936",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.63,
+					"cfView": "1.63",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 2.22,
+					"cfView": "2.22",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Round of 32",
+			"location": "GION (Machida)",
+			"locationCity": "Machida",
+			"temperature": "+22°C",
+			"locationCountry": "Japan",
+			"stadiumId": "37526",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "3",
+			"weatherWindParam": "2.8",
+			"weatherWindDescription": "NE wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "92",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"info": "Pre-match betting",
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "0",
+					"s2": "0",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "0",
+					"s2": "0",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "50",
+					"s2": "50",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Waiting for game to start"
+		},
+		"statisticInfo": {
+			"gameId": "6a95ea917762417de84717c5",
+			"stageId": "6a3e7f995e99bd05c6434ba9",
+			"stageType": 1,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"nonStarted": true,
+		"zonePlay": 755344446,
+		"updateTs": 1790150619,
+		"id": 755344446,
+		"num": 167385,
+		"mainGameId": 755344446,
+		"constId": 372235740,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372235740,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"image": "/sfiles/logo-champ/67fcf1f6b114527795dc112981a252cc.png",
+			"id": 1445713,
+			"name": "International Tournament. National Teams. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Fiji (Women)",
+			"countryId": 195,
+			"opps": [{
+				"id": 199697,
+				"name": "Fiji (Women)",
+				"image": "/sfiles/logo_teams/199697.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Solomon Islands (Women)",
+			"countryId": 173,
+			"opps": [{
+				"id": 199643,
+				"name": "Solomon Islands (Women)",
+				"image": "/sfiles/logo_teams/199643.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 2.296,
+					"cfView": "2.296"
+				}],
+				[{
+					"type": 2,
+					"cf": 2.57,
+					"cfView": "2.57"
+				}],
+				[{
+					"type": 3,
+					"cf": 3.9,
+					"cfView": "3.9"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.22,
+					"cfView": "1.22"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.456,
+					"cfView": "1.456"
+				}],
+				[{
+					"type": 6,
+					"cf": 1.56,
+					"cfView": "1.56"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 3.28,
+					"cfView": "3.28"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.29,
+					"cfView": "1.29"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 1.5,
+					"cf": 2.13,
+					"cfView": "2.13",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 1.5,
+					"cf": 1.665,
+					"cfView": "1.665",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"cf": 1.515,
+					"cfView": "1.515",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"cf": 2.445,
+					"cfView": "2.445",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 0.5,
+					"cf": 1.616,
+					"cfView": "1.616",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 0.5,
+					"cf": 2.31,
+					"cfView": "2.31",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.925,
+					"cfView": "1.925",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.875,
+					"cfView": "1.875",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"location": "HFC Bank (Suva)",
+			"locationCity": "Suva",
+			"temperature": "+22°C",
+			"stadiumId": "49442",
+			"weatherCode": "11",
+			"weatherDescription": "Gloomy",
+			"weatherWindCode": "5",
+			"weatherWindParam": "3",
+			"weatherWindDescription": "E wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "78",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0,0-0",
+			"timer": {
+				"timeSec": 2761,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "44",
+					"s2": "39",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "39",
+					"s2": "24",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "49",
+					"s2": "51",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "3",
+					"s2": "1",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "5",
+					"s2": "1",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "4",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "2",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "46 minutes"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6aad9efb7762417de85db257",
+			"stageId": "69599e986d807ed026b769b8",
+			"stageType": 3,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755333333,
+		"updateTs": 1790150619,
+		"id": 755333333,
+		"num": 221591,
+		"mainGameId": 755333333,
+		"constId": 372545028,
+		"startTs": 1790146800,
+		"countryId": 225,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372545028,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 2734140,
+			"name": "Indonesia. Liga Persebata"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Sinar Bareng",
+			"countryId": 72,
+			"opps": [{
+				"id": 8824267,
+				"name": "Sinar Bareng",
+				"image": "/sfiles/logo_teams/883b078f09acbbf2e6a6651704aef00d.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Skak",
+			"countryId": 72,
+			"opps": [{
+				"id": 9793333,
+				"name": "Skak",
+				"image": "/sfiles/logo_teams/81ee68bce927b197dfafeea0a3384514.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 18.2,
+					"cfView": "18.2"
+				}],
+				[{
+					"type": 2,
+					"cf": 10,
+					"cfView": "10"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.104,
+					"cfView": "1.104"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 6.55,
+					"cfView": "6.55"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.04,
+					"cfView": "1.04"
+				}],
+				[{
+					"type": 6,
+					"blocked": true,
+					"cf": 1.001,
+					"cfView": "1.001"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.416,
+					"cfView": "1.416"
+				}],
+				[{
+					"type": 181,
+					"cf": 2.67,
+					"cfView": "2.67"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 4.5,
+					"cf": 1.93,
+					"cfView": "1.93",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(4.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 4.5,
+					"cf": 1.83,
+					"cfView": "1.83",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(4.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": 2.5,
+					"cf": 1.81,
+					"cfView": "1.81",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": -2.5,
+					"cf": 1.955,
+					"cfView": "1.955",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 1.0,
+					"cf": 2.08,
+					"cfView": "2.08",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 1.0,
+					"cf": 1.715,
+					"cfView": "1.715",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 3.5,
+					"cf": 2.005,
+					"cfView": "2.005",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 3.5,
+					"cf": 1.77,
+					"cfView": "1.77",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"matchFormat": "2 halves of 40 minutes",
+			"locationCountry": "Indonesia"
+		},
+		"scores": {
+			"fullScore": "0-1",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp2": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 1,
+			"periodScoresStr": "0-1",
+			"timer": {
+				"timeSec": 442,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 1
+			},
+			"statusLineStr": "7 minutes"
+		},
+		"updateTs": 1790150621,
+		"id": 755343698,
+		"num": 269746,
+		"mainGameId": 755343698,
+		"constId": 372558288,
+		"startTs": 1790150100,
+		"countryId": 72,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372558288,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1209805,
+			"name": "Russian Championship. National Student Football League"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "SKGMI Vladikavkaz",
+			"countryId": 1,
+			"opps": [{
+				"id": 905363,
+				"name": "SKGMI Vladikavkaz",
+				"image": "/sfiles/logo_teams/905363.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "DonGTU Alchevsk",
+			"countryId": 1,
+			"opps": [{
+				"id": 7077973,
+				"name": "DonGTU Alchevsk",
+				"image": "/sfiles/logo_teams/3b86021fb8621148d991cd6e3192cc68.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"blocked": true,
+					"cf": 1.8,
+					"cfView": "1.8"
+				}],
+				[{
+					"type": 181,
+					"blocked": true,
+					"cf": 2.01,
+					"cfView": "2.01"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"blocked": true,
+					"parameter": 4.0,
+					"cf": 2.235,
+					"cfView": "2.235",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(4)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"blocked": true,
+					"parameter": 4.0,
+					"cf": 1.65,
+					"cfView": "1.65",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(4)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"blocked": true,
+					"parameter": 2.5,
+					"cf": 1.715,
+					"cfView": "1.715",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"blocked": true,
+					"parameter": -2.5,
+					"cf": 1.96,
+					"cfView": "1.96",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"blocked": true,
+					"parameter": 0.5,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"blocked": true,
+					"parameter": 0.5,
+					"cf": 2.01,
+					"cfView": "2.01",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"blocked": true,
+					"parameter": 3.0,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"blocked": true,
+					"parameter": 3.0,
+					"cf": 2.016,
+					"cfView": "2.016",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"location": "TsFKSiZ Vasileostrovsky district (St. Petersburg)",
+			"matchFormat": "2x40",
+			"locationCity": "Saint Petersburg",
+			"temperature": "+13°C",
+			"locationCountry": "Russia",
+			"stadiumId": "32205",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "5",
+			"weatherWindParam": "3.1",
+			"weatherWindDescription": "E wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "94",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-2",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp2": 2
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd half",
+			"scoreOpp1": 0,
+			"scoreOpp2": 2,
+			"periodScoresStr": "0-2,0-0",
+			"timer": {
+				"timeSec": 2410,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"tabloStats": {
+				"0": [{
+					"id": 29,
+					"s1": "43",
+					"s2": "57",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "0",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "2",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 2
+			},
+			"statusLineStr": "40 minutes"
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150621,
+		"id": 755332871,
+		"num": 216340,
+		"mainGameId": 755332871,
+		"constId": 372544588,
+		"startTs": 1790146801,
+		"countryId": 1,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372544588,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"image": "/sfiles/logo-champ/05bc2c6ed5eaf747ff173891889841d1.png",
+			"id": 67559,
+			"name": "Club Friendlies"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Alajo United",
+			"countryId": 48,
+			"opps": [{
+				"id": 9310961,
+				"name": "Alajo United",
+				"image": "/sfiles/logo_teams/ea84445e4444a7589088d2a52477d985.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Kotoku Shining Stars",
+			"countryId": 48,
+			"opps": [{
+				"id": 9261613,
+				"name": "Kotoku Shining Stars",
+				"image": "/sfiles/logo_teams/1345e686851ec5d64a8a7608740955ee.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 11.8,
+					"cfView": "11.8"
+				}],
+				[{
+					"type": 2,
+					"cf": 1.11,
+					"cfView": "1.11"
+				}],
+				[{
+					"type": 3,
+					"cf": 8.03,
+					"cfView": "8.03"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.015,
+					"cfView": "1.015"
+				}],
+				[{
+					"type": 5,
+					"cf": 4.79,
+					"cfView": "4.79"
+				}],
+				[{
+					"type": 6,
+					"blocked": true,
+					"cf": 1.001,
+					"cfView": "1.001"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 0.5,
+					"cf": 4.3,
+					"cfView": "4.3",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 0.5,
+					"cf": 1.144,
+					"cfView": "1.144",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"cf": 2.275,
+					"cfView": "2.275",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"cf": 1.544,
+					"cfView": "1.544",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 6.6,
+					"cfView": "6.6",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.05,
+					"cfView": "1.05",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"location": "Alajo Astro Turf (Accra)",
+			"locationCity": "Accra",
+			"temperature": "+26°C",
+			"stadiumId": "80188",
+			"weatherCode": "11",
+			"weatherDescription": "Gloomy",
+			"weatherWindCode": "10",
+			"weatherWindParam": "5",
+			"weatherWindDescription": "SSW wind, m/s",
+			"weatherPressure": "760",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "87",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0,0-0",
+			"timer": {
+				"timeSec": 5104,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "85 minutes",
+			"gameStatus": 2
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150621,
+		"id": 755329438,
+		"num": 184256,
+		"mainGameId": 755329438,
+		"constId": 372539982,
+		"startTs": 1790145001,
+		"countryId": 225,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372539982,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1228283,
+			"name": "Japan. League Cup. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "JEF United Ichihara Chiba (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 20317,
+				"name": "JEF United Ichihara Chiba (Women)",
+				"image": "/sfiles/logo_teams/20317.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "INAC Kobe Leonessa (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 35667,
+				"name": "INAC Kobe Leonessa (Women)",
+				"image": "/sfiles/logo_teams/f7d87cfd009c8833f91d8397fb17e99e.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 3.285,
+					"cfView": "3.285"
+				}],
+				[{
+					"type": 2,
+					"cf": 2.66,
+					"cfView": "2.66"
+				}],
+				[{
+					"type": 3,
+					"cf": 2.496,
+					"cfView": "2.496"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.48,
+					"cfView": "1.48"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.425,
+					"cfView": "1.425"
+				}],
+				[{
+					"type": 6,
+					"cf": 1.296,
+					"cfView": "1.296"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 3.056,
+					"cfView": "3.056"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.325,
+					"cfView": "1.325"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 1.5,
+					"cf": 1.925,
+					"cfView": "1.925",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 1.5,
+					"cf": 1.82,
+					"cfView": "1.82",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"cf": 2.22,
+					"cfView": "2.22",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"cf": 1.616,
+					"cfView": "1.616",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 0.5,
+					"cf": 1.89,
+					"cfView": "1.89",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 0.5,
+					"cf": 1.91,
+					"cfView": "1.91",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 1.6,
+					"cfView": "1.6",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 2.335,
+					"cfView": "2.335",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Tour 3",
+			"location": "ZA Oripri (Ichihara)",
+			"locationCity": "Ichihara",
+			"temperature": "+21°C",
+			"locationCountry": "Japan",
+			"stadiumId": "17816",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "3",
+			"weatherWindParam": "1.7",
+			"weatherWindDescription": "NE wind, m/s",
+			"weatherPressure": "762",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "79",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0,0-0",
+			"timer": {
+				"timeSec": 2700,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "46",
+					"s2": "52",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "13",
+					"s2": "17",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "55",
+					"s2": "45",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "2",
+					"s2": "3",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "5",
+					"s2": "4",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "1",
+					"s2": "2",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "45 minutes",
+			"gameStatus": 2
+		},
+		"statisticInfo": {
+			"gameId": "6aab283e7762417de8557f50",
+			"stageId": "6a9ce2047762417de84e2db5",
+			"stageType": 2,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755333329,
+		"updateTs": 1790150619,
+		"id": 755333329,
+		"num": 261688,
+		"mainGameId": 755333329,
+		"constId": 372255346,
+		"startTs": 1790146800,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372255346,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1228283,
+			"name": "Japan. League Cup. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "RB Omiya Ardija (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 5159009,
+				"name": "RB Omiya Ardija (Women)",
+				"image": "/sfiles/logo_teams/844eb7fb988abfa10f7c68e39df85822.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "MyNavi Sendai (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 34955,
+				"name": "MyNavi Sendai (Women)",
+				"image": "/sfiles/logo_teams/3ebba2b25d42c470488f01c141ae1daf.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 2.315,
+					"cfView": "2.315"
+				}],
+				[{
+					"type": 2,
+					"cf": 2.21,
+					"cfView": "2.21"
+				}],
+				[{
+					"type": 3,
+					"cf": 5.08,
+					"cfView": "5.08"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 1.14,
+					"cfView": "1.14"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.6,
+					"cfView": "1.6"
+				}],
+				[{
+					"type": 6,
+					"cf": 1.55,
+					"cfView": "1.55"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 5.14,
+					"cfView": "5.14"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.13,
+					"cfView": "1.13"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 1,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 1,
+					"cf": 1.944,
+					"cfView": "1.944",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"cf": 1.39,
+					"cfView": "1.39",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"cf": 2.86,
+					"cfView": "2.86",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 0.5,
+					"cf": 1.784,
+					"cfView": "1.784",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 0.5,
+					"cf": 2.03,
+					"cfView": "2.03",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 2.61,
+					"cfView": "2.61",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.496,
+					"cfView": "1.496",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Tour 3",
+			"location": "NACK5 Omiya (Saitama)",
+			"locationCity": "Saitama",
+			"temperature": "+20°C",
+			"locationCountry": "Japan",
+			"stadiumId": "3234",
+			"weatherCode": "11",
+			"weatherDescription": "Gloomy",
+			"weatherWindCode": "1",
+			"weatherWindParam": "1",
+			"weatherWindDescription": "N wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "92",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"periodScoresStr": "0-0,0-0",
+			"timer": {
+				"timeSec": 2700,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "41",
+					"s2": "29",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "22",
+					"s2": "9",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "61",
+					"s2": "39",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "2",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "0",
+					"s2": "1",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "2",
+					"s2": "0",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "1",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "45 minutes",
+			"gameStatus": 2
+		},
+		"statisticInfo": {
+			"gameId": "6aab283e7762417de8557f4d",
+			"stageId": "6a9ce2047762417de84e2db5",
+			"stageType": 2,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755333332,
+		"updateTs": 1790150619,
+		"id": 755333332,
+		"num": 169083,
+		"mainGameId": 755333332,
+		"constId": 372264670,
+		"startTs": 1790146800,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372264670,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1228283,
+			"name": "Japan. League Cup. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Urawa Red Diamonds (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 20315,
+				"name": "Urawa Red Diamonds (Women)",
+				"image": "/sfiles/logo_teams/20315.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Nagano Parceiro (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 170971,
+				"name": "Nagano Parceiro (Women)",
+				"image": "/sfiles/logo_teams/1493eb10b274813e3feaf073b71fac37.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.016,
+					"cfView": "1.016"
+				}],
+				[{
+					"type": 2,
+					"cf": 16.1,
+					"cfView": "16.1"
+				}],
+				[{
+					"type": 3,
+					"cf": 28,
+					"cfView": "28"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 2.425,
+					"cfView": "2.425"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.56,
+					"cfView": "1.56"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3.5,
+					"cf": 1.91,
+					"cfView": "1.91",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3.5,
+					"cf": 1.832,
+					"cfView": "1.832",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -2.5,
+					"cf": 1.74,
+					"cfView": "1.74",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 2.5,
+					"cf": 2.02,
+					"cfView": "2.02",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 3,
+					"cf": 1.725,
+					"cfView": "1.725",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 3,
+					"cf": 2.112,
+					"cfView": "2.112",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 2.425,
+					"cfView": "2.425",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.56,
+					"cfView": "1.56",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"tournamentStage": "Tour 3",
+			"location": "Urawa Komaba (Saitama)",
+			"locationCity": "Saitama",
+			"temperature": "+20°C",
+			"locationCountry": "Japan",
+			"stadiumId": "6508",
+			"weatherCode": "11",
+			"weatherDescription": "Gloomy",
+			"weatherWindCode": "1",
+			"weatherWindParam": "1",
+			"weatherWindDescription": "N wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "92",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "2-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 2
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 2,
+			"scoreOpp2": 0,
+			"periodScoresStr": "2-0,0-0",
+			"timer": {
+				"timeSec": 2700,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "42",
+					"s2": "27",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "15",
+					"s2": "19",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "57",
+					"s2": "43",
+					"name": "Possession %"
+				}, {
+					"id": 59,
+					"s1": "2",
+					"s2": "0",
+					"name": "Shots on target"
+				}, {
+					"id": 60,
+					"s1": "1",
+					"s2": "3",
+					"name": "Shots off target"
+				}, {
+					"id": 26,
+					"s1": "0",
+					"s2": "0",
+					"name": "Yellow cards"
+				}, {
+					"id": 70,
+					"s1": "0",
+					"s2": "1",
+					"name": "Corner"
+				}, {
+					"id": 71,
+					"s1": "0",
+					"s2": "0",
+					"name": "Red card"
+				}, {
+					"id": 72,
+					"s1": "0",
+					"s2": "0",
+					"name": "Penalty"
+				}, {
+					"id": 92,
+					"s1": "2",
+					"s2": "0",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 2,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "45 minutes",
+			"gameStatus": 2
+		},
+		"statisticInfo": {
+			"gameId": "6aab283e7762417de8557f55",
+			"stageId": "6a9ce2047762417de84e2db5",
+			"stageType": 2,
+			"status": 3,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755333330,
+		"updateTs": 1790150619,
+		"id": 755333330,
+		"num": 177977,
+		"mainGameId": 755333330,
+		"constId": 372267072,
+		"startTs": 1790146800,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372267072,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 2385982,
+			"name": "Japan. University League Kanto. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Yamanashi Gakuin University (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 1962073,
+				"name": "Yamanashi Gakuin University (Women)",
+				"image": "/sfiles/logo_teams/ba21757d97e9d6b60683fe2289634e1f.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Keio University (Women)",
+			"countryId": 218,
+			"opps": [{
+				"id": 6536919,
+				"name": "Keio University (Women)",
+				"image": "/sfiles/logo_teams/3a0e719789b420798fbcc7e21d5844fe.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.056,
+					"cfView": "1.056"
+				}],
+				[{
+					"type": 2,
+					"cf": 10,
+					"cfView": "10"
+				}],
+				[{
+					"type": 3,
+					"cf": 25,
+					"cfView": "25"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"blocked": true,
+					"cf": 1.001,
+					"cfView": "1.001"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.015,
+					"cfView": "1.015"
+				}],
+				[{
+					"type": 6,
+					"cf": 8.43,
+					"cfView": "8.43"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 2.845,
+					"cfView": "2.845"
+				}],
+				[{
+					"type": 181,
+					"cf": 1.405,
+					"cfView": "1.405"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3.0,
+					"cf": 2.05,
+					"cfView": "2.05",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3.0,
+					"cf": 1.736,
+					"cfView": "1.736",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -2.0,
+					"cf": 1.696,
+					"cfView": "1.696",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 2.0,
+					"cf": 2.105,
+					"cfView": "2.105",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2.5,
+					"cf": 1.925,
+					"cfView": "1.925",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2.5,
+					"cf": 1.835,
+					"cfView": "1.835",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 0.5,
+					"cf": 2.845,
+					"cfView": "2.845",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 0.5,
+					"cf": 1.405,
+					"cfView": "1.405",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(0.5)"]
+					}
+				}]
+			]
+		}],
+		"matchInfoObj": {
+			"locationCountry": "Japan"
+		},
+		"scores": {
+			"fullScore": "1-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 1
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 1,
+			"scoreOpp2": 0,
+			"periodScoresStr": "1-0,0-0",
+			"timer": {
+				"timeSec": 2700,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "45 minutes",
+			"gameStatus": 2
+		},
+		"updateTs": 1790150620,
+		"id": 755333009,
+		"num": 217619,
+		"mainGameId": 755333009,
+		"constId": 372544720,
+		"startTs": 1790145900,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372544720,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1334051,
+			"name": "ATP. Chengdu. Qualification"
+		},
+		"sport": {
+			"id": 4,
+			"name": "Tennis"
+		},
+		"opponent1": {
+			"fullName": "Shintaro Mochizuki",
+			"countryId": 218,
+			"opps": [{
+				"id": 1156595,
+				"name": "Shintaro Mochizuki",
+				"image": "/sfiles/logo_teams/3888a5e2e135b86fc845a7bc40f21021.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Pavel Kotov",
+			"countryId": 1,
+			"opps": [{
+				"id": 213669,
+				"name": "Pavel Kotov",
+				"image": "/sfiles/logo_teams/213669.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.04,
+					"cfView": "1.04"
+				}],
+				[{
+					"type": 3,
+					"cf": 10.9,
+					"cfView": "10.9"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 20.5,
+					"cf": 1.648,
+					"cfView": "1.648",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(20.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 20.5,
+					"cf": 2.245,
+					"cfView": "2.245",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(20.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -5.5,
+					"cf": 2.245,
+					"cfView": "2.245",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-5.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 5.5,
+					"cf": 1.648,
+					"cfView": "1.648",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(5.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 13.5,
+					"cf": 4.89,
+					"cfView": "4.89",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(13.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 13.5,
+					"cf": 1.14,
+					"cfView": "1.14",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(13.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 7.5,
+					"cf": 1.605,
+					"cfView": "1.605",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 7.5,
+					"cf": 2.184,
+					"cfView": "2.184",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_1_1787720776"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Round 2",
+			"location": "Sichuan International Tennis Center (Chengdu)",
+			"seedNum1": "Q",
+			"seedNum2": "Q",
+			"locationCity": "Chengdu",
+			"temperature": "+28°C",
+			"surface": "Hard",
+			"locationCountry": "China",
+			"stadiumId": "28073",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "9",
+			"weatherWindParam": "1.7",
+			"weatherWindDescription": "S wind, m/s",
+			"weatherPressure": "760",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "57",
+			"weatherHumidityDescription": "Humidity, %",
+			"tennisSetsCountDescription": "3"
+		},
+		"scores": {
+			"fullScore": "1-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 7,
+				"scoreOpp2": 5
+			}, {
+				"period": 2,
+				"scoreOpp1": 4,
+				"scoreOpp2": 1
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd set",
+			"scoreOpp1": 1,
+			"scoreOpp2": 0,
+			"subScore": {
+				"opponent1": "0",
+				"opponent2": "0"
+			},
+			"serve": 2,
+			"periodScoresStr": "7-5,4-1",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 1,
+					"s1": "0",
+					"s2": "3",
+					"name": "Aces"
+				}, {
+					"id": 2,
+					"s1": "74",
+					"s2": "59",
+					"name": "Win % 1st Serve"
+				}, {
+					"id": 3,
+					"s1": "100",
+					"s2": "29",
+					"name": "Break point %"
+				}, {
+					"id": 4,
+					"s1": "3",
+					"s2": "1",
+					"name": "Double faults"
+				}, {
+					"id": 7,
+					"s1": "53",
+					"s2": "27",
+					"name": "Win % 2nd Serve"
+				}, {
+					"id": 8,
+					"s1": "46",
+					"s2": "72",
+					"name": "1st Serve %"
+				}, {
+					"id": 30,
+					"s1": "35",
+					"s2": "20",
+					"name": "Points on own serve"
+				}, {
+					"id": 98,
+					"s1": "4",
+					"s2": "2",
+					"name": "Breaks"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStatRatingTables": true,
+			"gameId": "6ab25f1d7762417de86198f2",
+			"stageId": "6ab11ca77762417de860ae6a",
+			"stageType": 1,
+			"status": 2,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755329351,
+		"updateTs": 1790150620,
+		"id": 755329351,
+		"num": 200939,
+		"mainGameId": 755329351,
+		"constId": 372271794,
+		"startTs": 1790145000,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372271794,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 310679,
+			"name": "Japan. NPB"
+		},
+		"sport": {
+			"id": 5,
+			"name": "Baseball"
+		},
+		"opponent1": {
+			"fullName": "Yomiuri Giants",
+			"countryId": 218,
+			"opps": [{
+				"id": 10679,
+				"name": "Yomiuri Giants",
+				"image": "/sfiles/logo_teams/8b5cb0d6f7f8fbd7ff67caa94d7c8adc.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Hiroshima Toyo Carp",
+			"countryId": 218,
+			"opps": [{
+				"id": 10689,
+				"name": "Hiroshima Toyo Carp",
+				"image": "/sfiles/logo_teams/30838a2009c6c4be84c82fc4feacb213.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.35,
+					"cfView": "1.35"
+				}],
+				[{
+					"type": 3,
+					"cf": 3.04,
+					"cfView": "3.04"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 5.5,
+					"cf": 2.03,
+					"cfView": "2.03",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(5.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 5.5,
+					"cf": 1.7,
+					"cfView": "1.7",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(5.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -1.5,
+					"cf": 2.315,
+					"cfView": "2.315",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 1.5,
+					"cf": 1.57,
+					"cfView": "1.57",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 2.5,
+					"cf": 1.52,
+					"cfView": "1.52",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 2.5,
+					"cf": 2.36,
+					"cfView": "2.36",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 2.5,
+					"cf": 2.27,
+					"cfView": "2.27",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 2.5,
+					"cf": 1.56,
+					"cfView": "1.56",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20413877"
+		},
+		"matchInfoObj": {
+			"location": "Mazda Zoom-Zoom (Hiroshima)",
+			"locationCity": "Hiroshima",
+			"temperature": "+24°C",
+			"locationCountry": "Japan",
+			"stadiumId": "5191",
+			"weatherCode": "7",
+			"weatherDescription": "Cloudy",
+			"weatherWindCode": "2",
+			"weatherWindParam": "2.8",
+			"weatherWindDescription": "NNE wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "77",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "2-1",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp2": 1
+			}, {
+				"period": 2
+			}, {
+				"period": 3
+			}, {
+				"period": 4
+			}, {
+				"period": 5,
+				"scoreOpp1": 2
+			}, {
+				"period": 6
+			}],
+			"currentPeriod": 6,
+			"currentPeriodName": "6th inning",
+			"scoreOpp1": 2,
+			"scoreOpp2": 1,
+			"serve": 2,
+			"periodScoresStr": "0-1,0-0,0-0,0-0,2-0,0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"fullScoreDetail": {
+				"scoreOpp1": 2,
+				"scoreOpp2": 1
+			},
+			"statistic": {
+				"main": {
+					"Hits1": "1",
+					"Hits2": "0",
+					"StatIng": "B3;S0;O2;B11;B21;B30;Bottom 6"
+				}
+			},
+			"statusLineStr": "Event in progress",
+			"inningsStat": []
+		},
+		"statisticInfo": {
+			"gameId": "6aa9e1df7762417de854bd5a",
+			"stageId": "69bc7d175e99bd05c6fd3c4c",
+			"stageType": 2,
+			"status": 3,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755321714,
+		"updateTs": 1790150618,
+		"id": 755321714,
+		"num": 254359,
+		"mainGameId": 755321714,
+		"constId": 372530338,
+		"startTs": 1790142300,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372530338,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 310679,
+			"name": "Japan. NPB"
+		},
+		"sport": {
+			"id": 5,
+			"name": "Baseball"
+		},
+		"opponent1": {
+			"fullName": "Orix Buffaloes",
+			"countryId": 218,
+			"opps": [{
+				"id": 10699,
+				"name": "Orix Buffaloes",
+				"image": "/sfiles/logo_teams/d51588b53dd998c70014fbb831fa79c1.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Chiba Lotte Marines",
+			"countryId": 218,
+			"opps": [{
+				"id": 10691,
+				"name": "Chiba Lotte Marines",
+				"image": "/sfiles/logo_teams/2bbb51e892d7d890e3d85c647f937a38.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 2.112,
+					"cfView": "2.112"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.675,
+					"cfView": "1.675"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 7.5,
+					"cf": 2.005,
+					"cfView": "2.005",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 7.5,
+					"cf": 1.72,
+					"cfView": "1.72",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(7.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": 1.5,
+					"cf": 1.53,
+					"cfView": "1.53",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": -1.5,
+					"cf": 2.408,
+					"cfView": "2.408",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-1.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 3.5,
+					"cf": 2.048,
+					"cfView": "2.048",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 3.5,
+					"cf": 1.69,
+					"cfView": "1.69",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 3.5,
+					"cf": 1.816,
+					"cfView": "1.816",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 3.5,
+					"cf": 1.888,
+					"cfView": "1.888",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414880"
+		},
+		"matchInfoObj": {
+			"location": "ZOZO Marine (Chiba)",
+			"locationCountry": "Japan",
+			"stadiumId": "8909"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st inning",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"serve": 1,
+			"periodScoresStr": "0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statistic": {
+				"main": {
+					"Hits1": "0",
+					"Hits2": "0",
+					"StatIng": "B1;S2;O0;B10;B20;B30;Top 1"
+				}
+			},
+			"statusLineStr": "Event in progress",
+			"inningsStat": []
+		},
+		"statisticInfo": {
+			"gameId": "6aa9e1df7762417de854bd58",
+			"stageId": "69bc7d175e99bd05c6fd3c4c",
+			"stageType": 2,
+			"status": 2,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755345243,
+		"updateTs": 1790150621,
+		"id": 755345243,
+		"num": 271209,
+		"mainGameId": 755345243,
+		"constId": 372560004,
+		"startTs": 1790150400,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372560004,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 310679,
+			"name": "Japan. NPB"
+		},
+		"sport": {
+			"id": 5,
+			"name": "Baseball"
+		},
+		"opponent1": {
+			"fullName": "Saitama Seibu Lions",
+			"countryId": 218,
+			"opps": [{
+				"id": 10693,
+				"name": "Saitama Seibu Lions",
+				"image": "/sfiles/logo_teams/65c16d6c17b95ece55ef2576829eea02.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Fukuoka SoftBank Hawks",
+			"countryId": 218,
+			"opps": [{
+				"id": 10697,
+				"name": "Fukuoka SoftBank Hawks",
+				"image": "/sfiles/logo_teams/be016522172626d9a6fd86eab4198e93.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 11.5,
+					"cf": 6.09,
+					"cfView": "6.09",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(11.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 11.5,
+					"cf": 1.09,
+					"cfView": "1.09",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(11.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": 8.5,
+					"cf": 6.39,
+					"cfView": "6.39",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(8.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": -8.5,
+					"cf": 1.08,
+					"cfView": "1.08",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-8.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20413395"
+		},
+		"matchInfoObj": {
+			"location": "PayPay Dome (Fukuoka)",
+			"locationCity": "Fukuoka",
+			"temperature": "+18°C",
+			"locationCountry": "Japan",
+			"stadiumId": "8515",
+			"weatherCode": "15",
+			"weatherDescription": "Clear skies",
+			"weatherWindCode": "6",
+			"weatherWindParam": "3.9",
+			"weatherWindDescription": "ESE wind, m/s",
+			"weatherPressure": "763",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "83",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "1-10",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 1,
+				"scoreOpp2": 3
+			}, {
+				"period": 2
+			}, {
+				"period": 3
+			}, {
+				"period": 4
+			}, {
+				"period": 5,
+				"scoreOpp2": 4
+			}, {
+				"period": 6,
+				"scoreOpp2": 3
+			}, {
+				"period": 7
+			}, {
+				"period": 8
+			}, {
+				"period": 9
+			}],
+			"currentPeriod": 9,
+			"currentPeriodName": "9th inning",
+			"scoreOpp1": 1,
+			"scoreOpp2": 10,
+			"serve": 1,
+			"periodScoresStr": "1-3,0-0,0-0,0-0,0-4,0-3,0-0,0-0,0-0",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 85,
+					"s1": "1",
+					"s2": "4",
+					"name": "Maximum runs per inning"
+				}, {
+					"id": 86,
+					"s1": "172",
+					"s2": "125",
+					"name": "Pitches"
+				}, {
+					"id": 87,
+					"s1": "55",
+					"s2": "61",
+					"name": "Strikes"
+				}, {
+					"id": 88,
+					"s1": "44",
+					"s2": "59",
+					"name": "Balls"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 1,
+				"scoreOpp2": 10
+			},
+			"statistic": {
+				"main": {
+					"Hits1": "0",
+					"Hits2": "0",
+					"StatIng": "B1;S0;O1;B10;B20;B30;Top 9"
+				}
+			},
+			"statusLineStr": "Event in progress",
+			"inningsStat": []
+		},
+		"statisticInfo": {
+			"gameId": "6aa9e1df7762417de854bd59",
+			"stageId": "69bc7d175e99bd05c6fd3c4c",
+			"stageType": 2,
+			"status": 3,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755312287,
+		"updateTs": 1790150620,
+		"id": 755312287,
+		"num": 204690,
+		"mainGameId": 755312287,
+		"constId": 372518098,
+		"startTs": 1790139600,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372518098,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 310679,
+			"name": "Japan. NPB"
+		},
+		"sport": {
+			"id": 5,
+			"name": "Baseball"
+		},
+		"opponent1": {
+			"fullName": "Hanshin Tigers",
+			"countryId": 218,
+			"opps": [{
+				"id": 10681,
+				"name": "Hanshin Tigers",
+				"image": "/sfiles/logo_teams/e5bc548cb8ce8349a919e0b8385c323d.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Tokyo Yakult Swallows",
+			"countryId": 218,
+			"opps": [{
+				"id": 10685,
+				"name": "Tokyo Yakult Swallows",
+				"image": "/sfiles/logo_teams/488fcd5549e7146d6c56bbdedcfc7857.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 12.5,
+					"cf": 2.2,
+					"cfView": "2.2",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 12.5,
+					"cf": 1.595,
+					"cfView": "1.595",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(12.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -3.5,
+					"cf": 1.23,
+					"cfView": "1.23",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-3.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 3.5,
+					"cf": 3.91,
+					"cfView": "3.91",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20413398"
+		},
+		"matchInfoObj": {
+			"location": "Meiji Jingu (Tokyo)",
+			"locationCity": "Tokyo",
+			"temperature": "+20°C",
+			"locationCountry": "Japan",
+			"stadiumId": "4224",
+			"weatherCode": "8",
+			"weatherDescription": "Cloudy, rain",
+			"weatherWindCode": "2",
+			"weatherWindParam": "2.2",
+			"weatherWindDescription": "NNE wind, m/s",
+			"weatherPressure": "764",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "90",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "8-4",
+			"periodScores": [{
+				"period": 1
+			}, {
+				"period": 2
+			}, {
+				"period": 3
+			}, {
+				"period": 4
+			}, {
+				"period": 5
+			}, {
+				"period": 6,
+				"scoreOpp1": 4,
+				"scoreOpp2": 1
+			}, {
+				"period": 7,
+				"scoreOpp1": 4
+			}, {
+				"period": 8,
+				"scoreOpp2": 3
+			}],
+			"currentPeriod": 8,
+			"currentPeriodName": "8th inning",
+			"scoreOpp1": 8,
+			"scoreOpp2": 4,
+			"serve": 2,
+			"periodScoresStr": "0-0,0-0,0-0,0-0,0-0,4-1,4-0,0-3",
+			"timer": {
+				"timeSec": 0,
+				"timeDirection": -1,
+				"timeRun": false
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 85,
+					"s1": "4",
+					"s2": "1",
+					"name": "Maximum runs per inning"
+				}, {
+					"id": 86,
+					"s1": "111",
+					"s2": "139",
+					"name": "Pitches"
+				}, {
+					"id": 87,
+					"s1": "55",
+					"s2": "46",
+					"name": "Strikes"
+				}, {
+					"id": 88,
+					"s1": "49",
+					"s2": "35",
+					"name": "Balls"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 8,
+				"scoreOpp2": 4
+			},
+			"statistic": {
+				"main": {
+					"Hits1": "0",
+					"Hits2": "0",
+					"StatIng": "B1;S1;O2;B10;B21;B30;Bottom 8"
+				}
+			},
+			"statusLineStr": "Event in progress",
+			"inningsStat": []
+		},
+		"statisticInfo": {
+			"gameId": "6aa9e1df7762417de854bd57",
+			"stageId": "69bc7d175e99bd05c6fd3c4c",
+			"stageType": 2,
+			"status": 3,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755312278,
+		"updateTs": 1790150621,
+		"id": 755312278,
+		"num": 204691,
+		"mainGameId": 755312278,
+		"constId": 372518088,
+		"startTs": 1790139600,
+		"countryId": 218,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372518088,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 206233,
+			"name": "Russia. 1st Division. Women"
+		},
+		"sport": {
+			"id": 1,
+			"name": "Football"
+		},
+		"opponent1": {
+			"fullName": "Sochi (Women)",
+			"countryId": 1,
+			"opps": [{
+				"id": 8944139,
+				"name": "Sochi (Women)",
+				"image": "/sfiles/logo_teams/01b2883ec80653030e9d6738dd7b20ae.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Strogino (Women)",
+			"countryId": 225,
+			"opps": [{
+				"id": 2766837,
+				"name": "Strogino (Women)",
+				"image": "/sfiles/logo_teams/61c8e99be860d11202a4727debc6bb99.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 33,
+					"cfView": "33"
+				}],
+				[{
+					"type": 2,
+					"cf": 8.18,
+					"cfView": "8.18"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.075,
+					"cfView": "1.075"
+				}]
+			]
+		}, {
+			"groupId": 2,
+			"events": [
+				[{
+					"type": 4,
+					"cf": 6.6,
+					"cfView": "6.6"
+				}],
+				[{
+					"type": 5,
+					"cf": 1.05,
+					"cfView": "1.05"
+				}]
+			]
+		}, {
+			"groupId": 21,
+			"events": [
+				[{
+					"type": 180,
+					"cf": 1.53,
+					"cfView": "1.53"
+				}],
+				[{
+					"type": 181,
+					"cf": 2.37,
+					"cfView": "2.37"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 3.5,
+					"cf": 1.8,
+					"cfView": "1.8",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 3.5,
+					"cf": 1.944,
+					"cfView": "1.944",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(3.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": 2,
+					"cf": 1.76,
+					"cfView": "1.76",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": -2,
+					"cf": 2.064,
+					"cfView": "2.064",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-2)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 1,
+					"cf": 2.41,
+					"cfView": "2.41",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 1,
+					"cf": 1.57,
+					"cfView": "1.57",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(1)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 2.5,
+					"cf": 1.66,
+					"cfView": "1.66",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 2.5,
+					"cf": 2.112,
+					"cfView": "2.112",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(2.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414455"
+		},
+		"matchInfoObj": {
+			"location": "Academy FC (Sochi)",
+			"locationCity": "Sochi",
+			"temperature": "+26°C",
+			"locationCountry": "Russia",
+			"stadiumId": "46067",
+			"weatherCode": "3",
+			"weatherDescription": "Some cloud",
+			"weatherWindCode": "15",
+			"weatherWindParam": "2.5",
+			"weatherWindDescription": "NW wind, m/s",
+			"weatherPressure": "756",
+			"weatherPressureDescription": "Pressure, mmHg",
+			"weatherHumidity": "56",
+			"weatherHumidityDescription": "Humidity, %"
+		},
+		"scores": {
+			"fullScore": "0-2",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp2": 2
+			}, {
+				"period": 2
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "Half-time",
+			"scoreOpp1": 0,
+			"scoreOpp2": 2,
+			"periodScoresStr": "0-2,0-0",
+			"timer": {
+				"timeSec": 2700,
+				"timeDirection": 0,
+				"timeRun": false
+			},
+			"isBreak": true,
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 45,
+					"s1": "22",
+					"s2": "25",
+					"name": "Attacks"
+				}, {
+					"id": 58,
+					"s1": "8",
+					"s2": "4",
+					"name": "Dangerous attacks"
+				}, {
+					"id": 29,
+					"s1": "46",
+					"s2": "54",
+					"name": "Possession %"
+				}, {
+					"id": 70,
+					"s1": "1",
+					"s2": "1",
+					"name": "Corner"
+				}, {
+					"id": 92,
+					"s1": "0",
+					"s2": "1",
+					"name": "Substitutions"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 2
+			},
+			"statusLineStr": "45 minutes",
+			"gameStatus": 2
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150621,
+		"id": 755334745,
+		"num": 236721,
+		"mainGameId": 755334745,
+		"constId": 372546804,
+		"startTs": 1790146800,
+		"countryId": 1,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372546804,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"image": "/sfiles/logo-champ/5fae7b17e0a81350dfe9ee180bec744f.png",
+			"id": 258247,
+			"name": "FIBA Intercontinental Cup"
+		},
+		"sport": {
+			"id": 3,
+			"name": "Basketball"
+		},
+		"opponent1": {
+			"fullName": "Shanghai Sharks",
+			"countryId": 90,
+			"opps": [{
+				"id": 6526,
+				"name": "Shanghai Sharks",
+				"image": "/sfiles/logo_teams/acd0fe0c93bebc872ef81804053ddd22.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "RSSB Tigers",
+			"countryId": 151,
+			"opps": [{
+				"id": 3475815,
+				"name": "RSSB Tigers",
+				"image": "/sfiles/logo_teams/963aa6fdb6029e18fe608432e0850dca.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 38,
+			"events": [
+				[{
+					"type": 401,
+					"cf": 1.425,
+					"cfView": "1.425"
+				}],
+				[{
+					"type": 402,
+					"cf": 2.715,
+					"cfView": "2.715"
+				}]
+			]
+		}, {
+			"groupId": 939,
+			"events": [
+				[{
+					"type": 3653,
+					"cf": 1.45,
+					"cfView": "1.45"
+				}],
+				[{
+					"type": 3654,
+					"cf": 17,
+					"cfView": "17"
+				}],
+				[{
+					"type": 3655,
+					"cf": 2.835,
+					"cfView": "2.835"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 191.5,
+					"cf": 1.816,
+					"cfView": "1.816",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(191.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 191.5,
+					"cf": 1.888,
+					"cfView": "1.888",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(191.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 3,
+			"events": [
+				[{
+					"type": 7,
+					"parameter": -5.5,
+					"cf": 1.89,
+					"cfView": "1.89",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(-5.5)"]
+					}
+				}],
+				[{
+					"type": 8,
+					"parameter": 5.5,
+					"cf": 1.85,
+					"cfView": "1.85",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(5.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 98.5,
+					"cf": 1.845,
+					"cfView": "1.845",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(98.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 98.5,
+					"cf": 1.9,
+					"cfView": "1.9",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(98.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 92.5,
+					"cf": 1.78,
+					"cfView": "1.78",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(92.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 92.5,
+					"cf": 1.95,
+					"cfView": "1.95",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(92.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "DR_3_1787720594"
+		},
+		"matchInfoObj": {
+			"tournamentStage": "Group Stage. Group A",
+			"location": "National Indoor Stadium (Beijing)",
+			"matchFormat": "4x10",
+			"stadiumId": "15199"
+		},
+		"scores": {
+			"fullScore": "42-33",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 30,
+				"scoreOpp2": 17
+			}, {
+				"period": 2,
+				"scoreOpp1": 12,
+				"scoreOpp2": 16
+			}],
+			"currentPeriod": 2,
+			"currentPeriodName": "2nd quarter",
+			"scoreOpp1": 42,
+			"scoreOpp2": 33,
+			"periodScoresStr": "30-17,12-16",
+			"timer": {
+				"timeSec": 911,
+				"timeDirection": 0,
+				"timeRun": true
+			},
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 53,
+					"s1": "6",
+					"s2": "7",
+					"name": "Fouls"
+				}, {
+					"id": 52,
+					"s1": "4",
+					"s2": "4",
+					"name": "Timeouts remaining"
+				}, {
+					"id": 49,
+					"s1": "14",
+					"s2": "9",
+					"name": "2-pointers"
+				}, {
+					"id": 48,
+					"s1": "4",
+					"s2": "4",
+					"name": "3-pointers"
+				}, {
+					"id": 50,
+					"s1": "6",
+					"s2": "3",
+					"name": "Free throws"
+				}, {
+					"id": 51,
+					"s1": "66",
+					"s2": "42",
+					"name": "Free throws scored %"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 42,
+				"scoreOpp2": 33
+			},
+			"statusLineStr": "15 minutes"
+		},
+		"statisticInfo": {
+			"gameId": "6aaa087f7762417de854d116",
+			"stageId": "6aa86ccc7762417de8541ba2",
+			"stageType": 2,
+			"status": 3,
+			"hasLineUps": true,
+			"hasStadiumInfo": true
+		},
+		"zonePlay": 755338670,
+		"updateTs": 1790150621,
+		"id": 755339935,
+		"num": 170751,
+		"mainGameId": 755339935,
+		"constId": 371922812,
+		"fullName": "Including Overtime",
+		"startTs": 1790148600,
+		"countryId": 225,
+		"gameTypeName": "",
+		"periodName": "",
+		"gameVidName": "Including Overtime",
+		"mainConstId": 371922812,
+		"kind": 1,
+		"hasHeadToHead": true,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1762758,
+			"name": "China. National Championship"
+		},
+		"sport": {
+			"id": 6,
+			"name": "Volleyball"
+		},
+		"opponent1": {
+			"fullName": "Tianjin",
+			"countryId": 90,
+			"opps": [{
+				"id": 106019,
+				"name": "Tianjin",
+				"image": "/sfiles/logo_teams/48ce6800e7a7999c2e97fc2f7ae56cb6.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Qingdao",
+			"countryId": 90,
+			"opps": [{
+				"id": 10128837,
+				"name": "Qingdao",
+				"image": "/sfiles/logo_teams/18133efe04beb74b6b3c46e3c20394ce.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 2.944,
+					"cfView": "2.944"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.37,
+					"cfView": "1.37"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 179.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(179.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 179.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(179.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 85.5,
+					"cf": 1.84,
+					"cfView": "1.84",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(85.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 85.5,
+					"cf": 1.88,
+					"cfView": "1.88",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(85.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 93.5,
+					"cf": 1.88,
+					"cfView": "1.88",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(93.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 93.5,
+					"cf": 1.84,
+					"cfView": "1.84",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(93.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414875"
+		},
+		"matchInfoObj": {
+			"location": "Xiamen University of Technology (Xiamen)",
+			"locationCountry": "China",
+			"stadiumId": "83923"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 2,
+				"scoreOpp2": 4
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"serve": 2,
+			"periodScoresStr": "2-4",
+			"info": "Video review",
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 10,
+					"s1": "1",
+					"s2": "2",
+					"name": "Max pts in a row"
+				}, {
+					"id": 30,
+					"s1": "0",
+					"s2": "2",
+					"name": "Points on own serve"
+				}, {
+					"id": 31,
+					"s1": "2",
+					"s2": "2",
+					"name": "Points on opponent's serve"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150620,
+		"id": 755343413,
+		"num": 269568,
+		"mainGameId": 755343413,
+		"constId": 372557904,
+		"startTs": 1790150100,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372557904,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1762758,
+			"name": "China. National Championship"
+		},
+		"sport": {
+			"id": 6,
+			"name": "Volleyball"
+		},
+		"opponent1": {
+			"fullName": "Hubei",
+			"countryId": 90,
+			"opps": [{
+				"id": 39655,
+				"name": "Hubei",
+				"image": "/sfiles/logo_teams/aadc5a0cdf7a82ef337bd5310f74fff7.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Hebei",
+			"countryId": 90,
+			"opps": [{
+				"id": 499263,
+				"name": "Hebei",
+				"image": "/sfiles/logo_teams/2acbf3094e2f4207249cc79684817270.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 11,
+					"cfView": "11"
+				}],
+				[{
+					"type": 3,
+					"cf": 1.02,
+					"cfView": "1.02"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 131.5,
+					"cf": 1.92,
+					"cfView": "1.92",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(131.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 131.5,
+					"cf": 1.82,
+					"cfView": "1.82",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(131.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 55.5,
+					"cf": 1.81,
+					"cfView": "1.81",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(55.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 55.5,
+					"cf": 1.91,
+					"cfView": "1.91",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(55.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 76.5,
+					"cf": 2.568,
+					"cfView": "2.568",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(76.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 76.5,
+					"cf": 1.46,
+					"cfView": "1.46",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(76.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414871"
+		},
+		"matchInfoObj": {
+			"location": "Xiamen University of Technology (Xiamen)",
+			"locationCountry": "China",
+			"stadiumId": "83923"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 1,
+				"scoreOpp2": 5
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"serve": 2,
+			"periodScoresStr": "1-5",
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 10,
+					"s1": "1",
+					"s2": "4",
+					"name": "Max pts in a row"
+				}, {
+					"id": 30,
+					"s1": "0",
+					"s2": "3",
+					"name": "Points on own serve"
+				}, {
+					"id": 31,
+					"s1": "1",
+					"s2": "2",
+					"name": "Points on opponent's serve"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150620,
+		"id": 755343449,
+		"num": 269557,
+		"mainGameId": 755343449,
+		"constId": 372557922,
+		"startTs": 1790150100,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372557922,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1924027,
+			"name": "China. National Championship. Women"
+		},
+		"sport": {
+			"id": 6,
+			"name": "Volleyball"
+		},
+		"opponent1": {
+			"fullName": "Jiangsu Zenith Steel (Women)",
+			"countryId": 90,
+			"opps": [{
+				"id": 20265,
+				"name": "Jiangsu Zenith Steel (Women)",
+				"image": "/sfiles/logo_teams/e8e1e5472bdeb157ea8b3749ea35fe28.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Henan (Women)",
+			"countryId": 90,
+			"opps": [{
+				"id": 38969,
+				"name": "Henan (Women)",
+				"image": "/sfiles/logo_teams/f8f088fe0cf1591091294d397b686f5e.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"blocked": true,
+					"cf": 1.11,
+					"cfView": "1.11"
+				}],
+				[{
+					"type": 3,
+					"blocked": true,
+					"cf": 5.91,
+					"cfView": "5.91"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"blocked": true,
+					"parameter": 166.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(166.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"blocked": true,
+					"parameter": 166.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(166.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"blocked": true,
+					"parameter": 90.5,
+					"cf": 1.86,
+					"cfView": "1.86",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(90.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"blocked": true,
+					"parameter": 90.5,
+					"cf": 1.86,
+					"cfView": "1.86",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(90.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"blocked": true,
+					"parameter": 73.5,
+					"cf": 1.86,
+					"cfView": "1.86",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(73.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"blocked": true,
+					"parameter": 73.5,
+					"cf": 1.86,
+					"cfView": "1.86",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(73.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414868"
+		},
+		"matchInfoObj": {
+			"location": "Shunde Desheng Sports Center (Foshan)",
+			"locationCountry": "China",
+			"stadiumId": "62803"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 1,
+				"scoreOpp2": 5
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"serve": 2,
+			"periodScoresStr": "1-5",
+			"info": "Time-out",
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 10,
+					"s1": "1",
+					"s2": "4",
+					"name": "Max pts in a row"
+				}, {
+					"id": 30,
+					"s1": "0",
+					"s2": "3",
+					"name": "Points on own serve"
+				}, {
+					"id": 31,
+					"s1": "1",
+					"s2": "2",
+					"name": "Points on opponent's serve"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150621,
+		"id": 755343451,
+		"num": 269545,
+		"mainGameId": 755343451,
+		"constId": 372557928,
+		"startTs": 1790150100,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372557928,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}, {
+		"liga": {
+			"id": 1924027,
+			"name": "China. National Championship. Women"
+		},
+		"sport": {
+			"id": 6,
+			"name": "Volleyball"
+		},
+		"opponent1": {
+			"fullName": "Yunnan (Women)",
+			"countryId": 90,
+			"opps": [{
+				"id": 102779,
+				"name": "Yunnan (Women)",
+				"image": "/sfiles/logo_teams/2458396726052b2e981147dc0775bc4a.png"
+			}]
+		},
+		"opponent2": {
+			"fullName": "Liaoning (Women)",
+			"countryId": 90,
+			"opps": [{
+				"id": 15843,
+				"name": "Liaoning (Women)",
+				"image": "/sfiles/logo_teams/5a43302ca277cc316bc6d5adbb14cc38.png"
+			}]
+		},
+		"eventGroups": [{
+			"groupId": 1,
+			"events": [
+				[{
+					"type": 1,
+					"cf": 1.33,
+					"cfView": "1.33"
+				}],
+				[{
+					"type": 3,
+					"cf": 3.15,
+					"cfView": "3.15"
+				}]
+			]
+		}, {
+			"groupId": 4,
+			"events": [
+				[{
+					"type": 9,
+					"parameter": 178.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(178.5)"]
+					}
+				}],
+				[{
+					"type": 10,
+					"parameter": 178.5,
+					"cf": 1.87,
+					"cfView": "1.87",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(178.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 5,
+			"events": [
+				[{
+					"type": 11,
+					"parameter": 92.5,
+					"cf": 1.83,
+					"cfView": "1.83",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(92.5)"]
+					}
+				}],
+				[{
+					"type": 12,
+					"parameter": 92.5,
+					"cf": 1.89,
+					"cfView": "1.89",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(92.5)"]
+					}
+				}]
+			]
+		}, {
+			"groupId": 6,
+			"events": [
+				[{
+					"type": 13,
+					"parameter": 84.5,
+					"cf": 1.88,
+					"cfView": "1.88",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(84.5)"]
+					}
+				}],
+				[{
+					"type": 14,
+					"parameter": 84.5,
+					"cf": 1.84,
+					"cfView": "1.84",
+					"isCenter": true,
+					"eventParams": {
+						"params": ["(84.5)"]
+					}
+				}]
+			]
+		}],
+		"video": {
+			"enabled": true,
+			"id": "20414865"
+		},
+		"matchInfoObj": {
+			"location": "Shunde Desheng Sports Center (Foshan)",
+			"locationCountry": "China",
+			"stadiumId": "62803"
+		},
+		"scores": {
+			"fullScore": "0-0",
+			"periodScores": [{
+				"period": 1,
+				"scoreOpp1": 4,
+				"scoreOpp2": 3
+			}],
+			"currentPeriod": 1,
+			"currentPeriodName": "1st set",
+			"scoreOpp1": 0,
+			"scoreOpp2": 0,
+			"serve": 1,
+			"periodScoresStr": "4-3",
+			"hasCourseOfPlay": true,
+			"tabloStats": {
+				"0": [{
+					"id": 10,
+					"s1": "2",
+					"s2": "2",
+					"name": "Max pts in a row"
+				}, {
+					"id": 30,
+					"s1": "2",
+					"s2": "1",
+					"name": "Points on own serve"
+				}, {
+					"id": 31,
+					"s1": "1",
+					"s2": "2",
+					"name": "Points on opponent's serve"
+				}]
+			},
+			"fullScoreDetail": {
+				"scoreOpp1": 0,
+				"scoreOpp2": 0
+			},
+			"statusLineStr": "Event in progress"
+		},
+		"statisticInfo": {
+			"hasStadiumInfo": true
+		},
+		"updateTs": 1790150621,
+		"id": 755343415,
+		"num": 269551,
+		"mainGameId": 755343415,
+		"constId": 372557898,
+		"startTs": 1790150100,
+		"countryId": 90,
+		"gameTypeName": "",
+		"periodName": "",
+		"mainConstId": 372557898,
+		"kind": 1,
+		"subscriptionAvailable": true,
+		"isFavoriteAvailable": true
+	}]
+}

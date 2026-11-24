@@ -1,0 +1,5108 @@
+
+
+
+{
+	"data": [{
+		"mainLigas": [{
+			"subLigas": [{
+				"countryImage": "/sfiles/logo-flag/8af524ac00652945225b6621cbac14c3.png",
+				"countryId": 218,
+				"countryName": "Япония",
+				"gamesCount": 6,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/82293f758a924bfe27afa6f3c0ac5602.png",
+				"id": 102647,
+				"name": "Кубок Японии"
+			}, {
+				"countryImage": "/sfiles/logo-flag/8af524ac00652945225b6621cbac14c3.png",
+				"countryId": 218,
+				"countryName": "Япония",
+				"gamesCount": 4,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/82293f758a924bfe27afa6f3c0ac5602.png",
+				"id": 1228283,
+				"name": "Япония. Кубок Лиги. Женщины"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Университет Яманаси Гакуин (жен)",
+						"countryId": 218,
+						"opps": [{
+							"id": 1962073,
+							"name": "Университет Яманаси Гакуин (жен)",
+							"image": "/sfiles/logo_teams/ba21757d97e9d6b60683fe2289634e1f.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Университет Кейо (жен)",
+						"countryId": 218,
+						"opps": [{
+							"id": 6536919,
+							"name": "Университет Кейо (жен)",
+							"image": "/sfiles/logo_teams/3a0e719789b420798fbcc7e21d5844fe.png"
+						}]
+					},
+					"scores": {
+						"fullScore": "1-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 1
+						}, {
+							"period": 2
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "Перерыв",
+						"scoreOpp1": 1,
+						"scoreOpp2": 0,
+						"periodScoresStr": "1-0,0-0",
+						"timer": {
+							"timeSec": 2700,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"isBreak": true,
+						"fullScoreDetail": {
+							"scoreOpp1": 1,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "прошло 45 мин",
+						"gameStatus": 2
+					},
+					"updateTs": 1790150575,
+					"id": 755333009,
+					"num": 217619,
+					"mainGameId": 755333009,
+					"constId": 372544720,
+					"startTs": 1790145900,
+					"countryId": 218,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372544720,
+					"kind": 1,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/8af524ac00652945225b6621cbac14c3.png",
+				"countryId": 218,
+				"countryName": "Япония",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/82293f758a924bfe27afa6f3c0ac5602.png",
+				"id": 2385982,
+				"name": "Япония. Университетская лига Канто. Женщины"
+			}],
+			"subChampsCount": 3,
+			"countryImage": "/sfiles/logo-flag/8af524ac00652945225b6621cbac14c3.png",
+			"countryId": 218,
+			"altImage": "/sfiles/logo-champ/03b4563ec8d7e2ddd4ba4699f937494b.png",
+			"gamesCount": 11,
+			"image": "/sfiles/logo-champ/82293f758a924bfe27afa6f3c0ac5602.png",
+			"id": 141,
+			"name": "Япония"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Фиджи (жен)",
+					"countryId": 195,
+					"opps": [{
+						"id": 199697,
+						"name": "Фиджи (жен)",
+						"image": "/sfiles/logo_teams/199697.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Соломоновы Острова (жен)",
+					"countryId": 173,
+					"opps": [{
+						"id": 199643,
+						"name": "Соломоновы Острова (жен)",
+						"image": "/sfiles/logo_teams/199643.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1
+					}, {
+						"period": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"periodScoresStr": "0-0,0-0",
+					"timer": {
+						"timeSec": 2715,
+						"timeDirection": 0,
+						"timeRun": true
+					},
+					"hasCourseOfPlay": true,
+					"tabloStats": {
+						"0": [{
+							"id": 45,
+							"s1": "43",
+							"s2": "38",
+							"name": "Атаки"
+						}, {
+							"id": 58,
+							"s1": "36",
+							"s2": "24",
+							"name": "Опасные атаки"
+						}, {
+							"id": 29,
+							"s1": "48",
+							"s2": "52",
+							"name": "Владение мячом %"
+						}, {
+							"id": 59,
+							"s1": "3",
+							"s2": "1",
+							"name": "Удары в створ"
+						}, {
+							"id": 60,
+							"s1": "5",
+							"s2": "1",
+							"name": "Удары в сторону ворот"
+						}, {
+							"id": 26,
+							"s1": "0",
+							"s2": "0",
+							"name": "Желтые карточки"
+						}, {
+							"id": 70,
+							"s1": "0",
+							"s2": "4",
+							"name": "Угловые"
+						}, {
+							"id": 71,
+							"s1": "0",
+							"s2": "0",
+							"name": "Красные карточки"
+						}, {
+							"id": 72,
+							"s1": "0",
+							"s2": "0",
+							"name": "Пенальти"
+						}, {
+							"id": 92,
+							"s1": "2",
+							"s2": "0",
+							"name": "Замены"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "прошло 45 мин"
+				},
+				"zonePlay": 755333333,
+				"updateTs": 1790150573,
+				"id": 755333333,
+				"num": 221591,
+				"mainGameId": 755333333,
+				"constId": 372545028,
+				"startTs": 1790146800,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372545028,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/67fcf1f6b114527795dc112981a252cc.png",
+			"id": 1445713,
+			"name": "Международный турнир. Сборные. Женщины"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Синар Баренг",
+					"countryId": 72,
+					"opps": [{
+						"id": 8824267,
+						"name": "Синар Баренг",
+						"image": "/sfiles/logo_teams/883b078f09acbbf2e6a6651704aef00d.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Скак",
+					"countryId": 72,
+					"opps": [{
+						"id": 9793333,
+						"name": "Скак",
+						"image": "/sfiles/logo_teams/81ee68bce927b197dfafeea0a3384514.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "0-1",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp2": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 0,
+					"scoreOpp2": 1,
+					"periodScoresStr": "0-1",
+					"timer": {
+						"timeSec": 396,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 1
+					},
+					"statusLineStr": "прошло 6 мин"
+				},
+				"updateTs": 1790150574,
+				"id": 755343698,
+				"num": 269746,
+				"mainGameId": 755343698,
+				"constId": 372558288,
+				"startTs": 1790150100,
+				"countryId": 72,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372558288,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/ab24cd50d293cca21fc67dbf42a8f558.png",
+			"countryId": 72,
+			"countryName": "Индонезия",
+			"gamesCount": 1,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/8cc07ec18cb212b1a3e540ec79d12223.png",
+			"id": 2734140,
+			"name": "Индонезия. Лига Персебата"
+		}, {
+			"subLigas": [{
+				"games": [{
+					"opponent1": {
+						"fullName": "СКГМИ Владикавказ",
+						"countryId": 1,
+						"opps": [{
+							"id": 905363,
+							"name": "СКГМИ Владикавказ",
+							"image": "/sfiles/logo_teams/905363.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "ДонГТУ Алчевск",
+						"countryId": 1,
+						"opps": [{
+							"id": 7077973,
+							"name": "ДонГТУ Алчевск",
+							"image": "/sfiles/logo_teams/3b86021fb8621148d991cd6e3192cc68.png"
+						}]
+					},
+					"scores": {
+						"fullScore": "0-2",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp2": 2
+						}, {
+							"period": 2
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "Перерыв",
+						"scoreOpp1": 0,
+						"scoreOpp2": 2,
+						"periodScoresStr": "0-2,0-0",
+						"timer": {
+							"timeSec": 2400,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"isBreak": true,
+						"tabloStats": {
+							"0": [{
+								"id": 29,
+								"s1": "43",
+								"s2": "57",
+								"name": "Владение мячом %"
+							}, {
+								"id": 59,
+								"s1": "0",
+								"s2": "0",
+								"name": "Удары в створ"
+							}, {
+								"id": 60,
+								"s1": "0",
+								"s2": "0",
+								"name": "Удары в сторону ворот"
+							}, {
+								"id": 26,
+								"s1": "0",
+								"s2": "0",
+								"name": "Желтые карточки"
+							}, {
+								"id": 70,
+								"s1": "2",
+								"s2": "0",
+								"name": "Угловые"
+							}, {
+								"id": 71,
+								"s1": "0",
+								"s2": "0",
+								"name": "Красные карточки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 2
+						},
+						"statusLineStr": "прошло 40 мин",
+						"gameStatus": 2
+					},
+					"updateTs": 1790150575,
+					"id": 755332871,
+					"num": 216340,
+					"mainGameId": 755332871,
+					"constId": 372544588,
+					"startTs": 1790146801,
+					"countryId": 1,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372544588,
+					"kind": 1,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/9ed27eb1dbc11baf14e74fb5e99c61a8.png",
+				"id": 1209805,
+				"name": "Чемпионат России. Студенческая лига"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Сочи (жен)",
+						"countryId": 1,
+						"opps": [{
+							"id": 8944139,
+							"name": "Сочи (жен)",
+							"image": "/sfiles/logo_teams/01b2883ec80653030e9d6738dd7b20ae.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Строгино (жен)",
+						"countryId": 225,
+						"opps": [{
+							"id": 2766837,
+							"name": "Строгино (жен)",
+							"image": "/sfiles/logo_teams/61c8e99be860d11202a4727debc6bb99.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "20414455"
+					},
+					"scores": {
+						"fullScore": "0-2",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp2": 2
+						}, {
+							"period": 2
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "Перерыв",
+						"scoreOpp1": 0,
+						"scoreOpp2": 2,
+						"periodScoresStr": "0-2,0-0",
+						"timer": {
+							"timeSec": 2700,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"isBreak": true,
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 45,
+								"s1": "22",
+								"s2": "25",
+								"name": "Атаки"
+							}, {
+								"id": 58,
+								"s1": "8",
+								"s2": "4",
+								"name": "Опасные атаки"
+							}, {
+								"id": 29,
+								"s1": "46",
+								"s2": "54",
+								"name": "Владение мячом %"
+							}, {
+								"id": 70,
+								"s1": "1",
+								"s2": "1",
+								"name": "Угловые"
+							}, {
+								"id": 92,
+								"s1": "0",
+								"s2": "1",
+								"name": "Замены"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 2
+						},
+						"statusLineStr": "прошло 45 мин",
+						"gameStatus": 2
+					},
+					"updateTs": 1790150575,
+					"id": 755334745,
+					"num": 236721,
+					"mainGameId": 755334745,
+					"constId": 372546804,
+					"startTs": 1790146800,
+					"countryId": 1,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372546804,
+					"kind": 1,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/9ed27eb1dbc11baf14e74fb5e99c61a8.png",
+				"id": 206233,
+				"name": "Чемпионат России. Первая лига. Женщины"
+			}],
+			"subChampsCount": 2,
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"altImage": "/sfiles/logo-champ/235a6f25963c6fac85f03fb406b1b65b.png",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/9ed27eb1dbc11baf14e74fb5e99c61a8.png",
+			"id": 73,
+			"name": "Россия"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/05bc2c6ed5eaf747ff173891889841d1.png",
+			"id": 67559,
+			"name": "Товарищеские матчи клубов"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Бхавнагар",
+					"countryId": 71,
+					"opps": [{
+						"id": 10897556,
+						"name": "Бхавнагар",
+						"image": "/sfiles/logo_teams/aedfcffe627bb72e9c99ffaef1c56663.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Барода ДФА",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902338,
+						"name": "Барода ДФА",
+						"image": "/sfiles/logo_teams/5c52a3fefd56598da4b86a65dc1d4ae2.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "0-5",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp2": 3
+					}, {
+						"period": 2,
+						"scoreOpp2": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 0,
+					"scoreOpp2": 5,
+					"periodScoresStr": "0-3,0-2",
+					"timer": {
+						"timeSec": 4056,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 5
+					},
+					"statusLineStr": "прошло 67 мин"
+				},
+				"updateTs": 1790150573,
+				"id": 755332411,
+				"num": 206808,
+				"mainGameId": 755332411,
+				"constId": 372543880,
+				"startTs": 1790146081,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372543880,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/c3f4df3017d57ab1c69b77033d5bf198.png",
+			"id": 2435720,
+			"name": "Индия. Кубок Релианс"
+		}, {
+			"countryImage": "/sfiles/logo-flag/8382dae5f63f099d13fe3a7a7fb46ddf.png",
+			"countryId": 82,
+			"countryName": "Казахстан",
+			"gamesCount": 2,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/ab4361e7d52f090fe50cf9fc9b101890.png",
+			"id": 2460775,
+			"name": "Казахстан. Первенство ЛФК"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Деспортиво Каландула",
+					"countryId": 9,
+					"opps": [{
+						"id": 9499755,
+						"name": "Деспортиво Каландула",
+						"image": "/sfiles/logo_teams/94e8f5abae3d94e484841af3f2a1a08f.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Индепенденте Кандомбле Банту",
+					"countryId": 9,
+					"opps": [{
+						"id": 8799811,
+						"name": "Индепенденте Кандомбле Банту",
+						"image": "/sfiles/logo_teams/7ae0e2f4bf773dba7340ceeccd545580.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414313"
+				},
+				"scores": {
+					"fullScore": "2-0",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 2
+					}, {
+						"period": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 2,
+					"scoreOpp2": 0,
+					"periodScoresStr": "2-0,0-0",
+					"timer": {
+						"timeSec": 2865,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 2,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "прошло 47 мин"
+				},
+				"zonePlay": 4823916,
+				"updateTs": 1790150575,
+				"id": 755332634,
+				"num": 213102,
+				"mainGameId": 755332634,
+				"constId": 372544312,
+				"startTs": 1790146800,
+				"countryId": 9,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372544312,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/11bf7584854b929da0aa0646e9de1a6c.png",
+			"countryId": 9,
+			"countryName": "Ангола",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2738669,
+			"name": "Ангола. Лига Банту"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Nordwind FC",
+					"countryId": 225,
+					"opps": [{
+						"id": 9230073,
+						"name": "Nordwind FC",
+						"image": "/sfiles/logo_teams/516e41144db4388f05eb73973947b1f6.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Megapolis FC",
+					"countryId": 225,
+					"opps": [{
+						"id": 9230089,
+						"name": "Megapolis FC",
+						"image": "/sfiles/logo_teams/e1ae93fa77a0993b0489882da9ecfecf.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414688"
+				},
+				"scores": {
+					"fullScore": "2-0",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 2
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 2,
+					"scoreOpp2": 0,
+					"periodScoresStr": "2-0",
+					"timer": {
+						"timeSec": 1606,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 2,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "прошло 26 мин"
+				},
+				"zonePlay": 4824005,
+				"updateTs": 1790150573,
+				"id": 755341067,
+				"num": 266298,
+				"mainGameId": 755341067,
+				"constId": 372554820,
+				"startTs": 1790149200,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372554820,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/9c3a4e37990cb1ed72c670a299333b36.png",
+			"id": 2800651,
+			"name": "Regional League. A"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/36ba79b510713bf3b77c58831c4cc9d3.png",
+			"id": 2800655,
+			"name": "Regional League. W"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/ec17cf13be8cf48f17b92e615dba7060.png",
+			"id": 2055922,
+			"name": "Short Football 3x3"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/63749e444b31daba1755e915d7126dbe.png",
+			"id": 2059891,
+			"name": "Short Football 4x4"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/546bb0b3395cc7b7bf92e44f1a8c165f.png",
+			"id": 2056113,
+			"name": "Short Football 5x5"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "MED",
+					"countryId": 225,
+					"opps": [{
+						"id": 3660861,
+						"name": "MED",
+						"image": "/sfiles/logo_teams/64a53f1f87942b5f2bdaab88e0f16f2d.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "ART",
+					"countryId": 225,
+					"opps": [{
+						"id": 3660865,
+						"name": "ART",
+						"image": "/sfiles/logo_teams/471ac7ceb6f8a58edee9bdd3d6b17a28.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414862"
+				},
+				"scores": {
+					"fullScore": "1-0",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 1,
+					"scoreOpp2": 0,
+					"periodScoresStr": "1-0",
+					"timer": {
+						"timeSec": 162,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 1,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "прошло 2 мин"
+				},
+				"zonePlay": 4824055,
+				"updateTs": 1790150575,
+				"id": 755344035,
+				"num": 270008,
+				"mainGameId": 755344035,
+				"constId": 372558674,
+				"startTs": 1790150401,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372558674,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/21381a5076e1ab4ace00e95262f57fc3.png",
+			"id": 2071516,
+			"name": "Student League"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "MATH",
+					"countryId": 225,
+					"opps": [{
+						"id": 3658861,
+						"name": "MATH",
+						"image": "/sfiles/logo_teams/f0a696acbc05f2e8b41c922c9f9ee0b2.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "DES",
+					"countryId": 225,
+					"opps": [{
+						"id": 3940597,
+						"name": "DES",
+						"image": "/sfiles/logo_teams/bef508a9b6efa4a8a6a6bedd264fae7f.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414861"
+				},
+				"scores": {
+					"fullScore": "0-1",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp2": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 0,
+					"scoreOpp2": 1,
+					"periodScoresStr": "0-1",
+					"timer": {
+						"timeSec": 156,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 1
+					},
+					"statusLineStr": "прошло 2 мин"
+				},
+				"zonePlay": 4824054,
+				"updateTs": 1790150575,
+				"id": 755344080,
+				"num": 270094,
+				"mainGameId": 755344080,
+				"constId": 372558774,
+				"startTs": 1790150401,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372558774,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/698f0cc376cbf2c7c0a4ba2e8cbb89c4.png",
+			"id": 2165493,
+			"name": "Student League 2"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/df7df9d05aa8d842c7bfb2c5285b2435.png",
+			"id": 2055972,
+			"name": "BudnesLiga LFL 5x5"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Ден Хааг (люб)",
+					"countryId": 225,
+					"opps": [{
+						"id": 3380735,
+						"name": "Ден Хааг (люб)",
+						"image": "/sfiles/logo_teams/83d53e0f3584bb6fa24d92aec2d3f287.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Твенте (люб)",
+					"countryId": 225,
+					"opps": [{
+						"id": 3380729,
+						"name": "Твенте (люб)",
+						"image": "/sfiles/logo_teams/c3c292ad03aa0a2a30f39a0349e9d585.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414904"
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"periodScoresStr": "0-0",
+					"timer": {
+						"timeSec": 7,
+						"timeDirection": -1,
+						"timeRun": false
+					},
+					"info": "Ставки до начала матча",
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "До начала 1 мин"
+				},
+				"nonStarted": true,
+				"updateTs": 1790150574,
+				"id": 755344718,
+				"num": 270819,
+				"mainGameId": 755344718,
+				"constId": 372559542,
+				"startTs": 1790150581,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372559542,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/0ba3f7be843180667696838f72d11780.png",
+			"id": 2055846,
+			"name": "Division 4x4"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/c547c4d836fdd1623291765c259115f3.png",
+			"id": 2590430,
+			"name": "MLS+"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Seagulls (2x2)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10761800,
+						"name": "Seagulls (2x2)",
+						"image": "/sfiles/logo_teams/4f6a8eed375b1d4e2bfd0facb8e9f54d.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Thunderbirds (2x2)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10761798,
+						"name": "Thunderbirds (2x2)",
+						"image": "/sfiles/logo_teams/29833d0e6480d07e26a85b116101b3a2.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414898"
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"periodScoresStr": "0-0",
+					"timer": {
+						"timeSec": 0,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "Событие идет"
+				},
+				"zonePlay": 4824063,
+				"updateTs": 1790150575,
+				"id": 755345896,
+				"num": 271569,
+				"mainGameId": 755345896,
+				"constId": 372560578,
+				"startTs": 1790150318,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372560578,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/e1933c5bd79fabb216888d1ebdc29a0e.png",
+			"id": 2390706,
+			"name": "Short Football D1"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "HSBE",
+					"countryId": 225,
+					"opps": [{
+						"id": 10419122,
+						"name": "HSBE",
+						"image": "/sfiles/logo_teams/f83223fa450bda75347b9c8a6788ceda.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "MTG",
+					"countryId": 225,
+					"opps": [{
+						"id": 10419124,
+						"name": "MTG",
+						"image": "/sfiles/logo_teams/79ff5606dea021d3e5c8a4eb63dba5df.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414771"
+				},
+				"scores": {
+					"fullScore": "7-6",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 3,
+						"scoreOpp2": 3
+					}, {
+						"period": 2,
+						"scoreOpp1": 4,
+						"scoreOpp2": 3
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 7,
+					"scoreOpp2": 6,
+					"periodScoresStr": "3-3,4-3",
+					"timer": {
+						"timeSec": 532,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 7,
+						"scoreOpp2": 6
+					},
+					"statusLineStr": "прошло 8 мин"
+				},
+				"zonePlay": 4823636,
+				"updateTs": 1790150574,
+				"id": 755342324,
+				"num": 268077,
+				"mainGameId": 755342324,
+				"constId": 372556374,
+				"startTs": 1790149396,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 1",
+				"periodName": "",
+				"mainConstId": 372556374,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/f5772f9f71027d06dbb782d5182a85db.png",
+			"id": 2130174,
+			"name": "Short Football 2x2 L2"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Maianga",
+					"countryId": 225,
+					"opps": [{
+						"id": 10427326,
+						"name": "Maianga",
+						"image": "/sfiles/logo_teams/9d28b69d41e8479e88e7566feac4769a.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Zango",
+					"countryId": 225,
+					"opps": [{
+						"id": 10427316,
+						"name": "Zango",
+						"image": "/sfiles/logo_teams/639f28800b2591acd5cf1ad75ff3fa32.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414830"
+				},
+				"scores": {
+					"fullScore": "1-2",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp2": 2
+					}, {
+						"period": 2,
+						"scoreOpp1": 1
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 1,
+					"scoreOpp2": 2,
+					"periodScoresStr": "0-2,1-0",
+					"timer": {
+						"timeSec": 418,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 1,
+						"scoreOpp2": 2
+					},
+					"statusLineStr": "прошло 6 мин"
+				},
+				"zonePlay": 4824050,
+				"updateTs": 1790150575,
+				"id": 755344055,
+				"num": 270024,
+				"mainGameId": 755344055,
+				"constId": 372558684,
+				"startTs": 1790149889,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 2",
+				"periodName": "",
+				"mainConstId": 372558684,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/601921b99728bc004d66611004217493.png",
+			"id": 2101142,
+			"name": "Short Football 4x4 L2"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Weihai Mariners",
+					"countryId": 225,
+					"opps": [{
+						"id": 10442120,
+						"name": "Weihai Mariners",
+						"image": "/sfiles/logo_teams/0fb439a06b4729ea32ba64c3c9e905fd.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Zaozhuang Miners",
+					"countryId": 225,
+					"opps": [{
+						"id": 10442124,
+						"name": "Zaozhuang Miners",
+						"image": "/sfiles/logo_teams/2ab7f5b1c8f55368c770b0308a86bf0e.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414535"
+				},
+				"scores": {
+					"fullScore": "1-2",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp2": 2
+					}, {
+						"period": 2,
+						"scoreOpp1": 1
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 1,
+					"scoreOpp2": 2,
+					"periodScoresStr": "0-2,1-0",
+					"timer": {
+						"timeSec": 537,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 1,
+						"scoreOpp2": 2
+					},
+					"statusLineStr": "прошло 8 мин"
+				},
+				"zonePlay": 4823961,
+				"updateTs": 1790150573,
+				"id": 755342138,
+				"num": 267970,
+				"mainGameId": 755342138,
+				"constId": 372556254,
+				"startTs": 1790149459,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 1",
+				"periodName": "",
+				"mainConstId": 372556254,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/bc91bd232704293d56e5f04a923e430d.png",
+			"id": 2316222,
+			"name": "Short Football 3x3 L2"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Sporting (5x5)",
+					"countryId": 225,
+					"opps": [{
+						"id": 4724079,
+						"name": "Sporting (5x5)",
+						"image": "/sfiles/logo_teams/5808e9f62ecd4cb93ea6093c8b90f324.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Porto (5x5)",
+					"countryId": 225,
+					"opps": [{
+						"id": 4724077,
+						"name": "Porto (5x5)",
+						"image": "/sfiles/logo_teams/161cf1be27ad09fea6b4a8fbddaa9152.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414795"
+				},
+				"scores": {
+					"fullScore": "1-3",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 1,
+						"scoreOpp2": 3
+					}, {
+						"period": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 1,
+					"scoreOpp2": 3,
+					"periodScoresStr": "1-3,0-0",
+					"timer": {
+						"timeSec": 313,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 1,
+						"scoreOpp2": 3
+					},
+					"statusLineStr": "прошло 5 мин"
+				},
+				"zonePlay": 4824037,
+				"updateTs": 1790150575,
+				"id": 755343166,
+				"num": 269321,
+				"mainGameId": 755343166,
+				"constId": 372557630,
+				"startTs": 1790149635,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 4",
+				"periodName": "",
+				"mainConstId": 372557630,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/c1db755d3b70facfe8ed810c6905e186.png",
+			"id": 2172323,
+			"name": "Short Football 5x5 L1"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/7c2659dfca1fbec18a71fc154584823c.png",
+			"id": 2055906,
+			"name": "Short Football 2x2"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/4207987b52ca0967ccc76722c92b6774.png",
+			"id": 2486097,
+			"name": "Short Football 3x3 L1"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Sora (sub)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7286389,
+						"name": "Sora (sub)",
+						"image": "/sfiles/logo_teams/cc1dd101ba3cead40b5cc1dc0d27ad44.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Haruo (sub)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7286387,
+						"name": "Haruo (sub)",
+						"image": "/sfiles/logo_teams/f6c0406bad0277978d467f99ec757b3a.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414805"
+				},
+				"scores": {
+					"fullScore": "7-7",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 4,
+						"scoreOpp2": 5
+					}, {
+						"period": 2,
+						"scoreOpp1": 3,
+						"scoreOpp2": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й тайм",
+					"scoreOpp1": 7,
+					"scoreOpp2": 7,
+					"periodScoresStr": "4-5,3-2",
+					"timer": {
+						"timeSec": 600,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 7,
+						"scoreOpp2": 7
+					},
+					"statusLineStr": "прошло 10 мин"
+				},
+				"zonePlay": 4824040,
+				"updateTs": 1790150575,
+				"id": 755343251,
+				"num": 269345,
+				"mainGameId": 755343251,
+				"constId": 372557686,
+				"startTs": 1790149519,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 4",
+				"periodName": "",
+				"mainConstId": 372557686,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/4490b2aad37230eab9c28322e8430ecc.png",
+			"id": 2484323,
+			"name": "Subsoccer"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "France (Centurion)",
+					"countryId": 225,
+					"opps": [{
+						"id": 5475317,
+						"name": "France (Centurion)",
+						"image": "/sfiles/logo_teams/4757fd0d0a8339efbc88d45e8844a5e9.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Portugal (Zizzuk)",
+					"countryId": 225,
+					"opps": [{
+						"id": 5521471,
+						"name": "Portugal (Zizzuk)",
+						"image": "/sfiles/logo_teams/e314ade785b642a6b8db7b88a20b657c.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414797"
+				},
+				"scores": {
+					"fullScore": "5-2",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 5,
+						"scoreOpp2": 2
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 5,
+					"scoreOpp2": 2,
+					"periodScoresStr": "5-2",
+					"timer": {
+						"timeSec": 1172,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 5,
+						"scoreOpp2": 2
+					},
+					"statusLineStr": "прошло 19 мин"
+				},
+				"updateTs": 1790150575,
+				"id": 755343038,
+				"num": 269218,
+				"mainGameId": 755343038,
+				"constId": 372557474,
+				"startTs": 1790149624,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372557474,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/f2235a1d9084634b933e335c49859ad2.png",
+			"id": 2910432,
+			"name": "FIFA 26. Amateur daily league"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Bayern (Wedder)",
+					"countryId": 225,
+					"opps": [{
+						"id": 4648181,
+						"name": "Bayern (Wedder)",
+						"image": "/sfiles/logo_teams/d006f418458e82988c3ee8900098c271.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Manchester City (Tonys)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7788823,
+						"name": "Manchester City (Tonys)",
+						"image": "/sfiles/logo_teams/0d890383b29d00ac47b8c524696b9b78.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414909"
+				},
+				"scores": {
+					"fullScore": "1-1",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 1,
+						"scoreOpp2": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й тайм",
+					"scoreOpp1": 1,
+					"scoreOpp2": 1,
+					"periodScoresStr": "1-1",
+					"timer": {
+						"timeSec": 84,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 1,
+						"scoreOpp2": 1
+					},
+					"statusLineStr": "прошло 1 мин"
+				},
+				"updateTs": 1790150574,
+				"id": 755344729,
+				"num": 270839,
+				"mainGameId": 755344729,
+				"constId": 372559554,
+				"startTs": 1790150096,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Тур 7",
+				"periodName": "",
+				"mainConstId": 372559554,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/87ad7fe40ae9b735718b8f05105e835e.png",
+			"id": 2498899,
+			"name": "FIFA 23. Volta daily league"
+		}],
+		"gamesCount": 51,
+		"sport": {
+			"id": 1,
+			"name": "Футбол"
+		}
+	}, {
+		"mainLigas": [{
+			"subLigas": [{
+				"games": [{
+					"opponent1": {
+						"fullName": "Вит Коприва",
+						"countryId": 204,
+						"opps": [{
+							"id": 189681,
+							"name": "Вит Коприва",
+							"image": "/sfiles/logo_teams/42a9ac6a2e0d6ba0dc63bc8d7afee96b.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Цзя Ху",
+						"countryId": 90,
+						"opps": [{
+							"id": 8853631,
+							"name": "Цзя Ху",
+							"image": "/sfiles/logo_teams/2d2708ee620ab789e0c3d743aec9ba89.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_1_1787720800"
+					},
+					"scores": {
+						"fullScore": "1-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 6,
+							"scoreOpp2": 4
+						}, {
+							"period": 2,
+							"scoreOpp1": 1,
+							"scoreOpp2": 1
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "2-й сет",
+						"scoreOpp1": 1,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "30",
+							"opponent2": "30"
+						},
+						"serve": 1,
+						"periodScoresStr": "6-4,1-1",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 1,
+								"s1": "2",
+								"s2": "2",
+								"name": "Эйсы"
+							}, {
+								"id": 2,
+								"s1": "75",
+								"s2": "62",
+								"name": "% выигранных очков на первой подаче"
+							}, {
+								"id": 3,
+								"s1": "50",
+								"s2": "100",
+								"name": "Реализация брейкпоинтов %"
+							}, {
+								"id": 4,
+								"s1": "4",
+								"s2": "2",
+								"name": "Двойные ошибки"
+							}, {
+								"id": 7,
+								"s1": "60",
+								"s2": "46",
+								"name": "% выигранных очков на второй подаче"
+							}, {
+								"id": 8,
+								"s1": "57",
+								"s2": "65",
+								"name": "Реализовано первых подач"
+							}, {
+								"id": 30,
+								"s1": "24",
+								"s2": "21",
+								"name": "Очки на своей подаче"
+							}, {
+								"id": 98,
+								"s1": "2",
+								"s2": "1",
+								"name": "Брейки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 1,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755334801,
+					"updateTs": 1790150575,
+					"id": 755334801,
+					"num": 216400,
+					"mainGameId": 755334801,
+					"constId": 372546882,
+					"startTs": 1790146800,
+					"countryId": 90,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372546882,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/59565027379471f9a3162f6c4159fb85.png",
+				"id": 1335281,
+				"name": "ATP. Чэнду"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Шинтаро Мочизуки",
+						"countryId": 218,
+						"opps": [{
+							"id": 1156595,
+							"name": "Шинтаро Мочизуки",
+							"image": "/sfiles/logo_teams/3888a5e2e135b86fc845a7bc40f21021.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Павел Котов",
+						"countryId": 1,
+						"opps": [{
+							"id": 213669,
+							"name": "Павел Котов",
+							"image": "/sfiles/logo_teams/213669.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_1_1787720776"
+					},
+					"scores": {
+						"fullScore": "1-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 7,
+							"scoreOpp2": 5
+						}, {
+							"period": 2,
+							"scoreOpp1": 4,
+							"scoreOpp2": 1
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "2-й сет",
+						"scoreOpp1": 1,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "0",
+							"opponent2": "0"
+						},
+						"serve": 2,
+						"periodScoresStr": "7-5,4-1",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 1,
+								"s1": "0",
+								"s2": "3",
+								"name": "Эйсы"
+							}, {
+								"id": 2,
+								"s1": "74",
+								"s2": "59",
+								"name": "% выигранных очков на первой подаче"
+							}, {
+								"id": 3,
+								"s1": "100",
+								"s2": "29",
+								"name": "Реализация брейкпоинтов %"
+							}, {
+								"id": 4,
+								"s1": "3",
+								"s2": "1",
+								"name": "Двойные ошибки"
+							}, {
+								"id": 7,
+								"s1": "53",
+								"s2": "27",
+								"name": "% выигранных очков на второй подаче"
+							}, {
+								"id": 8,
+								"s1": "46",
+								"s2": "72",
+								"name": "Реализовано первых подач"
+							}, {
+								"id": 30,
+								"s1": "35",
+								"s2": "20",
+								"name": "Очки на своей подаче"
+							}, {
+								"id": 98,
+								"s1": "4",
+								"s2": "2",
+								"name": "Брейки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 1,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755329351,
+					"updateTs": 1790150572,
+					"id": 755329351,
+					"num": 200939,
+					"mainGameId": 755329351,
+					"constId": 372271794,
+					"startTs": 1790145000,
+					"countryId": 90,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372271794,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/59565027379471f9a3162f6c4159fb85.png",
+				"id": 1334051,
+				"name": "ATP. Чэнду. Квалификация"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Бернард Томич",
+						"countryId": 5,
+						"opps": [{
+							"id": 1112,
+							"name": "Бернард Томич",
+							"image": "/sfiles/logo_teams/1112.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Фацзин Сунь",
+						"countryId": 90,
+						"opps": [{
+							"id": 76577,
+							"name": "Фацзин Сунь",
+							"image": "/sfiles/logo_teams/7779ec9b957aec7104a49d49f31df507.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_1_1787720758"
+					},
+					"scores": {
+						"fullScore": "0-2",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 4,
+							"scoreOpp2": 6
+						}, {
+							"period": 2,
+							"scoreOpp1": 5,
+							"scoreOpp2": 7
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "2-й сет",
+						"scoreOpp1": 0,
+						"scoreOpp2": 2,
+						"subScore": {
+							"opponent1": "0",
+							"opponent2": "0"
+						},
+						"serve": 2,
+						"periodScoresStr": "4-6,5-7",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 1,
+								"s1": "7",
+								"s2": "1",
+								"name": "Эйсы"
+							}, {
+								"id": 2,
+								"s1": "67",
+								"s2": "74",
+								"name": "% выигранных очков на первой подаче"
+							}, {
+								"id": 3,
+								"s1": "50",
+								"s2": "33",
+								"name": "Реализация брейкпоинтов %"
+							}, {
+								"id": 4,
+								"s1": "4",
+								"s2": "1",
+								"name": "Двойные ошибки"
+							}, {
+								"id": 98,
+								"s1": "2",
+								"s2": "4",
+								"name": "Брейки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 2
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755326469,
+					"updateTs": 1790150574,
+					"id": 755326469,
+					"num": 182602,
+					"mainGameId": 755326469,
+					"constId": 372297794,
+					"startTs": 1790144400,
+					"countryId": 90,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372297794,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/59565027379471f9a3162f6c4159fb85.png",
+				"id": 2758396,
+				"name": "ATP. Ханчжоу. Квалификация"
+			}],
+			"subChampsCount": 3,
+			"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+			"countryId": 90,
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/59565027379471f9a3162f6c4159fb85.png",
+			"id": 21,
+			"name": "ATP"
+		}, {
+			"subLigas": [{
+				"games": [{
+					"opponent1": {
+						"fullName": "Алина Корнеева",
+						"countryId": 1,
+						"opps": [{
+							"id": 5728977,
+							"name": "Алина Корнеева",
+							"image": "/sfiles/logo_teams/77d26f527cbf59980ff265f210c61f8c.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Дарья Астахова",
+						"countryId": 1,
+						"opps": [{
+							"id": 1148017,
+							"name": "Дарья Астахова",
+							"image": "/sfiles/logo_teams/1148017.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_3_1787720564"
+					},
+					"scores": {
+						"fullScore": "1-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 6,
+							"scoreOpp2": 2
+						}, {
+							"period": 2,
+							"scoreOpp1": 3,
+							"scoreOpp2": 4
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "2-й сет",
+						"scoreOpp1": 1,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "30",
+							"opponent2": "30"
+						},
+						"serve": 1,
+						"periodScoresStr": "6-2,3-4",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 1,
+								"s1": "0",
+								"s2": "0",
+								"name": "Эйсы"
+							}, {
+								"id": 2,
+								"s1": "68",
+								"s2": "51",
+								"name": "% выигранных очков на первой подаче"
+							}, {
+								"id": 3,
+								"s1": "44",
+								"s2": "50",
+								"name": "Реализация брейкпоинтов %"
+							}, {
+								"id": 4,
+								"s1": "5",
+								"s2": "2",
+								"name": "Двойные ошибки"
+							}, {
+								"id": 98,
+								"s1": "4",
+								"s2": "2",
+								"name": "Брейки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 1,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755326413,
+					"updateTs": 1790150574,
+					"id": 755326413,
+					"num": 165316,
+					"mainGameId": 755326413,
+					"constId": 372536440,
+					"startTs": 1790144100,
+					"countryId": 215,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372536440,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/573a062edb3f413047adea6ab7dbc55f.png",
+				"countryId": 215,
+				"countryName": "Южная Корея",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/78fde4926e7b973f0cc765cfb5346af4.png",
+				"id": 4309,
+				"name": "WTA. Сеул"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Йе/Лее",
+						"countryId": 225,
+						"opps": [{
+							"id": 301175,
+							"name": "Йе",
+							"image": "/sfiles/logo_teams/27481e183db13d158ae8358d9fde5357.png"
+						}, {
+							"id": 369621,
+							"name": "Лее",
+							"image": "/sfiles/logo_teams/b1e1a7c985bf9638f37d2b0e208b2f0c.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Джойнт/Рузе",
+						"countryId": 225,
+						"opps": [{
+							"id": 7097631,
+							"name": "Джойнт",
+							"image": "/sfiles/logo_teams/ce1ea76e4ec24a5772d1c68e36e8650f.png"
+						}, {
+							"id": 304689,
+							"name": "Рузе",
+							"image": "/sfiles/logo_teams/15f8082f71a5d0a99a6cd5b9a5bb9a23.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_3_1787720557"
+					},
+					"scores": {
+						"fullScore": "0-0",
+						"periodScores": [{
+							"period": 1
+						}],
+						"currentPeriod": 1,
+						"currentPeriodName": "1-й сет",
+						"scoreOpp1": 0,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "0",
+							"opponent2": "0"
+						},
+						"serve": 2,
+						"periodScoresStr": "0-0",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755344842,
+					"updateTs": 1790150575,
+					"id": 755344842,
+					"num": 162972,
+					"mainGameId": 755344842,
+					"constId": 372350574,
+					"startTs": 1790149800,
+					"countryId": 215,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372350574,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/573a062edb3f413047adea6ab7dbc55f.png",
+				"countryId": 215,
+				"countryName": "Южная Корея",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/78fde4926e7b973f0cc765cfb5346af4.png",
+				"id": 252619,
+				"name": "WTA. Сеул. Пары"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Глисон/Эйкери",
+						"countryId": 225,
+						"opps": [{
+							"id": 361655,
+							"name": "Глисон",
+							"image": "/sfiles/logo_teams/f16b712125a1a1d23a0ec25330068233.png"
+						}, {
+							"id": 314167,
+							"name": "Эйкери",
+							"image": "/sfiles/logo_teams/21b9cd07599dd32f46790ebecf70e125.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Лансере/Прозорова",
+						"countryId": 225,
+						"opps": [{
+							"id": 545413,
+							"name": "Лансере",
+							"image": "/sfiles/logo_teams/c334e77a50e593a21d208e1d45595cdc.png"
+						}, {
+							"id": 7097439,
+							"name": "Прозорова",
+							"image": "/sfiles/logo_teams/a0177ff00af132303dcd00fa41215ae0.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "DR_3_1787720577"
+					},
+					"scores": {
+						"fullScore": "0-1",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 3,
+							"scoreOpp2": 6
+						}, {
+							"period": 2,
+							"scoreOpp1": 4,
+							"scoreOpp2": 1
+						}],
+						"currentPeriod": 2,
+						"currentPeriodName": "2-й сет",
+						"scoreOpp1": 0,
+						"scoreOpp2": 1,
+						"subScore": {
+							"opponent1": "30",
+							"opponent2": "15"
+						},
+						"serve": 2,
+						"periodScoresStr": "3-6,4-1",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": -1,
+							"timeRun": false
+						},
+						"hasCourseOfPlay": true,
+						"tabloStats": {
+							"0": [{
+								"id": 1,
+								"s1": "0",
+								"s2": "1",
+								"name": "Эйсы"
+							}, {
+								"id": 2,
+								"s1": "61",
+								"s2": "55",
+								"name": "% выигранных очков на первой подаче"
+							}, {
+								"id": 3,
+								"s1": "60",
+								"s2": "27",
+								"name": "Реализация брейкпоинтов %"
+							}, {
+								"id": 4,
+								"s1": "2",
+								"s2": "5",
+								"name": "Двойные ошибки"
+							}, {
+								"id": 7,
+								"s1": "44",
+								"s2": "48",
+								"name": "% выигранных очков на второй подаче"
+							}, {
+								"id": 8,
+								"s1": "64",
+								"s2": "51",
+								"name": "Реализовано первых подач"
+							}, {
+								"id": 30,
+								"s1": "24",
+								"s2": "22",
+								"name": "Очки на своей подаче"
+							}, {
+								"id": 98,
+								"s1": "3",
+								"s2": "3",
+								"name": "Брейки"
+							}]
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 1
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 755330804,
+					"updateTs": 1790150574,
+					"id": 755330804,
+					"num": 294647,
+					"mainGameId": 755330804,
+					"constId": 371350454,
+					"startTs": 1790145900,
+					"countryId": 169,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 371350454,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/dac93ea9180c89d005c992e957c4fc59.png",
+				"countryId": 169,
+				"countryName": "Сингапур",
+				"gamesCount": 1,
+				"isTop": true,
+				"image": "/sfiles/logo-champ/78fde4926e7b973f0cc765cfb5346af4.png",
+				"id": 901377,
+				"name": "WTA. Сингапур. Пары"
+			}],
+			"subChampsCount": 3,
+			"countryImage": "/sfiles/logo-flag/573a062edb3f413047adea6ab7dbc55f.png",
+			"countryId": 215,
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/78fde4926e7b973f0cc765cfb5346af4.png",
+			"id": 23,
+			"name": "WTA"
+		}, {
+			"subLigas": [{
+				"games": [{
+					"opponent1": {
+						"fullName": "Ирина Климова",
+						"countryId": 1,
+						"opps": [{
+							"id": 8938493,
+							"name": "Ирина Климова",
+							"image": "/sfiles/logo_teams/d5a0229f6382e2f46359d0e0894bdc05.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Яна Прилепская",
+						"countryId": 1,
+						"opps": [{
+							"id": 9589177,
+							"name": "Яна Прилепская",
+							"image": "/sfiles/logo_teams/85d0ff845640a58308aa5f3436c70aae.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "20414642"
+					},
+					"scores": {
+						"fullScore": "0-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 1,
+							"scoreOpp2": 1
+						}],
+						"currentPeriod": 1,
+						"currentPeriodName": "1-й сет",
+						"scoreOpp1": 0,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "40",
+							"opponent2": "40"
+						},
+						"serve": 1,
+						"periodScoresStr": "1-1",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 4824003,
+					"updateTs": 1790150575,
+					"id": 755340468,
+					"num": 265327,
+					"mainGameId": 755340468,
+					"constId": 372554106,
+					"startTs": 1790148601,
+					"countryId": 1,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372554106,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/83665d545791d935f179179d896f698d.png",
+				"id": 2683647,
+				"name": "ATT. Москва. Женщины"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Андрей Меркулов",
+						"countryId": 1,
+						"opps": [{
+							"id": 10478488,
+							"name": "Андрей Меркулов",
+							"image": "/sfiles/logo_teams/1e7413943c02b4149b92660416339071.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Данил Пивцайкин",
+						"countryId": 225,
+						"opps": [{
+							"id": 10341444,
+							"name": "Данил Пивцайкин",
+							"image": "/sfiles/logo_teams/7a5a8859d935c88f1565d981fc6b3000.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "20414009"
+					},
+					"scores": {
+						"fullScore": "1-1",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 5,
+							"scoreOpp2": 7
+						}, {
+							"period": 2,
+							"scoreOpp1": 6,
+							"scoreOpp2": 2
+						}, {
+							"period": 3,
+							"scoreOpp1": 3,
+							"scoreOpp2": 2
+						}],
+						"currentPeriod": 3,
+						"currentPeriodName": "3-й сет",
+						"scoreOpp1": 1,
+						"scoreOpp2": 1,
+						"subScore": {
+							"opponent1": "0",
+							"opponent2": "0"
+						},
+						"serve": 1,
+						"periodScoresStr": "5-7,6-2,3-2",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 1,
+							"scoreOpp2": 1
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 4823870,
+					"updateTs": 1790150573,
+					"id": 755326615,
+					"num": 170719,
+					"mainGameId": 755326615,
+					"constId": 372536574,
+					"startTs": 1790144401,
+					"countryId": 1,
+					"gameTypeName": "",
+					"periodName": "",
+					"mainConstId": 372536574,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/83665d545791d935f179179d896f698d.png",
+				"id": 2680966,
+				"name": "ATT. Саранск"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Дмитрий Колебянов",
+						"countryId": 225,
+						"opps": [{
+							"id": 3753023,
+							"name": "Дмитрий Колебянов",
+							"image": "/sfiles/logo_teams/af4879c441c0584777eb7b4b195eb6d3.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Артем Гурьянов",
+						"countryId": 1,
+						"opps": [{
+							"id": 4566173,
+							"name": "Артем Гурьянов",
+							"image": "/sfiles/logo_teams/0ac716ab1fc8800ad3a0ffe6c3dbceb1.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "20414432"
+					},
+					"scores": {
+						"fullScore": "0-0",
+						"periodScores": [{
+							"period": 1,
+							"scoreOpp1": 4,
+							"scoreOpp2": 2
+						}],
+						"currentPeriod": 1,
+						"currentPeriodName": "1-й сет",
+						"scoreOpp1": 0,
+						"scoreOpp2": 0,
+						"subScore": {
+							"opponent1": "40",
+							"opponent2": "40"
+						},
+						"serve": 2,
+						"periodScoresStr": "4-2",
+						"timer": {
+							"timeSec": 0,
+							"timeDirection": 0,
+							"timeRun": false
+						},
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 4823937,
+					"updateTs": 1790150575,
+					"id": 755336517,
+					"num": 244568,
+					"mainGameId": 755336517,
+					"constId": 372548724,
+					"startTs": 1790147401,
+					"countryId": 1,
+					"gameTypeName": "",
+					"dopInfo": "1/4 финала",
+					"periodName": "",
+					"mainConstId": 372548724,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/83665d545791d935f179179d896f698d.png",
+				"id": 2680963,
+				"name": "ATT. Тольятти"
+			}],
+			"subChampsCount": 3,
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/83665d545791d935f179179d896f698d.png",
+			"id": 806,
+			"name": "ATT"
+		}, {
+			"subLigas": [{
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 2,
+				"image": "/sfiles/logo-champ/4e5f785a386ce2a3d144d23f307f4fc1.png",
+				"id": 3092202,
+				"name": "World Tennis. Иньчуань"
+			}, {
+				"countryImage": "/sfiles/logo-flag/adbc62463dbfb287099d625a17268b72.png",
+				"countryId": 204,
+				"countryName": "Чехия",
+				"gamesCount": 4,
+				"image": "/sfiles/logo-champ/4e5f785a386ce2a3d144d23f307f4fc1.png",
+				"id": 3092452,
+				"name": "World Tennis. Пардубице"
+			}, {
+				"countryImage": "/sfiles/logo-flag/a623076801421d2decfd4242eeff0b1c.png",
+				"countryId": 78,
+				"countryName": "Испания",
+				"gamesCount": 3,
+				"image": "/sfiles/logo-champ/4e5f785a386ce2a3d144d23f307f4fc1.png",
+				"id": 3092505,
+				"name": "World Tennis. Сабадель"
+			}, {
+				"countryImage": "/sfiles/logo-flag/7d5f51aff507466e9b43626d20bff699.png",
+				"countryId": 66,
+				"countryName": "Египет",
+				"gamesCount": 4,
+				"image": "/sfiles/logo-champ/4e5f785a386ce2a3d144d23f307f4fc1.png",
+				"id": 3092027,
+				"name": "World Tennis. Шарм-эш-Шейх"
+			}],
+			"subChampsCount": 4,
+			"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+			"countryId": 90,
+			"gamesCount": 13,
+			"image": "/sfiles/logo-champ/4e5f785a386ce2a3d144d23f307f4fc1.png",
+			"id": 866,
+			"name": "World Tennis"
+		}, {
+			"subLigas": [{
+				"countryImage": "/sfiles/logo-flag/04ca149f9f0be1b1285fc1bb0938460c.png",
+				"countryId": 27,
+				"countryName": "Болгария",
+				"gamesCount": 3,
+				"image": "/sfiles/logo-champ/20e1abefbca2bbe04314706a6191b37a.png",
+				"id": 3091474,
+				"name": "World Tennis. Пловдив. Женщины"
+			}, {
+				"countryImage": "/sfiles/logo-flag/06683c9bb5302b6f5ca25d4415bdeb2a.png",
+				"countryId": 79,
+				"countryName": "Италия",
+				"gamesCount": 8,
+				"image": "/sfiles/logo-champ/20e1abefbca2bbe04314706a6191b37a.png",
+				"id": 3087443,
+				"name": "World Tennis. Санта-Маргарита Ди Пула. Женщины"
+			}, {
+				"countryImage": "/sfiles/logo-flag/7d5f51aff507466e9b43626d20bff699.png",
+				"countryId": 66,
+				"countryName": "Египет",
+				"gamesCount": 4,
+				"image": "/sfiles/logo-champ/20e1abefbca2bbe04314706a6191b37a.png",
+				"id": 3092020,
+				"name": "World Tennis. Шарм-эш-Шейх. Женщины"
+			}],
+			"subChampsCount": 3,
+			"countryImage": "/sfiles/logo-flag/04ca149f9f0be1b1285fc1bb0938460c.png",
+			"countryId": 27,
+			"gamesCount": 15,
+			"image": "/sfiles/logo-champ/20e1abefbca2bbe04314706a6191b37a.png",
+			"id": 868,
+			"name": "World Tennis. Женщины"
+		}],
+		"gamesCount": 37,
+		"sport": {
+			"id": 4,
+			"name": "Теннис"
+		}
+	}, {
+		"mainLigas": [{
+			"games": [{
+				"opponent1": {
+					"fullName": "Шанхай Шаркс",
+					"countryId": 90,
+					"opps": [{
+						"id": 6526,
+						"name": "Шанхай Шаркс",
+						"image": "/sfiles/logo_teams/acd0fe0c93bebc872ef81804053ddd22.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "РССБ Тайгерс",
+					"countryId": 151,
+					"opps": [{
+						"id": 3475815,
+						"name": "РССБ Тайгерс",
+						"image": "/sfiles/logo_teams/963aa6fdb6029e18fe608432e0850dca.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "DR_3_1787720594"
+				},
+				"scores": {
+					"fullScore": "39-31",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 30,
+						"scoreOpp2": 17
+					}, {
+						"period": 2,
+						"scoreOpp1": 9,
+						"scoreOpp2": 14
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-я четверть",
+					"scoreOpp1": 39,
+					"scoreOpp2": 31,
+					"periodScoresStr": "30-17,9-14",
+					"timer": {
+						"timeSec": 864,
+						"timeDirection": 0,
+						"timeRun": true
+					},
+					"hasCourseOfPlay": true,
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "6",
+							"s2": "7",
+							"name": "Фолы"
+						}, {
+							"id": 52,
+							"s1": "4",
+							"s2": "4",
+							"name": "Таймауты ост."
+						}, {
+							"id": 49,
+							"s1": "14",
+							"s2": "8",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "3",
+							"s2": "4",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "6",
+							"s2": "3",
+							"name": "Штрафные броски"
+						}, {
+							"id": 51,
+							"s1": "66",
+							"s2": "42",
+							"name": "% попадания штрафных"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 39,
+						"scoreOpp2": 31
+					},
+					"statusLineStr": "прошло 14 мин"
+				},
+				"zonePlay": 755338670,
+				"updateTs": 1790150575,
+				"id": 755339935,
+				"num": 170751,
+				"mainGameId": 755339935,
+				"constId": 371922812,
+				"fullName": "с ОТ",
+				"startTs": 1790148600,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 371922812,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/5fae7b17e0a81350dfe9ee180bec744f.png",
+			"id": 258247,
+			"name": "Межконтинентальный кубок"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/9d9cf5d1090b7c31cbfc5e83547d1746.png",
+			"id": 1672700,
+			"name": "Премьер лига"
+		}, {
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"countryName": "Россия",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/734ae25ec4b6e7b36a869858aac3f4d4.png",
+			"id": 2496666,
+			"name": "IPBL. Pro Division"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Severodvinsk (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 9823925,
+						"name": "Severodvinsk (жен)",
+						"image": "/sfiles/logo_teams/af2d596324da78cf68a291c6c78fca98.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Vologda (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 4466831,
+						"name": "Vologda (жен)",
+						"image": "/sfiles/logo_teams/803bf394e2a10b3315e33aeedd36ef01.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414834"
+				},
+				"scores": {
+					"fullScore": "6-2",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 6,
+						"scoreOpp2": 2
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-я четверть",
+					"scoreOpp1": 6,
+					"scoreOpp2": 2,
+					"periodScoresStr": "6-2",
+					"timer": {
+						"timeSec": 156,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "0",
+							"s2": "0",
+							"name": "Фолы"
+						}, {
+							"id": 49,
+							"s1": "3",
+							"s2": "1",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "0",
+							"s2": "0",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "0",
+							"s2": "0",
+							"name": "Штрафные броски"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 6,
+						"scoreOpp2": 2
+					},
+					"statusLineStr": "прошло 2 мин"
+				},
+				"zonePlay": 4823921,
+				"updateTs": 1790150574,
+				"id": 755344083,
+				"num": 270194,
+				"mainGameId": 755344083,
+				"constId": 372558776,
+				"fullName": "с ОТ",
+				"startTs": 1790150401,
+				"countryId": 1,
+				"gameTypeName": "",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 372558776,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"countryName": "Россия",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/86ba1b2cb06b39d74e2c626e5217b013.png",
+			"id": 2496667,
+			"name": "IPBL. Pro Division. Женщины"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/69de1b6dbc8b738d48b75eb8bb8cdad6.png",
+			"id": 2498892,
+			"name": "IPBL. Prime Division"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "IPBL Foxes (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10443210,
+						"name": "IPBL Foxes (жен)",
+						"image": "/sfiles/logo_teams/d3844b2dee78684b57503028b0cd598c.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "IPBL Cobras (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10443216,
+						"name": "IPBL Cobras (жен)",
+						"image": "/sfiles/logo_teams/740991a01483814111d90bc9192dd0b9.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414531"
+				},
+				"scores": {
+					"fullScore": "76-76",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 36,
+						"scoreOpp2": 32
+					}, {
+						"period": 2,
+						"scoreOpp1": 34,
+						"scoreOpp2": 40
+					}, {
+						"period": 3,
+						"scoreOpp1": 6,
+						"scoreOpp2": 4
+					}],
+					"currentPeriod": 3,
+					"currentPeriodName": "3-я четверть",
+					"scoreOpp1": 76,
+					"scoreOpp2": 76,
+					"periodScoresStr": "36-32,34-40,6-4",
+					"timer": {
+						"timeSec": 1537,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "0",
+							"s2": "0",
+							"name": "Фолы"
+						}, {
+							"id": 49,
+							"s1": "17",
+							"s2": "20",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "14",
+							"s2": "11",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "0",
+							"s2": "3",
+							"name": "Штрафные броски"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 76,
+						"scoreOpp2": 76
+					},
+					"statusLineStr": "прошло 25 мин"
+				},
+				"zonePlay": 4823840,
+				"updateTs": 1790150575,
+				"id": 755338402,
+				"num": 261286,
+				"mainGameId": 755338402,
+				"constId": 372551570,
+				"fullName": "с ОТ",
+				"startTs": 1790148601,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 372551570,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/eb752750a5c478a030cb2e1261480903.png",
+			"id": 2668159,
+			"name": "IPBL. Prime Division. Женщины"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Beastmode",
+					"countryId": 225,
+					"opps": [{
+						"id": 10740212,
+						"name": "Beastmode",
+						"image": "/sfiles/logo_teams/e4a33ebb622ba0e6c80d24d44d44d562.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Tandem",
+					"countryId": 225,
+					"opps": [{
+						"id": 10740286,
+						"name": "Tandem",
+						"image": "/sfiles/logo_teams/7b5f94370243dabcf5403231ba6f612a.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414526"
+				},
+				"scores": {
+					"fullScore": "80-75",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 37,
+						"scoreOpp2": 44
+					}, {
+						"period": 2,
+						"scoreOpp1": 43,
+						"scoreOpp2": 31
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "Перерыв",
+					"scoreOpp1": 80,
+					"scoreOpp2": 75,
+					"periodScoresStr": "37-44,43-31",
+					"timer": {
+						"timeSec": 1200,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"isBreak": true,
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "0",
+							"s2": "0",
+							"name": "Фолы"
+						}, {
+							"id": 49,
+							"s1": "31",
+							"s2": "23",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "6",
+							"s2": "9",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "0",
+							"s2": "2",
+							"name": "Штрафные броски"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 80,
+						"scoreOpp2": 75
+					},
+					"statusLineStr": "прошло 20 мин",
+					"gameStatus": 2
+				},
+				"zonePlay": 4823970,
+				"updateTs": 1790150573,
+				"id": 755337423,
+				"num": 255645,
+				"mainGameId": 755337423,
+				"constId": 372550006,
+				"fullName": "с ОТ",
+				"startTs": 1790148601,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Матч за 3-е место",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 372550006,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/cf98357660e3d05fc3d7885346c39c44.png",
+			"id": 3036243,
+			"name": "IPBL. CAGE"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/d01a6492c40f8782e0a72179f65c8345.png",
+			"id": 2172405,
+			"name": "Table Basketball League"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Shenyang Seagulls",
+					"countryId": 90,
+					"opps": [{
+						"id": 8621021,
+						"name": "Shenyang Seagulls",
+						"image": "/sfiles/logo_teams/c592b3c530df46078dfa5df4dde7fae5.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Fuzhou Guardians",
+					"countryId": 90,
+					"opps": [{
+						"id": 8621011,
+						"name": "Fuzhou Guardians",
+						"image": "/sfiles/logo_teams/6311c60da04eef473a6e965fcd9d5621.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414757"
+				},
+				"scores": {
+					"fullScore": "23-26",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 23,
+						"scoreOpp2": 26
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-я четверть",
+					"scoreOpp1": 23,
+					"scoreOpp2": 26,
+					"serve": 2,
+					"periodScoresStr": "23-26",
+					"timer": {
+						"timeSec": 653,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "0",
+							"s2": "1",
+							"name": "Фолы"
+						}, {
+							"id": 49,
+							"s1": "10",
+							"s2": "1",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "1",
+							"s2": "8",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "0",
+							"s2": "0",
+							"name": "Штрафные броски"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 23,
+						"scoreOpp2": 26
+					},
+					"statusLineStr": "прошло 10 мин"
+				},
+				"zonePlay": 4824028,
+				"updateTs": 1790150575,
+				"id": 755342674,
+				"num": 268438,
+				"mainGameId": 755342674,
+				"constId": 372556868,
+				"fullName": "с ОТ",
+				"startTs": 1790149380,
+				"countryId": 90,
+				"gameTypeName": "",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 372556868,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+			"countryId": 90,
+			"countryName": "Китай",
+			"gamesCount": 1,
+			"id": 2631144,
+			"name": "Китай. CDBL"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Bisons FB",
+					"countryId": 225,
+					"opps": [{
+						"id": 9158067,
+						"name": "Bisons FB",
+						"image": "/sfiles/logo_teams/b522e5ea291cafd49df151058ac939ef.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Archers FB",
+					"countryId": 225,
+					"opps": [{
+						"id": 9158071,
+						"name": "Archers FB",
+						"image": "/sfiles/logo_teams/8e1f387abf95fd803014c70ba6680162.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414725"
+				},
+				"scores": {
+					"fullScore": "26-50",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 13,
+						"scoreOpp2": 27
+					}, {
+						"period": 2,
+						"scoreOpp1": 13,
+						"scoreOpp2": 23
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-я четверть",
+					"scoreOpp1": 26,
+					"scoreOpp2": 50,
+					"periodScoresStr": "13-27,13-23",
+					"timer": {
+						"timeSec": 999,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"tabloStats": {
+						"0": [{
+							"id": 53,
+							"s1": "0",
+							"s2": "0",
+							"name": "Фолы"
+						}, {
+							"id": 49,
+							"s1": "9",
+							"s2": "18",
+							"name": "2-х очковые"
+						}, {
+							"id": 48,
+							"s1": "2",
+							"s2": "4",
+							"name": "3-х очковые"
+						}, {
+							"id": 50,
+							"s1": "2",
+							"s2": "2",
+							"name": "Штрафные броски"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 26,
+						"scoreOpp2": 50
+					},
+					"statusLineStr": "прошло 16 мин"
+				},
+				"zonePlay": 4823905,
+				"updateTs": 1790150575,
+				"id": 755341966,
+				"num": 267790,
+				"mainGameId": 755341966,
+				"constId": 372556026,
+				"fullName": "с ОТ",
+				"startTs": 1790149544,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Финал",
+				"periodName": "",
+				"gameVidName": "с ОТ",
+				"mainConstId": 372556026,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/a6cf3ec1a6d081249cbb62cbd98b179a.png",
+			"id": 2790908,
+			"name": "FrostBall"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/d6e678c41ac2e310acae817cacc26c9a.png",
+			"id": 2983166,
+			"name": "NBA 2K26. Cyber Euro League"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/7a1df339bb1605b7255820fe7728f88b.png",
+			"id": 2935701,
+			"name": "NBA 2K26. Cyber League"
+		}],
+		"gamesCount": 19,
+		"sport": {
+			"id": 3,
+			"name": "Баскетбол"
+		}
+	}, {
+		"mainLigas": [{
+			"games": [{
+				"opponent1": {
+					"fullName": "Дольни-Кубин (20)",
+					"countryId": 171,
+					"opps": [{
+						"id": 6780459,
+						"name": "Дольни-Кубин (20)",
+						"image": "/sfiles/logo_teams/8bca1c1653ec6a8252af85acb013f2bf.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Римавска Собота (20)",
+					"countryId": 171,
+					"opps": [{
+						"id": 8937319,
+						"name": "Римавска Собота (20)",
+						"image": "/sfiles/logo_teams/6d373dee4cdefde8cb1f759cafeee210.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й период",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"periodScoresStr": "0-0",
+					"timer": {
+						"timeSec": 128,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "прошло 2 мин"
+				},
+				"updateTs": 1790150573,
+				"id": 755345936,
+				"num": 271745,
+				"mainGameId": 755345936,
+				"constId": 372560676,
+				"startTs": 1790150400,
+				"countryId": 171,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372560676,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e6475019409089e6c96e6dab7db79b0b.png",
+			"countryId": 171,
+			"countryName": "Словакия",
+			"gamesCount": 1,
+			"isTop": true,
+			"image": "/sfiles/logo-champ/ed3976882b25a5b7a6ccc78096425c7f.png",
+			"id": 1644539,
+			"name": "Чемпионат Словакии. Первая лига до 20 лет"
+		}, {
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"countryName": "Россия",
+			"gamesCount": 2,
+			"id": 2454428,
+			"name": "RHL"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Wizards",
+					"countryId": 225,
+					"opps": [{
+						"id": 6685049,
+						"name": "Wizards",
+						"image": "/sfiles/logo_teams/041d17c7f9031c6b81d7d0a00aed0019.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Blood Jokers",
+					"countryId": 225,
+					"opps": [{
+						"id": 6685337,
+						"name": "Blood Jokers",
+						"image": "/sfiles/logo_teams/991a7c4c2aaa68c7778a7007923c1ea6.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414722"
+				},
+				"scores": {
+					"fullScore": "6-3",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 2,
+						"scoreOpp2": 1
+					}, {
+						"period": 2,
+						"scoreOpp1": 4,
+						"scoreOpp2": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й период",
+					"scoreOpp1": 6,
+					"scoreOpp2": 3,
+					"periodScoresStr": "2-1,4-2",
+					"timer": {
+						"timeSec": 827,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 6,
+						"scoreOpp2": 3
+					},
+					"statusLineStr": "прошло 13 мин"
+				},
+				"updateTs": 1790150575,
+				"id": 755341458,
+				"num": 266968,
+				"mainGameId": 755341458,
+				"constId": 372555342,
+				"startTs": 1790149500,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372555342,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/39d0f5c01663af8f1db278a80818a3bd.png",
+			"id": 1931152,
+			"name": "3HL Лига"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Yaroslavl Rails (люб)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7925367,
+						"name": "Yaroslavl Rails (люб)",
+						"image": "/sfiles/logo_teams/97d9145744b7beef8480b2320160918a.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Chelyabinsk Bears (люб)",
+					"countryId": 225,
+					"opps": [{
+						"id": 6352083,
+						"name": "Chelyabinsk Bears (люб)",
+						"image": "/sfiles/logo_teams/adc76294e10a7efb35e0189d5d989521.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414504"
+				},
+				"scores": {
+					"fullScore": "4-4",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 2,
+						"scoreOpp2": 2
+					}, {
+						"period": 2,
+						"scoreOpp1": 2,
+						"scoreOpp2": 2
+					}, {
+						"period": 3
+					}],
+					"currentPeriod": 3,
+					"currentPeriodName": "Перерыв",
+					"scoreOpp1": 4,
+					"scoreOpp2": 4,
+					"periodScoresStr": "2-2,2-2,0-0",
+					"timer": {
+						"timeSec": 1200,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"isBreak": true,
+					"fullScoreDetail": {
+						"scoreOpp1": 4,
+						"scoreOpp2": 4
+					},
+					"statusLineStr": "прошло 20 мин",
+					"gameStatus": 2
+				},
+				"zonePlay": 4823956,
+				"updateTs": 1790150575,
+				"id": 755337134,
+				"num": 252369,
+				"mainGameId": 755337134,
+				"constId": 372549586,
+				"startTs": 1790147401,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "Финал",
+				"periodName": "",
+				"mainConstId": 372549586,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/28a2e760e4eb4d1cdc67b6457c1dc86c.PNG",
+			"id": 2009267,
+			"name": "Dream League"
+		}, {
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"countryName": "Россия",
+			"gamesCount": 2,
+			"id": 2298938,
+			"name": "Россия. MNHL"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "New York Rangers (kilmo)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7643929,
+						"name": "New York Rangers (kilmo)",
+						"image": "/sfiles/logo_teams/8bbf1a239b2f8f1ca2d3da1badf30f28.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Calgary Flames (stoun)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7912981,
+						"name": "Calgary Flames (stoun)",
+						"image": "/sfiles/logo_teams/fb80272deb531a39316dd658532260bf.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414638"
+				},
+				"scores": {
+					"fullScore": "5-1",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 3,
+						"scoreOpp2": 1
+					}, {
+						"period": 2,
+						"scoreOpp1": 2
+					}],
+					"currentPeriod": 2,
+					"currentPeriodName": "2-й период",
+					"scoreOpp1": 5,
+					"scoreOpp2": 1,
+					"periodScoresStr": "3-1,2-0",
+					"timer": {
+						"timeSec": 787,
+						"timeDirection": 0,
+						"timeRun": false
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 5,
+						"scoreOpp2": 1
+					},
+					"statusLineStr": "прошло 13 мин"
+				},
+				"updateTs": 1790150575,
+				"id": 755339729,
+				"num": 263414,
+				"mainGameId": 755339729,
+				"constId": 372553194,
+				"startTs": 1790149200,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372553194,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/297ea64796ee7306038074e6b953d644.png",
+			"id": 2921610,
+			"name": "NHL 26. Blast hockey league"
+		}],
+		"gamesCount": 8,
+		"sport": {
+			"id": 2,
+			"name": "Хоккей"
+		}
+	}, {
+		"mainLigas": [{
+			"countryImage": "/sfiles/logo-flag/8af524ac00652945225b6621cbac14c3.png",
+			"countryId": 218,
+			"countryName": "Япония",
+			"gamesCount": 4,
+			"id": 310679,
+			"name": "НПБ. Японская лига бейсбола"
+		}],
+		"gamesCount": 4,
+		"sport": {
+			"id": 5,
+			"name": "Бейсбол"
+		}
+	}, {
+		"mainLigas": [{
+			"subLigas": [{
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 2,
+				"image": "/sfiles/logo-champ/a14fbbf07b038148857c0b21e4c62ac4.png",
+				"id": 1762758,
+				"name": "Китай. Национальный чемпионат"
+			}, {
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 2,
+				"image": "/sfiles/logo-champ/a14fbbf07b038148857c0b21e4c62ac4.png",
+				"id": 1924027,
+				"name": "Китай. Национальный чемпионат. Женщины"
+			}],
+			"subChampsCount": 2,
+			"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+			"countryId": 90,
+			"altImage": "/sfiles/logo-champ/de317a365a490a9ab4764cf4f8723c78.png",
+			"gamesCount": 4,
+			"image": "/sfiles/logo-champ/a14fbbf07b038148857c0b21e4c62ac4.png",
+			"id": 583,
+			"name": "Китай"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Строитель (4х4)",
+					"countryId": 225,
+					"opps": [{
+						"id": 4086613,
+						"name": "Строитель (4х4)",
+						"image": "/sfiles/logo_teams/4ae03cab0a564f3908d93d4945380ecb.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Тайфун (4х4)",
+					"countryId": 225,
+					"opps": [{
+						"id": 6167281,
+						"name": "Тайфун (4х4)",
+						"image": "/sfiles/logo_teams/3f7762d1178e0497a1ed0f798cc60c83.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414867"
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й сет",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"periodScoresStr": "0-0",
+					"tabloStats": {
+						"0": [{
+							"id": 10,
+							"s1": "0",
+							"s2": "0",
+							"name": "Max выигранных подряд очков"
+						}, {
+							"id": 30,
+							"s1": "0",
+							"s2": "0",
+							"name": "Очки на своей подаче"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "Событие идет"
+				},
+				"updateTs": 1790150574,
+				"id": 755345652,
+				"num": 271906,
+				"mainGameId": 755345652,
+				"constId": 372317856,
+				"startTs": 1790150400,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372317856,
+				"kind": 1,
+				"hasHeadToHead": true,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/dceef1f92760cc9b9363f410bc060381.png",
+			"id": 2056462,
+			"name": "Orange Cup"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Турция Pro (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10330558,
+						"name": "Турция Pro (жен)",
+						"image": "/sfiles/logo_teams/b853b5f78f8e0b98a4ce5582dd59aa22.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Бразилия Pro (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 10330496,
+						"name": "Бразилия Pro (жен)",
+						"image": "/sfiles/logo_teams/cabcaee3f4d5328604c195abaf42c148.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414616"
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [{
+						"period": 1,
+						"scoreOpp1": 21,
+						"scoreOpp2": 18
+					}],
+					"currentPeriod": 1,
+					"currentPeriodName": "1-й сет",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"serve": 1,
+					"periodScoresStr": "21-18",
+					"tabloStats": {
+						"0": [{
+							"id": 10,
+							"s1": "4",
+							"s2": "4",
+							"name": "Max выигранных подряд очков"
+						}, {
+							"id": 30,
+							"s1": "9",
+							"s2": "7",
+							"name": "Очки на своей подаче"
+						}]
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statusLineStr": "Событие идет"
+				},
+				"zonePlay": 4824000,
+				"updateTs": 1790150575,
+				"id": 755339991,
+				"num": 264194,
+				"mainGameId": 755339991,
+				"constId": 372553500,
+				"startTs": 1790148901,
+				"countryId": 225,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372553500,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/66df93a030a05d2fd325d33cc320e713.png",
+			"id": 2960606,
+			"name": "UPVL. Лига Наций. Женщины"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/7684cef1f9c8e11dc79c3c2b46131cb6.png",
+			"id": 2745086,
+			"name": "VCA. Master Volleyball League"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/ad73b0f912e051957a6c1bc94e1997b3.png",
+			"id": 2747753,
+			"name": "VCA. Master Volleyball League. Женщины"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/02823420cc833b1055a9674ccc1f1e32.png",
+			"id": 2579230,
+			"name": "CBV 23. Duo Masters"
+		}],
+		"gamesCount": 12,
+		"sport": {
+			"id": 6,
+			"name": "Волейбол"
+		}
+	}, {
+		"mainLigas": [{
+			"subLigas": [{
+				"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+				"countryId": 1,
+				"countryName": "Россия",
+				"gamesCount": 5,
+				"image": "/sfiles/logo-champ/d0f02a939473633458e1d47b01423870.png",
+				"id": 2685665,
+				"name": "Мастерс. Россия"
+			}, {
+				"countryImage": "/sfiles/logo-flag/db2450a98d3a54109f3d60742b17a0ac.png",
+				"countryId": 22,
+				"countryName": "Беларусь",
+				"gamesCount": 4,
+				"image": "/sfiles/logo-champ/d0f02a939473633458e1d47b01423870.png",
+				"id": 2685648,
+				"name": "Мастерс. Беларусь"
+			}, {
+				"countryImage": "/sfiles/logo-flag/e88612e6ed54cc6e2b386ea10a4be9ef.png",
+				"countryId": 147,
+				"countryName": "Польша",
+				"gamesCount": 4,
+				"image": "/sfiles/logo-champ/d0f02a939473633458e1d47b01423870.png",
+				"id": 2685678,
+				"name": "Мастерс. Польша"
+			}, {
+				"games": [{
+					"opponent1": {
+						"fullName": "Пу Лин Цзе (Кит)",
+						"countryId": 90,
+						"opps": [{
+							"id": 10508936,
+							"name": "Пу Лин Цзе (Кит)",
+							"image": "/sfiles/logo_teams/9579127b8d0f7872b70bbcac840f5163.png"
+						}]
+					},
+					"opponent2": {
+						"fullName": "Чэнь Юй Хэн (Кит)",
+						"countryId": 90,
+						"opps": [{
+							"id": 9707545,
+							"name": "Чэнь Юй Хэн (Кит)",
+							"image": "/sfiles/logo_teams/b6d39dc1b64cb6d7a4e16cc3abc4e327.png"
+						}]
+					},
+					"video": {
+						"enabled": true,
+						"id": "20414876"
+					},
+					"scores": {
+						"fullScore": "0-0",
+						"periodScores": [{
+							"period": 1
+						}],
+						"currentPeriod": 1,
+						"currentPeriodName": "1-я партия",
+						"scoreOpp1": 0,
+						"scoreOpp2": 0,
+						"periodScoresStr": "0-0",
+						"fullScoreDetail": {
+							"scoreOpp1": 0,
+							"scoreOpp2": 0
+						},
+						"statusLineStr": "Событие идет"
+					},
+					"zonePlay": 4824057,
+					"updateTs": 1790150572,
+					"id": 755344934,
+					"num": 270980,
+					"mainGameId": 755344934,
+					"constId": 372559776,
+					"startTs": 1790149668,
+					"countryId": 90,
+					"gameTypeName": "",
+					"dopInfo": "Лига C",
+					"periodName": "",
+					"mainConstId": 372559776,
+					"kind": 1,
+					"hasHeadToHead": true,
+					"subscriptionAvailable": true,
+					"isFavoriteAvailable": true
+				}],
+				"countryImage": "/sfiles/logo-flag/b65ea14f800652d05d231673cf6ca849.png",
+				"countryId": 90,
+				"countryName": "Китай",
+				"gamesCount": 1,
+				"image": "/sfiles/logo-champ/d0f02a939473633458e1d47b01423870.png",
+				"id": 2685900,
+				"name": "Мастерс. Китай"
+			}],
+			"subChampsCount": 4,
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"altImage": "/sfiles/logo-champ/9f6ff81d3189775c3a66b723ea8ea81a.png",
+			"gamesCount": 14,
+			"image": "/sfiles/logo-champ/d0f02a939473633458e1d47b01423870.png",
+			"id": 807,
+			"name": "Мастерс"
+		}, {
+			"countryImage": "/sfiles/logo-flag/9b195cd711a059755f8c4a699a927694.png",
+			"countryId": 1,
+			"countryName": "Россия",
+			"gamesCount": 3,
+			"image": "/sfiles/logo-champ/4a169047b8e011ebe1f5913724f8047c.png",
+			"id": 2685644,
+			"name": "Мастерс. Россия. Женщины"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/6954b37f1818a65aa126a8cc356143d2.png",
+			"id": 2222157,
+			"name": "CTT 21. Чемпионат Мира"
+		}],
+		"gamesCount": 19,
+		"sport": {
+			"id": 10,
+			"name": "Настольный теннис"
+		}
+	}, {
+		"mainLigas": [{
+			"games": [{
+				"opponent1": {
+					"fullName": "Монпелье",
+					"countryId": 198,
+					"opps": [{
+						"id": 10106,
+						"name": "Монпелье",
+						"image": "/sfiles/logo_teams/10106.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Киль",
+					"countryId": 53,
+					"opps": [{
+						"id": 9622,
+						"name": "Киль",
+						"image": "/sfiles/logo_teams/a39acc17bdbc228aa64d635003bffa44.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414754"
+				},
+				"scores": {
+					"fullScore": "5-6",
+					"periodScores": [],
+					"currentPeriodName": "",
+					"scoreOpp1": 5,
+					"scoreOpp2": 6,
+					"timer": {
+						"timeSec": 1369,
+						"timeDirection": 0,
+						"timeRun": true
+					},
+					"fullScoreDetail": {
+						"scoreOpp1": 5,
+						"scoreOpp2": 6
+					},
+					"statistic": {
+						"main": {
+							"id_tourney": "999999"
+						}
+					},
+					"statusLineStr": "прошло 22 мин",
+					"inningsStat": []
+				},
+				"updateTs": 1790150575,
+				"id": 755342424,
+				"num": 268270,
+				"mainGameId": 755342424,
+				"constId": 372556622,
+				"startTs": 1790150160,
+				"countryId": 225,
+				"gameTypeName": "",
+				"dopInfo": "№23",
+				"periodName": "",
+				"mainConstId": 372556622,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 1,
+			"image": "/sfiles/logo-champ/e706720cec165aaf03220a406e53f603.png",
+			"id": 2230599,
+			"name": "Handball 21. Лига чемпионов"
+		}],
+		"gamesCount": 1,
+		"sport": {
+			"id": 8,
+			"name": "Гандбол"
+		}
+	}, {
+		"tabs": [{
+			"isNew": true,
+			"data": [{
+				"id": 1,
+				"name": "Победа в матче",
+				"gamesCount": 2
+			}, {
+				"id": 2,
+				"name": "Оверы",
+				"gamesCount": 4
+			}, {
+				"id": 3,
+				"name": "Индивидуальные тоталы",
+				"gamesCount": 1
+			}]
+		}],
+		"mainLigas": [{
+			"games": [{
+				"opponent1": {
+					"fullName": "Willingdon",
+					"countryId": 71,
+					"opps": [{
+						"id": 9252857,
+						"name": "Willingdon",
+						"image": "/sfiles/logo_teams/d4b2b659f7f19bf56aca9638db6cba30.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Kochi Kombans",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902194,
+						"name": "Kochi Kombans",
+						"image": "/sfiles/logo_teams/775944928d005767aef002ac7da1d864.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20413982"
+				},
+				"scores": {
+					"fullScore": "115-33",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"wickets": 2,
+							"over": 3,
+							"overStr": "3.5"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "115",
+								"opponent2": "33/2"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 115,
+					"scoreOpp2": 33,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 115,
+						"scoreOpp2": 33
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "115",
+							"Team2Scores": "33/2",
+							"InnsStats": "2;2;3.5",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"33\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"2;4.6\"},\"SR\":null}],\"H\":[{\"D\":[\"1\",\"6\",\"1\",\"4\",\"0\",\"0\"],\"N\":1},{\"D\":[\"4\",\"1\",\"0\",\"2\",\"2\",\"0\"],\"N\":2},{\"D\":[\"0\",\"0\",\"1\",\"4\",\"0\",\"4\"],\"N\":3},{\"D\":[\"1\",\"1\",\"W0\",\"1\",\"W0\"],\"N\":4}],\"N\":\"Kochi Kombans\",\"O\":[{\"N\":3,\"R\":\"9\",\"S\":\"30\\/0\"},{\"N\":2,\"R\":\"9\",\"S\":\"21\\/0\"},{\"N\":1,\"R\":\"12\",\"S\":\"12\\/0\"}],\"P\":0,\"RR\":\"8,61\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"32\"},{\"B\":null,\"N\":\"2\",\"R\":\"33\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 3,
+						"runs": "9",
+						"score": "30/0"
+					}, {
+						"number": 2,
+						"runs": "9",
+						"score": "21/0"
+					}, {
+						"number": 1,
+						"runs": "12",
+						"score": "12/0"
+					}]
+				},
+				"updateTs": 1790150575,
+				"id": 755324907,
+				"num": 155818,
+				"mainGameId": 755324907,
+				"constId": 372534194,
+				"startTs": 1790142875,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372534194,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 3092683,
+			"name": "India. CR7 Toofan Cup"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Lucknow Physio Giants",
+					"countryId": 225,
+					"opps": [{
+						"id": 8975443,
+						"name": "Lucknow Physio Giants",
+						"image": "/sfiles/logo_teams/c716e8c187e9bd6ab25982304bfd2215.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "JK United Physio",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902278,
+						"name": "JK United Physio",
+						"image": "/sfiles/logo_teams/8ba65ff0552f0bee80633baccd98e860.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414115"
+				},
+				"scores": {
+					"fullScore": "269-45",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"wickets": 6,
+							"over": 7,
+							"overStr": "7.0"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "269",
+								"opponent2": "45/6"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 269,
+					"scoreOpp2": 45,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 269,
+						"scoreOpp2": 45
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "269",
+							"Team2Scores": "45/6",
+							"InnsStats": "2;6;7.0",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"45\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"6;8.1\"},\"SR\":null}],\"H\":[{\"D\":[\"5\",\"4\",\"0\",\"0\",\"2\"],\"N\":1},{\"D\":[\"0\",\"W0\",\"1\",\"1\",\"W0\"],\"N\":2},{\"D\":[\"1\",\"0\",\"0\",\"3\",\"0\"],\"N\":3},{\"D\":[\"0\",\"W0\",\"4\",\"0\",\"0\",\"W0\"],\"N\":4},{\"D\":[\"2\",\"4\",\"0\"],\"N\":5},{\"D\":[\"10\",\"4\",\"4\",\"W0\",\"0\",\"W0\"],\"N\":7}],\"N\":\"JK United Physio\",\"O\":[{\"N\":7,\"R\":\"8\",\"S\":\"45\\/6\"},{\"N\":6,\"R\":\"10\",\"S\":\"37\\/4\"},{\"N\":5,\"R\":\"6\",\"S\":\"27\\/4\"},{\"N\":4,\"R\":\"4\",\"S\":\"21\\/4\"},{\"N\":3,\"R\":\"4\",\"S\":\"17\\/2\"},{\"N\":2,\"R\":\"2\",\"S\":\"13\\/2\"},{\"N\":1,\"R\":\"11\",\"S\":\"11\\/0\"}],\"P\":0,\"RR\":\"6,43\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"11\"},{\"B\":null,\"N\":\"2\",\"R\":\"13\"},{\"B\":null,\"N\":\"3\",\"R\":\"17\"},{\"B\":null,\"N\":\"4\",\"R\":\"21\"},{\"B\":null,\"N\":\"5\",\"R\":\"45\"},{\"B\":null,\"N\":\"6\",\"R\":\"45\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 7,
+						"runs": "8",
+						"score": "45/6"
+					}, {
+						"number": 6,
+						"runs": "10",
+						"score": "37/4"
+					}, {
+						"number": 5,
+						"runs": "6",
+						"score": "27/4"
+					}, {
+						"number": 4,
+						"runs": "4",
+						"score": "21/4"
+					}, {
+						"number": 3,
+						"runs": "4",
+						"score": "17/2"
+					}, {
+						"number": 2,
+						"runs": "2",
+						"score": "13/2"
+					}, {
+						"number": 1,
+						"runs": "11",
+						"score": "11/0"
+					}]
+				},
+				"updateTs": 1790150573,
+				"id": 755324565,
+				"num": 154858,
+				"mainGameId": 755324565,
+				"constId": 372533898,
+				"startTs": 1790140801,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372533898,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 3093442,
+			"name": "India. National Physios League"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Savita Sports Academy (19)",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902230,
+						"name": "Savita Sports Academy (19)",
+						"image": "/sfiles/logo_teams/339147a08aadc3880aec0dabfe4cc800.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Game Changers (19)",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902232,
+						"name": "Game Changers (19)",
+						"image": "/sfiles/logo_teams/c9084e9bfe724f8ea788afe6d6d37ba1.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20413422"
+				},
+				"scores": {
+					"fullScore": "395-0",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"overStr": "0.0"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "395",
+								"opponent2": "0/0"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 395,
+					"scoreOpp2": 0,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 395,
+						"scoreOpp2": 0
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "395",
+							"Team2Scores": "0/0",
+							"InnsStats": "2;0;0.0",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"0\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"0;1.1\"},\"SR\":null}],\"H\":[],\"N\":\"Game Changers (19)\",\"O\":[],\"P\":0,\"RR\":\"\",\"W\":[]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": []
+				},
+				"updateTs": 1790150573,
+				"id": 755312918,
+				"num": 208492,
+				"mainGameId": 755312918,
+				"constId": 372519016,
+				"startTs": 1790137801,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372519016,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 3083562,
+			"name": "India. Sky Super League до 19 лет"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Modern Petro",
+					"countryId": 141,
+					"opps": [{
+						"id": 10886782,
+						"name": "Modern Petro",
+						"image": "/sfiles/logo_teams/d021b28a5054bd6ec13828f8242f8590.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Ahmed Shah",
+					"countryId": 141,
+					"opps": [{
+						"id": 10902340,
+						"name": "Ahmed Shah",
+						"image": "/sfiles/logo_teams/eca966efb8b6ce02b6be92ad4467d76f.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414040"
+				},
+				"scores": {
+					"fullScore": "217-17",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"over": 1,
+							"overStr": "1.4"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "217",
+								"opponent2": "17/0"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 217,
+					"scoreOpp2": 17,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 217,
+						"scoreOpp2": 17
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "217",
+							"Team2Scores": "17/0",
+							"InnsStats": "2;0;1.4",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"17\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"0;2.5\"},\"SR\":null}],\"H\":[{\"D\":[\"0\",\"1\",\"4\",\"0\",\"4\",\"1\"],\"N\":1},{\"D\":[\"1\",\"0\",\"4\",\"1\"],\"N\":2}],\"N\":\"Ahmed Shah\",\"O\":[{\"N\":1,\"R\":\"10\",\"S\":\"10\\/0\"}],\"P\":0,\"RR\":\"10,2\",\"W\":[]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 1,
+						"runs": "10",
+						"score": "10/0"
+					}]
+				},
+				"updateTs": 1790150574,
+				"id": 755326080,
+				"num": 163226,
+				"mainGameId": 755326080,
+				"constId": 372535948,
+				"startTs": 1790144161,
+				"countryId": 141,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372535948,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/5f2e39c910ed93a7d9644186f332f1ad.png",
+			"countryId": 141,
+			"countryName": "Пакистан",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 3093447,
+			"name": "Pakistan. Royal Cup"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Юнион Крикетерс",
+					"countryId": 225,
+					"opps": [{
+						"id": 10894130,
+						"name": "Юнион Крикетерс",
+						"image": "/sfiles/logo_teams/9992f22e4b0889f961f2f3372e16bd27.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Доминион",
+					"countryId": 71,
+					"opps": [{
+						"id": 10892284,
+						"name": "Доминион",
+						"image": "/sfiles/logo_teams/fec7a9f60f2bbe9cd7050041bf04650e.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "70-0",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"overStr": "0.0"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "70",
+								"opponent2": "0/0"
+							}
+						}
+					},
+					"currentPeriodName": "Перерыв",
+					"scoreOpp1": 70,
+					"scoreOpp2": 0,
+					"serve": 2,
+					"isBreak": true,
+					"fullScoreDetail": {
+						"scoreOpp1": 70,
+						"scoreOpp2": 0
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "70",
+							"Team2Scores": "0/0",
+							"InnsStats": "2;0;0.0",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"0\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"0;1.1\"},\"SR\":null}],\"H\":[],\"N\":\"Доминион\",\"O\":[],\"P\":0,\"RR\":\"\",\"W\":[]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"gameStatus": 2,
+					"inningsStat": []
+				},
+				"updateTs": 1790150575,
+				"id": 755336014,
+				"num": 236979,
+				"mainGameId": 755336014,
+				"constId": 372548054,
+				"startTs": 1790146559,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372548054,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 3093423,
+			"name": "Индия. Чемпионат Доминиона"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Futuristic (жен)",
+					"countryId": 225,
+					"opps": [{
+						"id": 7994531,
+						"name": "Futuristic (жен)",
+						"image": "/sfiles/logo_teams/5e9092f951d02f8e671415cce1862dac.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Wonder Womens (жен)",
+					"countryId": 71,
+					"opps": [{
+						"id": 7977185,
+						"name": "Wonder Womens (жен)",
+						"image": "/sfiles/logo_teams/6cdc5f6a986772e23ef5a959945aa2d7.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414745"
+				},
+				"scores": {
+					"fullScore": "20-0",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 1,
+							"wickets": 1,
+							"over": 3,
+							"overStr": "3.0"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "20/1",
+								"opponent2": "0"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 20,
+					"scoreOpp2": 0,
+					"serve": 1,
+					"fullScoreDetail": {
+						"scoreOpp1": 20,
+						"scoreOpp2": 0
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "20/1",
+							"Team2Scores": "0",
+							"InnsStats": "1;1;3.0",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"20\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"1;4.1\"},\"SR\":null}],\"H\":[{\"D\":[\"2\",\"0\",\"1\",\"1\",\"1\",\"1\"],\"N\":1},{\"D\":[\"1\",\"1\",\"1\",\"1\",\"2\",\"4\"],\"N\":2},{\"D\":[\"0\",\"1\",\"W0\",\"1\",\"1\",\"1\"],\"N\":3}],\"N\":\"Futuristic (жен)\",\"O\":[{\"N\":3,\"R\":\"4\",\"S\":\"20\\/1\"},{\"N\":2,\"R\":\"10\",\"S\":\"16\\/0\"},{\"N\":1,\"R\":\"6\",\"S\":\"6\\/0\"}],\"P\":0,\"RR\":\"6,67\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"17\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 3,
+						"runs": "4",
+						"score": "20/1"
+					}, {
+						"number": 2,
+						"runs": "10",
+						"score": "16/0"
+					}, {
+						"number": 1,
+						"runs": "6",
+						"score": "6/0"
+					}]
+				},
+				"updateTs": 1790150573,
+				"id": 755342304,
+				"num": 268028,
+				"mainGameId": 755342304,
+				"constId": 372556336,
+				"startTs": 1790149800,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372556336,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2618939,
+			"name": "Agra District Womens League"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Anaradhapura CC",
+					"countryId": 225,
+					"opps": [{
+						"id": 9407379,
+						"name": "Anaradhapura CC",
+						"image": "/sfiles/logo_teams/23dd82b4c092622656c4f5bfe71a4a59.PNG"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Hambinthota DC",
+					"countryId": 208,
+					"opps": [{
+						"id": 7334037,
+						"name": "Hambinthota DC",
+						"image": "/sfiles/logo_teams/5295741c9077caab3e9f98a6695759e1.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414037"
+				},
+				"scores": {
+					"fullScore": "148-13",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"wickets": 1,
+							"over": 2,
+							"overStr": "2.3"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "148",
+								"opponent2": "13/1"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 148,
+					"scoreOpp2": 13,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 148,
+						"scoreOpp2": 13
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "148",
+							"Team2Scores": "13/1",
+							"InnsStats": "2;1;2.3",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"13\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"1;3.4\"},\"SR\":null}],\"H\":[{\"D\":[\"0\",\"0\",\"1\",\"0\",\"0\",\"2\"],\"N\":1},{\"D\":[\"0\",\"W0\",\"1\",\"0\",\"4\",\"1\"],\"N\":2},{\"D\":[\"2\",\"1\",\"1\"],\"N\":3}],\"N\":\"Hambinthota DC\",\"O\":[{\"N\":2,\"R\":\"6\",\"S\":\"9\\/1\"},{\"N\":1,\"R\":\"3\",\"S\":\"3\\/0\"}],\"P\":0,\"RR\":\"5,2\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"3\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 2,
+						"runs": "6",
+						"score": "9/1"
+					}, {
+						"number": 1,
+						"runs": "3",
+						"score": "3/0"
+					}]
+				},
+				"updateTs": 1790150575,
+				"id": 755328331,
+				"num": 176661,
+				"mainGameId": 755328331,
+				"constId": 372538900,
+				"startTs": 1790145000,
+				"countryId": 208,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372538900,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/0444b68fb0bc9ad80a9e4ed839b1ba0f.png",
+			"countryId": 208,
+			"countryName": "Шри-Ланка",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2827922,
+			"name": "Badulla Trophy"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Shani Shignapur Sports",
+					"countryId": 225,
+					"opps": [{
+						"id": 7453741,
+						"name": "Shani Shignapur Sports",
+						"image": "/sfiles/logo_teams/c9ff754d376fca4c01816c3081adc340.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Chitkul Association",
+					"countryId": 225,
+					"opps": [{
+						"id": 7453717,
+						"name": "Chitkul Association",
+						"image": "/sfiles/logo_teams/238bc667cdb94c0314005e521fbae316.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20413697"
+				},
+				"scores": {
+					"fullScore": "192-162",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"wickets": 5,
+							"over": 15,
+							"overStr": "15.1"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "192",
+								"opponent2": "162/5"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 192,
+					"scoreOpp2": 162,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 192,
+						"scoreOpp2": 162
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "192",
+							"Team2Scores": "162/5",
+							"InnsStats": "2;5;15.1",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"162\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"5;16.2\"},\"SR\":null}],\"H\":[{\"D\":[\"1\",\"1\",\"6\",\"1\",\"4\",\"1\"],\"N\":1},{\"D\":[\"1\",\"4\",\"2\",\"1\",\"1\",\"1\"],\"N\":2},{\"D\":[\"0\",\"0\",\"1\",\"1\",\"6\",\"1\"],\"N\":3},{\"D\":[\"6\",\"1\",\"1\",\"W0\",\"1\",\"1\"],\"N\":4},{\"D\":[\"0\",\"W1\",\"0\",\"5\",\"0\",\"2\"],\"N\":5},{\"D\":[\"4\",\"0\",\"1\",\"1\",\"0\",\"1\"],\"N\":6},{\"D\":[\"1\",\"0\",\"6\",\"1\",\"2\",\"1\"],\"N\":7},{\"D\":[\"0\",\"4\",\"2\",\"0\",\"4\",\"2\"],\"N\":8},{\"D\":[\"W0\",\"1\",\"6\",\"6\",\"0\",\"1\"],\"N\":9},{\"D\":[\"4\",\"1\",\"2\",\"1\",\"2\",\"1\"],\"N\":10},{\"D\":[\"1\",\"1\",\"4\",\"1\",\"W0\",\"1\"],\"N\":11},{\"D\":[\"1\",\"1\",\"4\",\"1\",\"2\",\"6\"],\"N\":12},{\"D\":[\"1\",\"4\",\"W0\",\"1\",\"1\",\"4\"],\"N\":13},{\"D\":[\"1\",\"4\",\"2\",\"1\",\"0\",\"1\"],\"N\":14},{\"D\":[\"1\",\"0\",\"6\",\"1\",\"2\",\"2\"],\"N\":15},{\"D\":[\"1\"],\"N\":16}],\"N\":\"Chitkul Association\",\"O\":[{\"N\":15,\"R\":\"12\",\"S\":\"161\\/5\"},{\"N\":14,\"R\":\"9\",\"S\":\"149\\/5\"},{\"N\":13,\"R\":\"11\",\"S\":\"140\\/5\"},{\"N\":12,\"R\":\"15\",\"S\":\"129\\/4\"},{\"N\":11,\"R\":\"8\",\"S\":\"114\\/4\"},{\"N\":10,\"R\":\"11\",\"S\":\"106\\/3\"},{\"N\":9,\"R\":\"14\",\"S\":\"95\\/3\"},{\"N\":8,\"R\":\"12\",\"S\":\"81\\/2\"},{\"N\":7,\"R\":\"11\",\"S\":\"69\\/2\"},{\"N\":6,\"R\":\"7\",\"S\":\"58\\/2\"},{\"N\":5,\"R\":\"8\",\"S\":\"51\\/2\"},{\"N\":4,\"R\":\"10\",\"S\":\"43\\/1\"},{\"N\":3,\"R\":\"9\",\"S\":\"33\\/0\"},{\"N\":2,\"R\":\"10\",\"S\":\"24\\/0\"},{\"N\":1,\"R\":\"14\",\"S\":\"14\\/0\"}],\"P\":0,\"RR\":\"10,68\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"41\"},{\"B\":null,\"N\":\"2\",\"R\":\"44\"},{\"B\":null,\"N\":\"3\",\"R\":\"81\"},{\"B\":null,\"N\":\"4\",\"R\":\"113\"},{\"B\":null,\"N\":\"5\",\"R\":\"134\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 15,
+						"runs": "12",
+						"score": "161/5"
+					}, {
+						"number": 14,
+						"runs": "9",
+						"score": "149/5"
+					}, {
+						"number": 13,
+						"runs": "11",
+						"score": "140/5"
+					}, {
+						"number": 12,
+						"runs": "15",
+						"score": "129/4"
+					}, {
+						"number": 11,
+						"runs": "8",
+						"score": "114/4"
+					}, {
+						"number": 10,
+						"runs": "11",
+						"score": "106/3"
+					}, {
+						"number": 9,
+						"runs": "14",
+						"score": "95/3"
+					}, {
+						"number": 8,
+						"runs": "12",
+						"score": "81/2"
+					}, {
+						"number": 7,
+						"runs": "11",
+						"score": "69/2"
+					}, {
+						"number": 6,
+						"runs": "7",
+						"score": "58/2"
+					}, {
+						"number": 5,
+						"runs": "8",
+						"score": "51/2"
+					}, {
+						"number": 4,
+						"runs": "10",
+						"score": "43/1"
+					}, {
+						"number": 3,
+						"runs": "9",
+						"score": "33/0"
+					}, {
+						"number": 2,
+						"runs": "10",
+						"score": "24/0"
+					}, {
+						"number": 1,
+						"runs": "14",
+						"score": "14/0"
+					}]
+				},
+				"updateTs": 1790150575,
+				"id": 755319701,
+				"num": 247487,
+				"mainGameId": 755319701,
+				"constId": 372527650,
+				"startTs": 1790142300,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372527650,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2630062,
+			"name": "Chandigarh League"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Hisar Captains",
+					"countryId": 225,
+					"opps": [{
+						"id": 6981093,
+						"name": "Hisar Captains",
+						"image": "/sfiles/logo_teams/94883659dd068319f4584c6d069423d6.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Rampur",
+					"countryId": 225,
+					"opps": [{
+						"id": 6357763,
+						"name": "Rampur",
+						"image": "/sfiles/logo_teams/6af942733ce452d6e12a74570fdd39c8.png"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414877"
+				},
+				"scores": {
+					"fullScore": "0-0",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 1,
+							"overStr": "0.0"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "0/0",
+								"opponent2": "0"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 0,
+					"scoreOpp2": 0,
+					"serve": 1,
+					"info": "Ставки до начала матча",
+					"fullScoreDetail": {
+						"scoreOpp1": 0,
+						"scoreOpp2": 0
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "0/0",
+							"Team2Scores": "0",
+							"InnsStats": "1;0;0.0",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"0\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"0;1.1\"},\"SR\":null}],\"H\":[],\"N\":\"Hisar Captains\",\"O\":[],\"P\":0,\"RR\":\"\",\"W\":[]}]}"
+						}
+					},
+					"statusLineStr": "До начала 3 мин",
+					"inningsStat": []
+				},
+				"nonStarted": true,
+				"updateTs": 1790150573,
+				"id": 755345198,
+				"num": 271113,
+				"mainGameId": 755345198,
+				"constId": 372559964,
+				"startTs": 1790150700,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372559964,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2720685,
+			"name": "Amateur league T10"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Islamabad Fighters",
+					"countryId": 141,
+					"opps": [{
+						"id": 9413293,
+						"name": "Islamabad Fighters",
+						"image": "/sfiles/logo_teams/bc302eb1a0895742b78e869ba62f2592.PNG"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Rawalpindi United",
+					"countryId": 141,
+					"opps": [{
+						"id": 9413291,
+						"name": "Rawalpindi United",
+						"image": "/sfiles/logo_teams/2cfe18528b1f935521f5eea17279946a.PNG"
+					}]
+				},
+				"video": {
+					"enabled": true,
+					"id": "20414884"
+				},
+				"scores": {
+					"fullScore": "9-0",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 1,
+							"overStr": "0.4"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "9/0",
+								"opponent2": "0"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 9,
+					"scoreOpp2": 0,
+					"serve": 1,
+					"fullScoreDetail": {
+						"scoreOpp1": 9,
+						"scoreOpp2": 0
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "9/0",
+							"Team2Scores": "0",
+							"InnsStats": "1;0;0.4",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"9\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"0;1.5\"},\"SR\":null}],\"H\":[{\"D\":[\"2\",\"2\",\"1\",\"4\"],\"N\":1}],\"N\":\"Islamabad Fighters\",\"O\":[],\"P\":0,\"RR\":\"13,50\",\"W\":[]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": []
+				},
+				"updateTs": 1790150575,
+				"id": 755345053,
+				"num": 271018,
+				"mainGameId": 755345053,
+				"constId": 372559832,
+				"startTs": 1790150400,
+				"countryId": 141,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372559832,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/5f2e39c910ed93a7d9644186f332f1ad.png",
+			"countryId": 141,
+			"countryName": "Пакистан",
+			"gamesCount": 1,
+			"isTop": true,
+			"id": 2861158,
+			"name": "Gujrat District Cup"
+		}, {
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 2,
+			"isTop": true,
+			"id": 2825843,
+			"name": "Chennai daily cricket"
+		}, {
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 2,
+			"isTop": true,
+			"id": 2696675,
+			"name": "India. Indoor Series"
+		}, {
+			"games": [{
+				"opponent1": {
+					"fullName": "Azhar XI",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902224,
+						"name": "Azhar XI",
+						"image": "/sfiles/logo_teams/26d16d3776b734061ac3ebce3cb5c52f.png"
+					}]
+				},
+				"opponent2": {
+					"fullName": "Track Hub",
+					"countryId": 71,
+					"opps": [{
+						"id": 10902222,
+						"name": "Track Hub",
+						"image": "/sfiles/logo_teams/1fb3c85b92321226208c442e4de23cf7.png"
+					}]
+				},
+				"scores": {
+					"fullScore": "209-171",
+					"periodScores": [],
+					"extendedScore": {
+						"innsStats": {
+							"team": 2,
+							"wickets": 8,
+							"over": 16,
+							"overStr": "16.4"
+						},
+						"cricketScore": {
+							"wicketScore": {
+								"opponent1": "209",
+								"opponent2": "171/8"
+							}
+						}
+					},
+					"currentPeriodName": "",
+					"scoreOpp1": 209,
+					"scoreOpp2": 171,
+					"serve": 2,
+					"fullScoreDetail": {
+						"scoreOpp1": 209,
+						"scoreOpp2": 171
+					},
+					"statistic": {
+						"main": {
+							"Team1Scores": "209",
+							"Team2Scores": "171/8",
+							"InnsStats": "2;8;16.4",
+							"InningsStatistic": "{\"St\":[{\"B\":[{\"B\":null,\"N\":\"1001\",\"R\":\"171\",\"R4s\":\"\",\"R6s\":\"\",\"S\":{\"BN\":null,\"M\":0,\"PN\":\"8;17.5\"},\"SR\":null}],\"H\":[{\"D\":[\"0\",\"1\",\"0\",\"0\",\"1\",\"4\",\"4\",\"0\"],\"N\":1},{\"D\":[\"5\",\"0\",\"4\",\"4\",\"4\",\"1\"],\"N\":2},{\"D\":[\"4\",\"1\",\"0\",\"0\",\"4\",\"0\"],\"N\":3},{\"D\":[\"4\",\"2\",\"3\",\"1\",\"4\",\"1\"],\"N\":4},{\"D\":[\"4\",\"1\",\"0\",\"4\",\"2\",\"0\"],\"N\":5},{\"D\":[\"4\",\"0\",\"6\",\"4\",\"6\",\"6\"],\"N\":6},{\"D\":[\"4\",\"W0\",\"0\",\"1\",\"4\",\"0\"],\"N\":7},{\"D\":[\"3\",\"4\",\"1\",\"1\",\"0\",\"1\"],\"N\":8},{\"D\":[\"1\",\"1\",\"1\",\"6\",\"1\",\"1\"],\"N\":9},{\"D\":[\"1\",\"W0\",\"0\",\"W0\",\"1\",\"1\"],\"N\":10},{\"D\":[\"4\",\"1\",\"0\",\"0\",\"0\",\"4\"],\"N\":11},{\"D\":[\"1\",\"0\",\"1\",\"0\",\"1\",\"2\"],\"N\":12},{\"D\":[\"2\",\"1\",\"1\",\"0\",\"0\",\"W0\"],\"N\":13},{\"D\":[\"0\",\"1\",\"1\",\"W0\",\"4\",\"2\"],\"N\":14},{\"D\":[\"1\",\"W0\",\"1\",\"1\",\"0\",\"0\"],\"N\":15},{\"D\":[\"W0\",\"1\",\"4\",\"4\",\"1\",\"W0\"],\"N\":16},{\"D\":[\"1\",\"1\",\"4\",\"4\"],\"N\":17}],\"N\":\"Track Hub\",\"O\":[{\"N\":16,\"R\":\"10\",\"S\":\"161\\/8\"},{\"N\":15,\"R\":\"3\",\"S\":\"151\\/6\"},{\"N\":14,\"R\":\"8\",\"S\":\"148\\/5\"},{\"N\":13,\"R\":\"4\",\"S\":\"140\\/4\"},{\"N\":12,\"R\":\"5\",\"S\":\"136\\/3\"},{\"N\":11,\"R\":\"9\",\"S\":\"131\\/3\"},{\"N\":10,\"R\":\"3\",\"S\":\"122\\/3\"},{\"N\":9,\"R\":\"11\",\"S\":\"119\\/1\"},{\"N\":8,\"R\":\"10\",\"S\":\"108\\/1\"},{\"N\":7,\"R\":\"9\",\"S\":\"98\\/1\"},{\"N\":6,\"R\":\"26\",\"S\":\"89\\/0\"},{\"N\":5,\"R\":\"11\",\"S\":\"63\\/0\"},{\"N\":4,\"R\":\"15\",\"S\":\"52\\/0\"},{\"N\":3,\"R\":\"9\",\"S\":\"37\\/0\"},{\"N\":2,\"R\":\"18\",\"S\":\"28\\/0\"},{\"N\":1,\"R\":\"10\",\"S\":\"10\\/0\"}],\"P\":0,\"RR\":\"10,26\",\"W\":[{\"B\":null,\"N\":\"1\",\"R\":\"93\"},{\"B\":null,\"N\":\"2\",\"R\":\"120\"},{\"B\":null,\"N\":\"3\",\"R\":\"120\"},{\"B\":null,\"N\":\"4\",\"R\":\"140\"},{\"B\":null,\"N\":\"5\",\"R\":\"142\"},{\"B\":null,\"N\":\"6\",\"R\":\"149\"},{\"B\":null,\"N\":\"7\",\"R\":\"151\"},{\"B\":null,\"N\":\"8\",\"R\":\"161\"}]}]}"
+						}
+					},
+					"statusLineStr": "Событие идет",
+					"inningsStat": [{
+						"number": 16,
+						"runs": "10",
+						"score": "161/8"
+					}, {
+						"number": 15,
+						"runs": "3",
+						"score": "151/6"
+					}, {
+						"number": 14,
+						"runs": "8",
+						"score": "148/5"
+					}, {
+						"number": 13,
+						"runs": "4",
+						"score": "140/4"
+					}, {
+						"number": 12,
+						"runs": "5",
+						"score": "136/3"
+					}, {
+						"number": 11,
+						"runs": "9",
+						"score": "131/3"
+					}, {
+						"number": 10,
+						"runs": "3",
+						"score": "122/3"
+					}, {
+						"number": 9,
+						"runs": "11",
+						"score": "119/1"
+					}, {
+						"number": 8,
+						"runs": "10",
+						"score": "108/1"
+					}, {
+						"number": 7,
+						"runs": "9",
+						"score": "98/1"
+					}, {
+						"number": 6,
+						"runs": "26",
+						"score": "89/0"
+					}, {
+						"number": 5,
+						"runs": "11",
+						"score": "63/0"
+					}, {
+						"number": 4,
+						"runs": "15",
+						"score": "52/0"
+					}, {
+						"number": 3,
+						"runs": "9",
+						"score": "37/0"
+					}, {
+						"number": 2,
+						"runs": "18",
+						"score": "28/0"
+					}, {
+						"number": 1,
+						"runs": "10",
+						"score": "10/0"
+					}]
+				},
+				"updateTs": 1790150575,
+				"id": 755311082,
+				"num": 194274,
+				"mainGameId": 755311082,
+				"constId": 372516276,
+				"startTs": 1790138203,
+				"countryId": 71,
+				"gameTypeName": "",
+				"periodName": "",
+				"mainConstId": 372516276,
+				"kind": 1,
+				"subscriptionAvailable": true,
+				"isFavoriteAvailable": true
+			}],
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 1,
+			"id": 3087699,
+			"name": "India. IPCL"
+		}, {
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/3af86b801c1e7a8da95b19ec27c02392.png",
+			"id": 2718439,
+			"name": "Cricket 24. Cyber League"
+		}, {
+			"countryImage": "/sfiles/logo-flag/e1a3aae35bde85efb12e3e5701207e2a.png",
+			"countryId": 71,
+			"countryName": "Индия",
+			"gamesCount": 2,
+			"id": 2768040,
+			"name": "Cyber Indian League 24"
+		}],
+		"gamesCount": 19,
+		"sport": {
+			"id": 66,
+			"name": "Крикет"
+		}
+	}, {
+		"mainLigas": [{
+			"countryImage": "/sfiles/logo-flag/a09c04e45bfb1f2440d5185d9c5753ec.png",
+			"countryId": 225,
+			"countryName": "Мир",
+			"gamesCount": 2,
+			"image": "/sfiles/logo-champ/38fa55edc1bdc63104592b52dc5330a1.png",
+			"id": 2475911,
+			"name": "CBV 23. International Cup"
+		}],
+		"gamesCount": 2,
+		"sport": {
+			"id": 29,
+			"name": "Пляжный волейбол"
+		}
+	}]
+}

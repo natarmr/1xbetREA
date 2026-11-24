@@ -1,0 +1,992 @@
+
+
+{
+	"data": [{
+		"events": [{
+			"liga": {
+				"id": 2766937,
+				"name": "India. Shillong. Division 1"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Football"
+			},
+			"opponent1": {
+				"fullName": "Nongkrem",
+				"countryId": 71,
+				"opps": [{
+					"id": 408021,
+					"name": "Nongkrem",
+					"image": "/sfiles/logo_teams/c121d8f244347e51f9fda3c12fa0efc4.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Laitkyrhong",
+				"countryId": 71,
+				"opps": [{
+					"id": 8055195,
+					"name": "Laitkyrhong",
+					"image": "/sfiles/logo_teams/4aeb3b0af877f87d6142a94db1ce5d7c.png"
+				}]
+			},
+			"event": {
+				"groupId": 4,
+				"type": 9,
+				"parameter": 1,
+				"cf": 1.65,
+				"cfView": "1.65",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(1)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "2nd half",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 3640,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"zonePlay": 755330498,
+			"updateTs": 1790150697,
+			"id": 755330498,
+			"num": 194764,
+			"mainGameId": 755330498,
+			"constId": 372541332,
+			"startTs": 1790145900,
+			"countryId": 71,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372541332,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 3092008,
+				"name": "World Tennis. Baku"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Volodymyr Iakubenko",
+				"countryId": 2,
+				"opps": [{
+					"id": 2884847,
+					"name": "Volodymyr Iakubenko",
+					"image": "/sfiles/logo_teams/99c45c0de08185fe3f6a2ed6b475f1d4.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Marcus Walters",
+				"countryId": 39,
+				"opps": [{
+					"id": 88949,
+					"name": "Marcus Walters",
+					"image": "/sfiles/logo_teams/ca8958756a6ab17770c8a726799e5d7a.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.82,
+				"cfView": "1.82"
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "2nd set",
+				"scoreOpp1": 4,
+				"scoreOpp2": 3,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150694,
+			"id": 755332955,
+			"num": 236284,
+			"mainGameId": 755323968,
+			"constId": 372546632,
+			"fullName": "2nd set",
+			"startTs": 1790143200,
+			"countryId": 6,
+			"gameTypeName": "",
+			"period": 2,
+			"periodName": "2nd set",
+			"mainConstId": 372533096,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 206233,
+				"name": "Russia. 1st Division. Women"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Football"
+			},
+			"opponent1": {
+				"fullName": "Sochi (Women)",
+				"countryId": 1,
+				"opps": [{
+					"id": 8944139,
+					"name": "Sochi (Women)",
+					"image": "/sfiles/logo_teams/01b2883ec80653030e9d6738dd7b20ae.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Strogino (Women)",
+				"countryId": 225,
+				"opps": [{
+					"id": 2766837,
+					"name": "Strogino (Women)",
+					"image": "/sfiles/logo_teams/61c8e99be860d11202a4727debc6bb99.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"parameter": 2,
+				"cf": 1.76,
+				"cfView": "1.76",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(2)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-2",
+				"currentPeriodName": "Half-time",
+				"scoreOpp1": 0,
+				"scoreOpp2": 2,
+				"timer": {
+					"timeSec": 2700,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150698,
+			"id": 755334745,
+			"num": 236721,
+			"mainGameId": 755334745,
+			"constId": 372546804,
+			"startTs": 1790146800,
+			"countryId": 1,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372546804,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1431365725,
+		"expressId": 11315,
+		"cf": 5.814,
+		"cfView": "5.814"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 3092472,
+				"name": "World Tennis. Constanta. Women"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Melinda Biro",
+				"countryId": 40,
+				"opps": [{
+					"id": 7736597,
+					"name": "Melinda Biro",
+					"image": "/sfiles/logo_teams/9729dbbc466d98c67e6d40ea706b8cc3.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Anastasia Safta",
+				"countryId": 152,
+				"opps": [{
+					"id": 5879581,
+					"name": "Anastasia Safta",
+					"image": "/sfiles/logo_teams/ad5b0a3071811de41b59dda91c9794da.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.752,
+				"cfView": "1.752"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st set",
+				"scoreOpp1": 4,
+				"scoreOpp2": 4,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755335125,
+			"updateTs": 1790150696,
+			"id": 755335158,
+			"num": 274376,
+			"mainGameId": 755335125,
+			"constId": 372346956,
+			"fullName": "1st set",
+			"startTs": 1790146800,
+			"countryId": 152,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1st set",
+			"mainConstId": 372346942,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 3092452,
+				"name": "World Tennis. Pardubice"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Lukas Pokorny",
+				"countryId": 171,
+				"opps": [{
+					"id": 2868387,
+					"name": "Lukas Pokorny",
+					"image": "/sfiles/logo_teams/7a2b528d96ddbd1c0ea7a6f290eb8d44.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Marcel Zielinski",
+				"countryId": 53,
+				"opps": [{
+					"id": 1762341,
+					"name": "Marcel Zielinski",
+					"image": "/sfiles/logo_teams/ae200e9bb7cfdb64485373ed51b774ed.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.87,
+				"cfView": "1.87"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st set",
+				"scoreOpp1": 3,
+				"scoreOpp2": 3,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755340243,
+			"updateTs": 1790150698,
+			"id": 755340295,
+			"num": 206247,
+			"mainGameId": 755340243,
+			"constId": 372066750,
+			"fullName": "1st set",
+			"startTs": 1790148600,
+			"countryId": 204,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1st set",
+			"mainConstId": 372066724,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 3092454,
+				"name": "World Tennis. Yinchuan. Doubles"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Aguiard/Komagata",
+				"countryId": 225,
+				"opps": [{
+					"id": 8644785,
+					"name": "Aguiard",
+					"image": "/sfiles/logo_teams/2ac9e0abf136b385f7e788bd6d4bc213.png"
+				}, {
+					"id": 8687281,
+					"name": "Komagata",
+					"image": "/sfiles/logo_teams/a28453aed04f6b742eba05cca264f29a.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Zeng/Yang",
+				"countryId": 225,
+				"opps": [{
+					"id": 306755,
+					"name": "Zeng",
+					"image": "/sfiles/logo_teams/4372af1a66512167ed539761de704173.png"
+				}, {
+					"id": 53131,
+					"name": "Yang",
+					"image": "/sfiles/logo_teams/d7c378f993fe0be000e60a3e70d80749.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 3,
+				"cf": 1.725,
+				"cfView": "1.725"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st set",
+				"scoreOpp1": 4,
+				"scoreOpp2": 3,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755340564,
+			"updateTs": 1790150698,
+			"id": 755340573,
+			"num": 218966,
+			"mainGameId": 755340564,
+			"constId": 372046450,
+			"fullName": "1st set",
+			"startTs": 1790148480,
+			"countryId": 90,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1st set",
+			"mainConstId": 372046426,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1436077353,
+		"expressId": 11315,
+		"cf": 6.217,
+		"cfView": "6.217"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 3092452,
+				"name": "World Tennis. Pardubice"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Borys Zgola",
+				"countryId": 147,
+				"opps": [{
+					"id": 2883751,
+					"name": "Borys Zgola",
+					"image": "/sfiles/logo_teams/3c01163a4aa2a4a6337140c5fbd76ee1.Png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "David Petrofsky",
+				"countryId": 204,
+				"opps": [{
+					"id": 7769581,
+					"name": "David Petrofsky",
+					"image": "/sfiles/logo_teams/0ad4190ac116dfcf847586ed5d38a0e3.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.675,
+				"cfView": "1.675"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st set",
+				"scoreOpp1": 1,
+				"scoreOpp2": 2,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755341280,
+			"updateTs": 1790150696,
+			"id": 755341304,
+			"num": 167530,
+			"mainGameId": 755341280,
+			"constId": 372406590,
+			"fullName": "1st set",
+			"startTs": 1790148600,
+			"countryId": 204,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1st set",
+			"mainConstId": 372352294,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"image": "/sfiles/logo-champ/5fae7b17e0a81350dfe9ee180bec744f.png",
+				"id": 258247,
+				"name": "FIBA Intercontinental Cup"
+			},
+			"sport": {
+				"id": 3,
+				"name": "Basketball"
+			},
+			"opponent1": {
+				"fullName": "Shanghai Sharks",
+				"countryId": 90,
+				"opps": [{
+					"id": 6526,
+					"name": "Shanghai Sharks",
+					"image": "/sfiles/logo_teams/acd0fe0c93bebc872ef81804053ddd22.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "RSSB Tigers",
+				"countryId": 151,
+				"opps": [{
+					"id": 3475815,
+					"name": "RSSB Tigers",
+					"image": "/sfiles/logo_teams/963aa6fdb6029e18fe608432e0850dca.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 3,
+				"cf": 2.15,
+				"cfView": "2.15"
+			},
+			"scores": {
+				"fullScore": "47-33",
+				"currentPeriodName": "2nd quarter",
+				"scoreOpp1": 17,
+				"scoreOpp2": 16,
+				"timer": {
+					"timeSec": 935,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150694,
+			"id": 755342971,
+			"num": 170753,
+			"mainGameId": 755339935,
+			"constId": 372402300,
+			"fullName": "2nd quarter",
+			"startTs": 1790148600,
+			"countryId": 225,
+			"gameTypeName": "",
+			"period": 2,
+			"periodName": "2nd quarter",
+			"mainConstId": 371922812,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 2699538,
+				"name": "Tournament Magnitka Open"
+			},
+			"sport": {
+				"id": 2,
+				"name": "Ice Hockey"
+			},
+			"opponent1": {
+				"fullName": "Stalnye Topory",
+				"countryId": 1,
+				"opps": [{
+					"id": 8594445,
+					"name": "Stalnye Topory",
+					"image": "/sfiles/logo_teams/60344686a38ab7445695eddb6ad5ae21.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Svirepye Eji",
+				"countryId": 1,
+				"opps": [{
+					"id": 8594371,
+					"name": "Svirepye Eji",
+					"image": "/sfiles/logo_teams/fba6510d0e92b9699d5bc2621e3032e5.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"parameter": -1.5,
+				"cf": 2.02,
+				"cfView": "2.02",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(-1.5)"]
+				}
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "1st period",
+				"scoreOpp1": 1,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 231,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"updateTs": 1790150697,
+			"id": 755343411,
+			"num": 236270,
+			"mainGameId": 755343411,
+			"constId": 372277876,
+			"startTs": 1790150400,
+			"countryId": 1,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372277876,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1442069453,
+		"expressId": 11315,
+		"cf": 8.002,
+		"cfView": "8.002"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 330475,
+				"name": "India. Bangalore. Super Division"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Football"
+			},
+			"opponent1": {
+				"fullName": "Bangalore Dream United",
+				"countryId": 71,
+				"opps": [{
+					"id": 2032293,
+					"name": "Bangalore Dream United",
+					"image": "/sfiles/logo_teams/41cdf8210c5f9f2291be991c579e924d.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Stride Sports",
+				"countryId": 71,
+				"opps": [{
+					"id": 8307555,
+					"name": "Stride Sports",
+					"image": "/sfiles/logo_teams/da64b71f322ad1e4c6049b024e56a944.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"cf": 2.02,
+				"cfView": "2.02",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(0)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st half",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 256,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"zonePlay": 755344444,
+			"updateTs": 1790150695,
+			"id": 755344444,
+			"num": 152075,
+			"mainGameId": 755344444,
+			"constId": 372458806,
+			"startTs": 1790150400,
+			"countryId": 71,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372458806,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 2760560,
+				"name": "Ghana Super Cup. Women"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Football"
+			},
+			"opponent1": {
+				"fullName": "Hasaacas (Women)",
+				"countryId": 48,
+				"opps": [{
+					"id": 5841665,
+					"name": "Hasaacas (Women)",
+					"image": "/sfiles/logo_teams/f7de4f47fa97766affe8856df3b5691f.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Jonina (Women)",
+				"countryId": 48,
+				"opps": [{
+					"id": 9025219,
+					"name": "Jonina (Women)",
+					"image": "/sfiles/logo_teams/5be4c435dadd3bf2debdfb40617d5102.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.552,
+				"cfView": "1.552"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"nonStarted": true,
+			"zonePlay": 755344681,
+			"updateTs": 1790150696,
+			"id": 755344681,
+			"num": 187605,
+			"mainGameId": 755344681,
+			"constId": 372268406,
+			"startTs": 1790150400,
+			"countryId": 48,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372268406,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 3092472,
+				"name": "World Tennis. Constanta. Women"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Estella Jaeger",
+				"countryId": 53,
+				"opps": [{
+					"id": 1050491,
+					"name": "Estella Jaeger",
+					"image": "/sfiles/logo_teams/2567352aac5c149d606584689eb901f7.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Karina Elena Gabriela Dumitru",
+				"countryId": 152,
+				"opps": [{
+					"id": 10023967,
+					"name": "Karina Elena Gabriela Dumitru",
+					"image": "/sfiles/logo_teams/d3b1ac6de00527f95ad7561b22ea50c4.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 2.112,
+				"cfView": "2.112"
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "2nd set",
+				"scoreOpp1": 0,
+				"scoreOpp2": 1,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755334460,
+			"updateTs": 1790150696,
+			"id": 755344723,
+			"num": 274386,
+			"mainGameId": 755334460,
+			"constId": 372346962,
+			"fullName": "2nd set",
+			"startTs": 1790146800,
+			"countryId": 152,
+			"gameTypeName": "",
+			"period": 2,
+			"periodName": "2nd set",
+			"mainConstId": 372346948,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1445141315,
+		"expressId": 11315,
+		"cf": 7.283,
+		"cfView": "7.283"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 3092069,
+				"name": "Senegal. Northern Cup"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Football"
+			},
+			"opponent1": {
+				"fullName": "Essamaye",
+				"countryId": 165,
+				"opps": [{
+					"id": 9131983,
+					"name": "Essamaye",
+					"image": "/sfiles/logo_teams/173c721300b70fb942d87c9b2b1c19cf.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "ASC Jaraaf",
+				"countryId": 165,
+				"opps": [{
+					"id": 156789,
+					"name": "ASC Jaraaf",
+					"image": "/sfiles/logo_teams/24644c124e74df893781f051e882ba90.png"
+				}]
+			},
+			"event": {
+				"groupId": 4,
+				"type": 10,
+				"parameter": 3.5,
+				"cf": 1.825,
+				"cfView": "1.825",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(3.5)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st half",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150698,
+			"id": 755345031,
+			"num": 271002,
+			"mainGameId": 755345031,
+			"constId": 372559812,
+			"startTs": 1790150400,
+			"countryId": 165,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372559812,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 1805326,
+				"name": "Kazakhstan Championship U20"
+			},
+			"sport": {
+				"id": 2,
+				"name": "Ice Hockey"
+			},
+			"opponent1": {
+				"fullName": "Almaty U20",
+				"countryId": 82,
+				"opps": [{
+					"id": 2070369,
+					"name": "Almaty U20",
+					"image": "/sfiles/logo_teams/f0cb923c94ff1d1ba1536ec49ed13e55.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Torpedo Ust-Kamenogorsk U20",
+				"countryId": 82,
+				"opps": [{
+					"id": 2093711,
+					"name": "Torpedo Ust-Kamenogorsk U20",
+					"image": "/sfiles/logo_teams/f282c42e795dd73f71c543015e7eb114.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"parameter": 1.5,
+				"cf": 1.92,
+				"cfView": "1.92",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(1.5)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-1",
+				"currentPeriodName": "1st period",
+				"scoreOpp1": 0,
+				"scoreOpp2": 1,
+				"timer": {
+					"timeSec": 196,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"zonePlay": 755345257,
+			"updateTs": 1790150698,
+			"id": 755345583,
+			"num": 209247,
+			"mainGameId": 755345583,
+			"constId": 372543898,
+			"startTs": 1790150400,
+			"countryId": 82,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372543898,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 3091474,
+				"name": "World Tennis. Plovdiv. Women"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Tennis"
+			},
+			"opponent1": {
+				"fullName": "Beatrise Zeltina",
+				"countryId": 102,
+				"opps": [{
+					"id": 6676823,
+					"name": "Beatrise Zeltina",
+					"image": "/sfiles/logo_teams/460328930454416caca8267fac983877.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Elena Korokozidi",
+				"countryId": 1,
+				"opps": [{
+					"id": 1918643,
+					"name": "Elena Korokozidi",
+					"image": "/sfiles/logo_teams/4222d3ea4a0bf33b40b797b06fd15d2e.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.87,
+				"cfView": "1.87"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1st set",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755346045,
+			"updateTs": 1790150698,
+			"id": 755346135,
+			"num": 210348,
+			"mainGameId": 755346045,
+			"constId": 372123200,
+			"fullName": "1st set",
+			"startTs": 1790150400,
+			"countryId": 27,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1st set",
+			"mainConstId": 372123180,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1445734796,
+		"expressId": 11315,
+		"cf": 7.208,
+		"cfView": "7.208"
+	}]
+}

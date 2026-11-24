@@ -1,0 +1,599 @@
+
+
+
+{
+	"data": [{
+		"events": [{
+			"liga": {
+				"id": 206233,
+				"name": "Чемпионат России. Первая лига. Женщины"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Футбол"
+			},
+			"opponent1": {
+				"fullName": "Сочи (жен)",
+				"countryId": 1,
+				"opps": [{
+					"id": 8944139,
+					"name": "Сочи (жен)",
+					"image": "/sfiles/logo_teams/01b2883ec80653030e9d6738dd7b20ae.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Строгино (жен)",
+				"countryId": 225,
+				"opps": [{
+					"id": 2766837,
+					"name": "Строгино (жен)",
+					"image": "/sfiles/logo_teams/61c8e99be860d11202a4727debc6bb99.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"parameter": 2,
+				"cf": 1.76,
+				"cfView": "1.76",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(2)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-2",
+				"currentPeriodName": "Перерыв",
+				"scoreOpp1": 0,
+				"scoreOpp2": 2,
+				"timer": {
+					"timeSec": 2700,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150593,
+			"id": 755334745,
+			"num": 236721,
+			"mainGameId": 755334745,
+			"constId": 372546804,
+			"startTs": 1790146800,
+			"countryId": 1,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372546804,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 2087229,
+				"name": "Россия. Лига Про"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Теннис"
+			},
+			"opponent1": {
+				"fullName": "Игорь Крылов",
+				"countryId": 1,
+				"opps": [{
+					"id": 2093675,
+					"name": "Игорь Крылов",
+					"image": "/sfiles/logo_teams/2093675.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Артем Петров",
+				"countryId": 1,
+				"opps": [{
+					"id": 6804325,
+					"name": "Артем Петров",
+					"image": "/sfiles/logo_teams/dc22354cd0008465ed80e1ad16ec5d82.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 3,
+				"cf": 1.72,
+				"cfView": "1.72"
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "2-й сет",
+				"scoreOpp1": 4,
+				"scoreOpp2": 5,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150593,
+			"id": 755338294,
+			"num": 194885,
+			"mainGameId": 755330135,
+			"constId": 372551360,
+			"fullName": "2-й сет",
+			"startTs": 1790145000,
+			"countryId": 1,
+			"gameTypeName": "",
+			"period": 2,
+			"periodName": "2-й сет",
+			"mainConstId": 372540976,
+			"kind": 1
+		}, {
+			"liga": {
+				"image": "/sfiles/logo-champ/05bc2c6ed5eaf747ff173891889841d1.png",
+				"id": 67559,
+				"name": "Товарищеские матчи клубов"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Футбол"
+			},
+			"opponent1": {
+				"fullName": "Тра Би Дао Йойо",
+				"countryId": 43,
+				"opps": [{
+					"id": 10834968,
+					"name": "Тра Би Дао Йойо",
+					"image": "/sfiles/logo_teams/bd2bde10e6dcf6dddff4f27da509f47c.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Ким Таи",
+				"countryId": 43,
+				"opps": [{
+					"id": 10075351,
+					"name": "Ким Таи",
+					"image": "/sfiles/logo_teams/fd1ed27aa6e7f7599d25a92af00680ed.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 3,
+				"cf": 2.01,
+				"cfView": "2.01"
+			},
+			"scores": {
+				"fullScore": "2-2",
+				"currentPeriodName": "1-й тайм",
+				"scoreOpp1": 2,
+				"scoreOpp2": 2,
+				"timer": {
+					"timeSec": 1931,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150595,
+			"id": 755340045,
+			"num": 264338,
+			"mainGameId": 755340045,
+			"constId": 372553580,
+			"startTs": 1790148600,
+			"countryId": 225,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372553580,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1435617901,
+		"expressId": 11315,
+		"cf": 6.693,
+		"cfView": "6.693"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 3092454,
+				"name": "World Tennis. Иньчуань. Пары"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Теннис"
+			},
+			"opponent1": {
+				"fullName": "Агиард/Комагата",
+				"countryId": 225,
+				"opps": [{
+					"id": 8644785,
+					"name": "Агиард",
+					"image": "/sfiles/logo_teams/2ac9e0abf136b385f7e788bd6d4bc213.png"
+				}, {
+					"id": 8687281,
+					"name": "Комагата",
+					"image": "/sfiles/logo_teams/a28453aed04f6b742eba05cca264f29a.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Зенг/Янг",
+				"countryId": 225,
+				"opps": [{
+					"id": 306755,
+					"name": "Зенг",
+					"image": "/sfiles/logo_teams/4372af1a66512167ed539761de704173.png"
+				}, {
+					"id": 53131,
+					"name": "Янг",
+					"image": "/sfiles/logo_teams/d7c378f993fe0be000e60a3e70d80749.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 3,
+				"cf": 1.665,
+				"cfView": "1.665"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1-й сет",
+				"scoreOpp1": 4,
+				"scoreOpp2": 3,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755340564,
+			"updateTs": 1790150595,
+			"id": 755340573,
+			"num": 218966,
+			"mainGameId": 755340564,
+			"constId": 372046450,
+			"fullName": "1-й сет",
+			"startTs": 1790148480,
+			"countryId": 90,
+			"gameTypeName": "",
+			"period": 1,
+			"periodName": "1-й сет",
+			"mainConstId": 372046426,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 2699538,
+				"name": "Турнир Магнитка Оупен"
+			},
+			"sport": {
+				"id": 2,
+				"name": "Хоккей"
+			},
+			"opponent1": {
+				"fullName": "Стальные Топоры",
+				"countryId": 1,
+				"opps": [{
+					"id": 8594445,
+					"name": "Стальные Топоры",
+					"image": "/sfiles/logo_teams/60344686a38ab7445695eddb6ad5ae21.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Свирепые Ежи",
+				"countryId": 1,
+				"opps": [{
+					"id": 8594371,
+					"name": "Свирепые Ежи",
+					"image": "/sfiles/logo_teams/fba6510d0e92b9699d5bc2621e3032e5.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"parameter": -1.5,
+				"cf": 2,
+				"cfView": "2",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(-1.5)"]
+				}
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "1-й период",
+				"scoreOpp1": 1,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 147,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"updateTs": 1790150593,
+			"id": 755343411,
+			"num": 236270,
+			"mainGameId": 755343411,
+			"constId": 372277876,
+			"startTs": 1790150400,
+			"countryId": 1,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372277876,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 330475,
+				"name": "Чемпионат Индии. Бангалор. Супер дивизион"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Футбол"
+			},
+			"opponent1": {
+				"fullName": "Бангалор Дрим Юнайтед",
+				"countryId": 71,
+				"opps": [{
+					"id": 2032293,
+					"name": "Бангалор Дрим Юнайтед",
+					"image": "/sfiles/logo_teams/41cdf8210c5f9f2291be991c579e924d.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Страйд Спортс",
+				"countryId": 71,
+				"opps": [{
+					"id": 8307555,
+					"name": "Страйд Спортс",
+					"image": "/sfiles/logo_teams/da64b71f322ad1e4c6049b024e56a944.png"
+				}]
+			},
+			"event": {
+				"groupId": 3,
+				"type": 7,
+				"cf": 1.925,
+				"cfView": "1.925",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(0)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1-й тайм",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 154,
+					"timeDirection": 0,
+					"timeRun": true
+				}
+			},
+			"zonePlay": 755344444,
+			"updateTs": 1790150593,
+			"id": 755344444,
+			"num": 152075,
+			"mainGameId": 755344444,
+			"constId": 372458806,
+			"startTs": 1790150400,
+			"countryId": 71,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372458806,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1441381635,
+		"expressId": 11315,
+		"cf": 7.051,
+		"cfView": "7.051"
+	}, {
+		"events": [{
+			"liga": {
+				"id": 2760560,
+				"name": "Суперкубок Ганы. Женщины"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Футбол"
+			},
+			"opponent1": {
+				"fullName": "Хасаакас (жен)",
+				"countryId": 48,
+				"opps": [{
+					"id": 5841665,
+					"name": "Хасаакас (жен)",
+					"image": "/sfiles/logo_teams/f7de4f47fa97766affe8856df3b5691f.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Джонина (жен)",
+				"countryId": 48,
+				"opps": [{
+					"id": 9025219,
+					"name": "Джонина (жен)",
+					"image": "/sfiles/logo_teams/5be4c435dadd3bf2debdfb40617d5102.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.552,
+				"cfView": "1.552"
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"nonStarted": true,
+			"zonePlay": 755344681,
+			"updateTs": 1790150591,
+			"id": 755344681,
+			"num": 187605,
+			"mainGameId": 755344681,
+			"constId": 372268406,
+			"startTs": 1790150400,
+			"countryId": 48,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372268406,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"liga": {
+				"id": 3092472,
+				"name": "World Tennis. Констанца. Женщины"
+			},
+			"sport": {
+				"id": 4,
+				"name": "Теннис"
+			},
+			"opponent1": {
+				"fullName": "Эстелла Йегер",
+				"countryId": 53,
+				"opps": [{
+					"id": 1050491,
+					"name": "Эстелла Йегер",
+					"image": "/sfiles/logo_teams/2567352aac5c149d606584689eb901f7.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Карина Елена Габриэла Думитру",
+				"countryId": 152,
+				"opps": [{
+					"id": 10023967,
+					"name": "Карина Елена Габриэла Думитру",
+					"image": "/sfiles/logo_teams/d3b1ac6de00527f95ad7561b22ea50c4.png"
+				}]
+			},
+			"event": {
+				"groupId": 1,
+				"type": 1,
+				"cf": 1.8,
+				"cfView": "1.8"
+			},
+			"scores": {
+				"fullScore": "1-0",
+				"currentPeriodName": "2-й сет",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": -1,
+					"timeRun": false
+				}
+			},
+			"zonePlay": 755334460,
+			"updateTs": 1790150595,
+			"id": 755344723,
+			"num": 274386,
+			"mainGameId": 755334460,
+			"constId": 372346962,
+			"fullName": "2-й сет",
+			"startTs": 1790146800,
+			"countryId": 152,
+			"gameTypeName": "",
+			"period": 2,
+			"periodName": "2-й сет",
+			"mainConstId": 372346948,
+			"kind": 1,
+			"hasHeadToHead": true
+		}, {
+			"liga": {
+				"id": 3092069,
+				"name": "Сенегал. Кубок Севера"
+			},
+			"sport": {
+				"id": 1,
+				"name": "Футбол"
+			},
+			"opponent1": {
+				"fullName": "Эссамейе",
+				"countryId": 165,
+				"opps": [{
+					"id": 9131983,
+					"name": "Эссамейе",
+					"image": "/sfiles/logo_teams/173c721300b70fb942d87c9b2b1c19cf.png"
+				}]
+			},
+			"opponent2": {
+				"fullName": "Диараф",
+				"countryId": 165,
+				"opps": [{
+					"id": 156789,
+					"name": "Диараф",
+					"image": "/sfiles/logo_teams/24644c124e74df893781f051e882ba90.png"
+				}]
+			},
+			"event": {
+				"groupId": 4,
+				"type": 10,
+				"parameter": 3.5,
+				"cf": 1.825,
+				"cfView": "1.825",
+				"isCenter": true,
+				"eventParams": {
+					"params": ["(3.5)"]
+				}
+			},
+			"scores": {
+				"fullScore": "0-0",
+				"currentPeriodName": "1-й тайм",
+				"scoreOpp1": 0,
+				"scoreOpp2": 0,
+				"timer": {
+					"timeSec": 0,
+					"timeDirection": 0,
+					"timeRun": false
+				}
+			},
+			"updateTs": 1790150593,
+			"id": 755345031,
+			"num": 271002,
+			"mainGameId": 755345031,
+			"constId": 372559812,
+			"startTs": 1790150400,
+			"countryId": 165,
+			"gameTypeName": "",
+			"periodName": "",
+			"mainConstId": 372559812,
+			"kind": 1,
+			"subscriptionAvailable": true,
+			"isFavoriteAvailable": true
+		}, {
+			"event": {
+				"type": 707,
+				"cf": 1.1,
+				"cfView": "1.1"
+			},
+			"scores": {},
+			"nonStarted": true,
+			"id": 384962132
+		}],
+		"id": 1445370682,
+		"expressId": 11315,
+		"cf": 5.608,
+		"cfView": "5.608"
+	}]
+}

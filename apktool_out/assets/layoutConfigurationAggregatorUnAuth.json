@@ -1,0 +1,87 @@
+{
+  "layout_blocks": [
+    {
+      "nameType": "top_games",
+      "additionalData": {
+        "limit": 12,
+        "categoryId": 824,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "vertical"
+      },
+      "id": 66,
+      "typeId": 5
+    },
+    {
+      "additionalData": {},
+      "id": 67,
+      "typeId": 11
+    },
+    {
+      "nameType": "tournament_month",
+      "additionalData": {
+        "miniatureType": "vertical"
+      },
+      "id": 68,
+      "typeId": 8
+    },
+    {
+      "additionalData": {
+        "limit": 100,
+        "categoryId": 824,
+        "miniatureType": "vertical"
+      },
+      "id": 69,
+      "typeId": 9
+    },
+    {
+      "additionalData": {},
+      "id": 70,
+      "typeId": 12
+    },
+    {
+      "nameType": "slots_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 1,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "horizontal"
+      },
+      "id": 71,
+      "typeId": 5
+    },
+    {
+      "nameType": "live_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 37,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "horizontal"
+      },
+      "id": 72,
+      "typeId": 5
+    },
+    {
+      "additionalData": {},
+      "id": 73,
+      "typeId": 13
+    },
+    {
+      "nameType": "crash_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 149,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "horizontal"
+      },
+      "id": 74,
+      "typeId": 5
+    }
+  ]
+}

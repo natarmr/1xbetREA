@@ -1,0 +1,14 @@
+{
+  "CalendarEvents": [
+    {
+      "EventType": "NewYear",
+      "DateStart": "2024-12-11",
+      "DateEnd": "2025-01-12"
+    },
+    {
+      "EventType": "Halloween",
+      "DateStart": "2024-10-25",
+      "DateEnd": "2024-11-04"
+    }
+  ]
+}

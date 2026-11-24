@@ -1,0 +1,112 @@
+{
+  "layout_blocks": [
+    {
+      "additionalData": {},
+      "id": 84,
+      "typeId": 14
+    },
+    {
+      "nameType": "daily_tasks",
+      "additionalData": {},
+      "id": 116,
+      "typeId": 17
+    },
+    {
+      "nameType": "recommended",
+      "additionalData": {
+        "limit": 30,
+        "categoryId": 824,
+        "filterType": "and",
+        "isInfinite": true,
+        "miniatureType": "horizontal"
+      },
+      "id": 85,
+      "typeId": 5
+    },
+    {
+      "nameType": "favorites",
+      "additionalData": {
+        "limit": 30,
+        "categoryId": 825,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "horizontal"
+      },
+      "id": 86,
+      "typeId": 5
+    },
+    {
+      "nameType": "user_tournaments",
+      "additionalData": {
+        "miniatureType": "horizontal"
+      },
+      "id": 87,
+      "typeId": 16
+    },
+    {
+      "nameType": "viewed",
+      "additionalData": {
+        "limit": 30,
+        "categoryId": 847,
+        "filterType": "and",
+        "isInfinite": false,
+        "miniatureType": "horizontal"
+      },
+      "id": 88,
+      "typeId": 5
+    },
+    {
+      "additionalData": {
+        "limit": 100,
+        "categoryId": 981,
+        "miniatureType": "vertical"
+      },
+      "id": 89,
+      "typeId": 9
+    },
+    {
+      "nameType": "slots_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 1,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": true,
+        "miniatureType": "horizontal"
+      },
+      "id": 90,
+      "typeId": 5
+    },
+    {
+      "nameType": "live_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 37,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": true,
+        "miniatureType": "horizontal"
+      },
+      "id": 91,
+      "typeId": 5
+    },
+    {
+      "additionalData": {},
+      "id": 92,
+      "typeId": 13
+    },
+    {
+      "nameType": "crash_popular",
+      "additionalData": {
+        "limit": 8,
+        "partId": 149,
+        "categoryId": 17,
+        "filterType": "and",
+        "isInfinite": true,
+        "miniatureType": "horizontal"
+      },
+      "id": 93,
+      "typeId": 5
+    }
+  ]
+}

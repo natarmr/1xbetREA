@@ -1,0 +1,24 @@
+# Personal / sensitive artifacts — intentionally excluded from this repository
+/1xbet.apk
+/FINAL_REPORT.md
+/reports/device_*.png
+
+# Device screenshots
+/_tools/screens*/
+
+# MITM captures and certificates / private keys
+/_tools/cap*.mitm
+/_tools/mitm*.crt
+/_tools/signer_*.der
+/_tools/certs/
+/_tools/newca/
+
+# Tool binaries, archives and extracted SDKs (not part of the evidence set)
+/_tools/*.apk
+/_tools/*.jar
+/_tools/*.zip
+/_tools/bin/
+/_tools/lib/
+/_tools/platform-tools/
+/_tools/pt35/
+/_tools/__pycache__/

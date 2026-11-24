@@ -1,0 +1,20 @@
+{
+  "layout_blocks": [
+    {
+      "nameType": "promotions",
+      "additionalData": {},
+      "id": 104,
+      "typeId": 15
+    },
+    {
+      "additionalData": {},
+      "id": 110,
+      "typeId": 14
+    },
+    {
+      "additionalData": {},
+      "id": 111,
+      "typeId": 6
+    }
+  ]
+}
