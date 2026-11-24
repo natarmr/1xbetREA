@@ -1,0 +1,140 @@
+package a;
+
+import org.xplatform.feature.fin_bet.impl.domain.model.FinBetInfoModel;
+
+/* JADX INFO: loaded from: classes4.dex */
+public final class r6q implements ze3 {
+    public final q6q A;
+    public final dev B;
+    public final pyu C;
+    public final q4u D;
+    public final gst0 E;
+    public final lgn0 F;
+    public final jtj G;
+    public final wyu H;
+    public final rou I;
+    public final x0u J;
+    public final iw20 K;
+    public final onv L;
+    public final r9u M;
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final cad f29946a;
+    public final iip b;
+    public final drm0 c;
+    public final d1p d;
+    public final iw20 e;
+    public final ort f;
+    public final btt0 g;
+    public final knf0 h;
+    public final ii i;
+    public final gii0 j;
+    public final ctf0 k;
+    public final v88 l;
+    public final eqx m;
+    public final rqt n;
+    public final mii0 o;
+    public final ih5 p;
+    public final ih5 q;
+    public final zlt0 r;
+    public final wsf0 s;
+    public final duj t;
+    public final iqt u;
+    public final wdk0 v;
+    public final o2j0 w;
+    public final vqc x;
+    public final m1e y;
+    public final peg0 z;
+
+    public r6q(cad cadVar, iip iipVar, drm0 drm0Var, d1p d1pVar, iw20 iw20Var, uf3 uf3Var, ort ortVar, btt0 btt0Var, knf0 knf0Var, ii iiVar, gii0 gii0Var, ctf0 ctf0Var, v88 v88Var, eqx eqxVar, rqt rqtVar, mii0 mii0Var, ih5 ih5Var, ih5 ih5Var2, zlt0 zlt0Var, wsf0 wsf0Var, duj dujVar, bzu bzuVar, iqt iqtVar, wdk0 wdk0Var, o2j0 o2j0Var, vqc vqcVar, m1e m1eVar, peg0 peg0Var, q6q q6qVar, dev devVar, pyu pyuVar, q4u q4uVar, gst0 gst0Var, lgn0 lgn0Var, jtj jtjVar, wyu wyuVar, lk5 lk5Var, ocl oclVar, rou rouVar, x0u x0uVar, iw20 iw20Var2, onv onvVar, r9u r9uVar) {
+        iipVar.getClass();
+        d1pVar.getClass();
+        btt0Var.getClass();
+        knf0Var.getClass();
+        iiVar.getClass();
+        gii0Var.getClass();
+        ctf0Var.getClass();
+        wdk0Var.getClass();
+        o2j0Var.getClass();
+        m1eVar.getClass();
+        q6qVar.getClass();
+        devVar.getClass();
+        gst0Var.getClass();
+        wyuVar.getClass();
+        r9uVar.getClass();
+        this.f29946a = cadVar;
+        this.b = iipVar;
+        this.c = drm0Var;
+        this.d = d1pVar;
+        this.e = iw20Var;
+        this.f = ortVar;
+        this.g = btt0Var;
+        this.h = knf0Var;
+        this.i = iiVar;
+        this.j = gii0Var;
+        this.k = ctf0Var;
+        this.l = v88Var;
+        this.m = eqxVar;
+        this.n = rqtVar;
+        this.o = mii0Var;
+        this.p = ih5Var;
+        this.q = ih5Var2;
+        this.r = zlt0Var;
+        this.s = wsf0Var;
+        this.t = dujVar;
+        this.u = iqtVar;
+        this.v = wdk0Var;
+        this.w = o2j0Var;
+        this.x = vqcVar;
+        this.y = m1eVar;
+        this.z = peg0Var;
+        this.A = q6qVar;
+        this.B = devVar;
+        this.C = pyuVar;
+        this.D = q4uVar;
+        this.E = gst0Var;
+        this.F = lgn0Var;
+        this.G = jtjVar;
+        this.H = wyuVar;
+        this.I = rouVar;
+        this.J = x0uVar;
+        this.K = iw20Var2;
+        this.L = onvVar;
+        this.M = r9uVar;
+    }
+
+    public final hhi a(i1w0 i1w0Var, FinBetInfoModel finBetInfoModel, String str, ua20 ua20Var) {
+        i1w0Var.getClass();
+        iip iipVar = this.b;
+        iipVar.getClass();
+        o2j0 o2j0Var = this.w;
+        o2j0Var.getClass();
+        d1p d1pVar = this.d;
+        d1pVar.getClass();
+        btt0 btt0Var = this.g;
+        btt0Var.getClass();
+        ctf0 ctf0Var = this.k;
+        ctf0Var.getClass();
+        gii0 gii0Var = this.j;
+        gii0Var.getClass();
+        knf0 knf0Var = this.h;
+        knf0Var.getClass();
+        ii iiVar = this.i;
+        iiVar.getClass();
+        wdk0 wdk0Var = this.v;
+        wdk0Var.getClass();
+        m1e m1eVar = this.y;
+        m1eVar.getClass();
+        q6q q6qVar = this.A;
+        q6qVar.getClass();
+        dev devVar = this.B;
+        devVar.getClass();
+        gst0 gst0Var = this.E;
+        gst0Var.getClass();
+        wyu wyuVar = this.H;
+        wyuVar.getClass();
+        r9u r9uVar = this.M;
+        r9uVar.getClass();
+        return new hhi(this.f29946a, iipVar, this.c, this.s, o2j0Var, this.x, this.z, d1pVar, this.e, this.L, ua20Var, i1w0Var, finBetInfoModel, this.f, btt0Var, ctf0Var, this.l, this.m, this.n, this.o, this.p, this.q, this.r, gii0Var, this.t, knf0Var, iiVar, this.u, wdk0Var, m1eVar, q6qVar, devVar, this.C, this.D, gst0Var, this.F, this.G, wyuVar, this.I, this.J, this.K, r9uVar);
+    }
+}

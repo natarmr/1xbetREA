@@ -1,0 +1,21 @@
+package a;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class py70 extends zje {
+    public /* synthetic */ Object i;
+    public int j;
+    public final /* synthetic */ tst k;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public py70(tst tstVar, yje yjeVar) {
+        super(yjeVar);
+        this.k = tstVar;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.i = obj;
+        this.j |= Integer.MIN_VALUE;
+        return this.k.c(null, this);
+    }
+}

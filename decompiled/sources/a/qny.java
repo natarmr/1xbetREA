@@ -1,0 +1,21 @@
+package a;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class qny extends zje {
+    public /* synthetic */ Object i;
+    public final /* synthetic */ rny j;
+    public int k;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public qny(rny rnyVar, zje zjeVar) {
+        super(zjeVar);
+        this.j = rnyVar;
+    }
+
+    @Override // a.zw5
+    public final Object invokeSuspend(Object obj) {
+        this.i = obj;
+        this.k |= Integer.MIN_VALUE;
+        return this.j.b(null, null, this);
+    }
+}

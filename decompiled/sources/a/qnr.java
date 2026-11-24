@@ -1,0 +1,277 @@
+package a;
+
+import android.gov.nist.core.Separators;
+import java.util.List;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: loaded from: classes5.dex */
+public final class qnr {
+    public final boolean A;
+    public final boolean B;
+    public final boolean C;
+    public final boolean D;
+    public final boolean E;
+    public final boolean F;
+    public final String G;
+    public final String H;
+    public final boolean I;
+    public final boolean J;
+    public final boolean K;
+    public final boolean L;
+    public final fsr M;
+    public final xvm0 N;
+    public final js20 O;
+    public final dja P;
+    public final gna Q;
+    public final anq0 R;
+    public final bg30 S;
+    public final ui9 T;
+    public final List U;
+    public final boolean V;
+    public final boolean W;
+    public final List X;
+    public final boolean Y;
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final long f29044a;
+    public final String b;
+    public final Long c;
+    public final boolean d;
+    public final long e;
+    public final long f;
+    public final Long g;
+    public final Long h;
+    public final t3z i;
+    public final String j;
+    public final boolean k;
+    public final String l;
+    public final String m;
+    public final String n;
+    public final boolean o;
+    public final boolean p;
+    public final boolean q;
+    public final boolean r;
+    public final boolean s;
+    public final boolean t;
+    public final boolean u;
+    public final boolean v;
+    public final vzj0 w;
+    public final boolean x;
+    public final boolean y;
+    public final boolean z;
+
+    public qnr(long j, String str, Long l, boolean z, long j2, long j3, Long l2, Long l3, t3z t3zVar, String str2, boolean z2, String str3, String str4, String str5, boolean z3, boolean z4, boolean z5, boolean z6, boolean z7, boolean z8, boolean z9, boolean z10, vzj0 vzj0Var, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, boolean z18, boolean z19, String str6, String str7, boolean z20, boolean z21, boolean z22, boolean z23, fsr fsrVar, xvm0 xvm0Var, js20 js20Var, dja djaVar, gna gnaVar, anq0 anq0Var, bg30 bg30Var, ui9 ui9Var, List list, boolean z24, boolean z25, List list2, boolean z26) {
+        str2.getClass();
+        list.getClass();
+        list2.getClass();
+        this.f29044a = j;
+        this.b = str;
+        this.c = l;
+        this.d = z;
+        this.e = j2;
+        this.f = j3;
+        this.g = l2;
+        this.h = l3;
+        this.i = t3zVar;
+        this.j = str2;
+        this.k = z2;
+        this.l = str3;
+        this.m = str4;
+        this.n = str5;
+        this.o = z3;
+        this.p = z4;
+        this.q = z5;
+        this.r = z6;
+        this.s = z7;
+        this.t = z8;
+        this.u = z9;
+        this.v = z10;
+        this.w = vzj0Var;
+        this.x = z11;
+        this.y = z12;
+        this.z = z13;
+        this.A = z14;
+        this.B = z15;
+        this.C = z16;
+        this.D = z17;
+        this.E = z18;
+        this.F = z19;
+        this.G = str6;
+        this.H = str7;
+        this.I = z20;
+        this.J = z21;
+        this.K = z22;
+        this.L = z23;
+        this.M = fsrVar;
+        this.N = xvm0Var;
+        this.O = js20Var;
+        this.P = djaVar;
+        this.Q = gnaVar;
+        this.R = anq0Var;
+        this.S = bg30Var;
+        this.T = ui9Var;
+        this.U = list;
+        this.V = z24;
+        this.W = z25;
+        this.X = list2;
+        this.Y = z26;
+    }
+
+    public static qnr a(qnr qnrVar, long j, String str, Long l, boolean z, long j2, long j3, Long l2, t3z t3zVar, String str2, String str3, String str4, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6, boolean z7, boolean z8, boolean z9, vzj0 vzj0Var, boolean z10, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, boolean z18, String str5, String str6, boolean z19, boolean z20, fsr fsrVar, xvm0 xvm0Var, js20 js20Var, dja djaVar, gna gnaVar, anq0 anq0Var, bg30 bg30Var, ui9 ui9Var, List list, boolean z21, List list2, boolean z22, int i, int i2) {
+        long j4 = (i & 1) != 0 ? qnrVar.f29044a : j;
+        String str7 = (i & 2) != 0 ? qnrVar.b : str;
+        Long l3 = (i & 4) != 0 ? qnrVar.c : l;
+        boolean z23 = (i & 8) != 0 ? qnrVar.d : z;
+        long j5 = (i & 16) != 0 ? qnrVar.e : j2;
+        long j6 = (i & 32) != 0 ? qnrVar.f : j3;
+        Long l4 = (i & 64) != 0 ? qnrVar.g : l2;
+        Long l5 = qnrVar.h;
+        t3z t3zVar2 = (i & 256) != 0 ? qnrVar.i : t3zVar;
+        String str8 = qnrVar.j;
+        boolean z24 = qnrVar.k;
+        String str9 = (i & 2048) != 0 ? qnrVar.l : str2;
+        String str10 = (i & 4096) != 0 ? qnrVar.m : str3;
+        String str11 = (i & 8192) != 0 ? qnrVar.n : str4;
+        boolean z25 = (i & 16384) != 0 ? qnrVar.o : z2;
+        boolean z26 = (i & 32768) != 0 ? qnrVar.p : z3;
+        boolean z27 = (65536 & i) != 0 ? qnrVar.q : z4;
+        boolean z28 = (i & 131072) != 0 ? qnrVar.r : z5;
+        boolean z29 = (i & 262144) != 0 ? qnrVar.s : z6;
+        boolean z30 = (524288 & i) != 0 ? qnrVar.t : z7;
+        boolean z31 = (1048576 & i) != 0 ? qnrVar.u : z8;
+        boolean z32 = (2097152 & i) != 0 ? qnrVar.v : z9;
+        vzj0 vzj0Var2 = (4194304 & i) != 0 ? qnrVar.w : vzj0Var;
+        boolean z33 = (8388608 & i) != 0 ? qnrVar.x : z10;
+        boolean z34 = (16777216 & i) != 0 ? qnrVar.y : z11;
+        boolean z35 = (33554432 & i) != 0 ? qnrVar.z : z12;
+        boolean z36 = (67108864 & i) != 0 ? qnrVar.A : z13;
+        boolean z37 = (134217728 & i) != 0 ? qnrVar.B : z14;
+        boolean z38 = (268435456 & i) != 0 ? qnrVar.C : z15;
+        boolean z39 = (536870912 & i) != 0 ? qnrVar.D : z16;
+        boolean z40 = (1073741824 & i) != 0 ? qnrVar.E : z17;
+        boolean z41 = (i & Integer.MIN_VALUE) != 0 ? qnrVar.F : z18;
+        String str12 = (i2 & 1) != 0 ? qnrVar.G : str5;
+        String str13 = (i2 & 2) != 0 ? qnrVar.H : str6;
+        boolean z42 = (i2 & 4) != 0 ? qnrVar.I : false;
+        boolean z43 = (i2 & 8) != 0 ? qnrVar.J : z19;
+        boolean z44 = (i2 & 16) != 0 ? qnrVar.K : z20;
+        boolean z45 = (i2 & 32) != 0 ? qnrVar.L : false;
+        fsr fsrVar2 = (i2 & 64) != 0 ? qnrVar.M : fsrVar;
+        xvm0 xvm0Var2 = (i2 & 128) != 0 ? qnrVar.N : xvm0Var;
+        js20 js20Var2 = (i2 & 256) != 0 ? qnrVar.O : js20Var;
+        dja djaVar2 = (i2 & 512) != 0 ? qnrVar.P : djaVar;
+        gna gnaVar2 = (i2 & 1024) != 0 ? qnrVar.Q : gnaVar;
+        anq0 anq0Var2 = (i2 & 2048) != 0 ? qnrVar.R : anq0Var;
+        bg30 bg30Var2 = (i2 & 4096) != 0 ? qnrVar.S : bg30Var;
+        ui9 ui9Var2 = (i2 & 8192) != 0 ? qnrVar.T : ui9Var;
+        List list3 = (i2 & 16384) != 0 ? qnrVar.U : list;
+        boolean z46 = (i2 & 32768) != 0 ? qnrVar.V : z21;
+        boolean z47 = qnrVar.W;
+        List list4 = (i2 & 131072) != 0 ? qnrVar.X : list2;
+        boolean z48 = (i2 & 262144) != 0 ? qnrVar.Y : z22;
+        qnrVar.getClass();
+        str7.getClass();
+        str8.getClass();
+        str9.getClass();
+        str10.getClass();
+        str11.getClass();
+        str13.getClass();
+        list3.getClass();
+        list4.getClass();
+        return new qnr(j4, str7, l3, z23, j5, j6, l4, l5, t3zVar2, str8, z24, str9, str10, str11, z25, z26, z27, z28, z29, z30, z31, z32, vzj0Var2, z33, z34, z35, z36, z37, z38, z39, z40, z41, str12, str13, z42, z43, z44, z45, fsrVar2, xvm0Var2, js20Var2, djaVar2, gnaVar2, anq0Var2, bg30Var2, ui9Var2, list3, z46, z47, list4, z48);
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof qnr)) {
+            return false;
+        }
+        qnr qnrVar = (qnr) obj;
+        return this.f29044a == qnrVar.f29044a && this.b.equals(qnrVar.b) && Intrinsics.d(this.c, qnrVar.c) && this.d == qnrVar.d && this.e == qnrVar.e && this.f == qnrVar.f && Intrinsics.d(this.g, qnrVar.g) && this.h.equals(qnrVar.h) && this.i == qnrVar.i && Intrinsics.d(this.j, qnrVar.j) && this.k == qnrVar.k && this.l.equals(qnrVar.l) && this.m.equals(qnrVar.m) && this.n.equals(qnrVar.n) && this.o == qnrVar.o && this.p == qnrVar.p && this.q == qnrVar.q && this.r == qnrVar.r && this.s == qnrVar.s && this.t == qnrVar.t && this.u == qnrVar.u && this.v == qnrVar.v && Intrinsics.d(this.w, qnrVar.w) && this.x == qnrVar.x && this.y == qnrVar.y && this.z == qnrVar.z && this.A == qnrVar.A && this.B == qnrVar.B && this.C == qnrVar.C && this.D == qnrVar.D && this.E == qnrVar.E && this.F == qnrVar.F && this.G.equals(qnrVar.G) && this.H.equals(qnrVar.H) && this.I == qnrVar.I && this.J == qnrVar.J && this.K == qnrVar.K && this.L == qnrVar.L && Intrinsics.d(this.M, qnrVar.M) && Intrinsics.d(this.N, qnrVar.N) && Intrinsics.d(this.O, qnrVar.O) && this.P == qnrVar.P && Intrinsics.d(this.Q, qnrVar.Q) && Intrinsics.d(this.R, qnrVar.R) && Intrinsics.d(this.S, qnrVar.S) && Intrinsics.d(this.T, qnrVar.T) && Intrinsics.d(this.U, qnrVar.U) && this.V == qnrVar.V && this.W == qnrVar.W && Intrinsics.d(this.X, qnrVar.X) && this.Y == qnrVar.Y;
+    }
+
+    public final int hashCode() {
+        int iB = ua80.b(Long.hashCode(this.f29044a) * 31, 31, this.b);
+        Long l = this.c;
+        int iB2 = rw2.b(rw2.b(brm0.e((iB + (l == null ? 0 : l.hashCode())) * 31, 31, this.d), 31, this.e), 31, this.f);
+        Long l2 = this.g;
+        int iE = brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(ua80.b(ua80.b(ua80.b(brm0.e(ua80.b((this.i.hashCode() + ((this.h.hashCode() + ((iB2 + (l2 == null ? 0 : l2.hashCode())) * 31)) * 31)) * 31, 31, this.j), 31, this.k), 31, this.l), 31, this.m), 31, this.n), 31, this.o), 31, this.p), 31, this.q), 31, this.r), 31, this.s), 31, this.t), 31, this.u), 31, this.v);
+        vzj0 vzj0Var = this.w;
+        int iE2 = brm0.e(brm0.e(brm0.e(brm0.e(ua80.b(ua80.b(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e(brm0.e((iE + (vzj0Var == null ? 0 : vzj0Var.hashCode())) * 31, 31, this.x), 31, this.y), 31, this.z), 31, this.A), 31, this.B), 31, this.C), 31, this.D), 31, this.E), 31, this.F), 31, this.G), 31, this.H), 31, this.I), 31, this.J), 31, this.K), 31, this.L);
+        fsr fsrVar = this.M;
+        int iHashCode = (iE2 + (fsrVar == null ? 0 : fsrVar.hashCode())) * 31;
+        xvm0 xvm0Var = this.N;
+        int iHashCode2 = (iHashCode + (xvm0Var == null ? 0 : xvm0Var.hashCode())) * 31;
+        js20 js20Var = this.O;
+        int iHashCode3 = (iHashCode2 + (js20Var == null ? 0 : js20Var.hashCode())) * 31;
+        dja djaVar = this.P;
+        int iHashCode4 = (iHashCode3 + (djaVar == null ? 0 : djaVar.hashCode())) * 31;
+        gna gnaVar = this.Q;
+        int iHashCode5 = (iHashCode4 + (gnaVar == null ? 0 : gnaVar.hashCode())) * 31;
+        anq0 anq0Var = this.R;
+        int iHashCode6 = (iHashCode5 + (anq0Var == null ? 0 : anq0Var.hashCode())) * 31;
+        bg30 bg30Var = this.S;
+        int iHashCode7 = (iHashCode6 + (bg30Var == null ? 0 : bg30Var.hashCode())) * 31;
+        ui9 ui9Var = this.T;
+        return Boolean.hashCode(this.Y) + dw9.a(brm0.e(brm0.e(dw9.a((iHashCode7 + (ui9Var != null ? ui9Var.hashCode() : 0)) * 31, 31, this.U), 31, this.V), 31, this.W), 31, this.X);
+    }
+
+    public final String toString() {
+        StringBuilder sbO = axq.o(this.f29044a, "GameAdvancedStateModel(gameId=", ", statGameId=", this.b);
+        sbO.append(", constId=");
+        sbO.append(this.c);
+        sbO.append(", live=");
+        sbO.append(this.d);
+        kng0.A(sbO, ", sportId=", this.e, ", subGameId=");
+        sbO.append(this.f);
+        sbO.append(", categoryId=");
+        sbO.append(this.g);
+        sbO.append(", champId=");
+        sbO.append(this.h);
+        sbO.append(", gameConditionType=");
+        sbO.append(this.i);
+        w6x.z(", componentKey=", this.j, ", isBettingDisabled=", sbO, this.k);
+        f140.v(sbO, ", sportName=", this.l, ", champName=", this.m);
+        w6x.z(", extraInfo=", this.n, ", quickBetEnabled=", sbO, this.o);
+        w6x.A(", toolbarButtonsEnabled=", ", hasMarketsGraph=", sbO, this.p, this.q);
+        w6x.A(", marketsAvailable=", ", statisticAvailable=", sbO, this.r, this.s);
+        w6x.A(", settingAvailable=", ", duelAvailable=", sbO, this.t, this.u);
+        sbO.append(", subscriptionAvailable=");
+        sbO.append(this.v);
+        sbO.append(", simulation=");
+        sbO.append(this.w);
+        w6x.A(", isVideoServiceRun=", ", isZoneServiceRun=", sbO, this.x, this.y);
+        w6x.A(", needPlayBroadcast=", ", needPlayZone=", sbO, this.z, this.A);
+        w6x.A(", returnToBroadcast=", ", returnToZone=", sbO, this.B, this.C);
+        w6x.A(", expandAvailable=", ", betsOnPlayersAvailable=", sbO, this.D, this.E);
+        hne.u(", isNightModeEnable=", ", specialEventBackgroundUrl=", this.G, sbO, this.F);
+        w6x.z(", individualBackgroundUrl=", this.H, ", isLoading=", sbO, this.I);
+        w6x.A(", showSubGames=", ", transferContinue=", sbO, this.J, this.K);
+        sbO.append(", transferFailed=");
+        sbO.append(this.L);
+        sbO.append(", gameBroadcastModel=");
+        sbO.append(this.M);
+        sbO.append(", currentSubGameModel=");
+        sbO.append(this.N);
+        sbO.append(", currentMarketCategoryModel=");
+        sbO.append(this.O);
+        sbO.append(", currentGameInfoCardType=");
+        sbO.append(this.P);
+        sbO.append(", cardSectionModel=");
+        sbO.append(this.Q);
+        sbO.append(", timerModel=");
+        sbO.append(this.R);
+        sbO.append(", matchCacheScoreModel=");
+        sbO.append(this.S);
+        sbO.append(", cachePenaltyModel=");
+        sbO.append(this.T);
+        sbO.append(", favoriteTeamModelList=");
+        sbO.append(this.U);
+        w6x.A(", isCardsSectionExpanded=", ", rtlSupport=", sbO, this.V, this.W);
+        esw0.k(sbO, ", cardsOrder=", this.X, ", isBetBuilderModeEnabled=", this.Y);
+        sbO.append(Separators.RPAREN);
+        return sbO.toString();
+    }
+}
